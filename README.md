@@ -7,9 +7,10 @@ Custom firmware was written for the ATU.
  
 Battery and charger is based on my previous work:
 https://github.com/AC8L/PSU-for-uSDX-SOTA
- 
-Which in turn, is also based on Barb's original design:
+ Which in turn, is also based on Barb's original design:
 https://antrak.org.tr/blog/usdx-sdr-ssb-sota-transceiver-battery-pack/
 
+
+I am releasing PCB fabrication files and code under open source license.
 
 Instructions TBD
