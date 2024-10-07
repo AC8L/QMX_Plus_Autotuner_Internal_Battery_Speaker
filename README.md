@@ -36,3 +36,7 @@ I am releasing PCB fabrication files and code under open source license.
 
 
 Detailed Build Instructions TBD in-progress
+
+# Some work to be done:
+- Test ATU and battery charger implications into the QMX+ performance in the context of the parasitic interference
+- The speaker and amplifier was a last moment addition with a brief breadbord prototyping. Schematics will definitely benefit from fine tuning.
