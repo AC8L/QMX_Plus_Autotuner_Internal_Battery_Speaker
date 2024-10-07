@@ -17,7 +17,7 @@ I am releasing PCB fabrication files and code under open source license.
 1. Build QMX+
 2. Build ATU
 3. Upload ATU custom firmware to PIC16F1938 and plug it to ATU board
-4. Build QMX+ ATU Mount Board (insall ATU to the board and QMX+ connectors)
+4. Build QMX+ ATU Mount Board (install the ATU itself and QMX+ connectors to the Mount board)
 5. Build QMX+ ATU Companion Board. Keep power (battery) switch on the OFF position until the last moment before closing the enclosure top!
 6. Upload companion board formware into ATMEGA328P chip. Use Ardiuno UNO board for that.
 7. Install ATMEGA328P chip into the companion board
