@@ -13,7 +13,7 @@ https://antrak.org.tr/blog/usdx-sdr-ssb-sota-transceiver-battery-pack/
 
 I am releasing PCB fabrication files and code under open source license.
 
-# Build steps at glance
+# Build steps at a glance
 1. Build QMX+ with following mods:
    - Do not solther the jumper wire on JP501 as instructed on Rev2.00 build document's page 37! The ATU will play the role of that jumper wire.
    - Make sure to solder-in the 2-row 5-pin female connector into JP501.
