@@ -14,7 +14,12 @@ https://antrak.org.tr/blog/usdx-sdr-ssb-sota-transceiver-battery-pack/
 I am releasing PCB fabrication files and code under open source license.
 
 # Build steps at glance
-1. Build QMX+
+1. Build QMX+ with following mods:
+   - Do not solther the jumper wire on JP501 as instructed on Rev2.00 build document's page 37! The ATU will play the role of that jumper wire.
+   - Make sure to solder-in the 2-row 5-pin female connector into JP501.
+   - Plug in a temporary jumper wire (breadboard prototypig wire is a good choice) into the female connector at JP501 at pins corresponding to a solderred jumper wire in the instruction document's page 37.
+   - Thoroghly calibrate and test the QMX+ build according to the assembly manual. Making a couple of QSO's is a good idea.
+   - Remove temporary jumper wire.    
 2. Build ATU
 3. Upload ATU custom firmware to PIC16F1938 and plug it to ATU board
 4. Build QMX+ ATU Mount Board (install the ATU itself and QMX+ connectors to the Mount board)
