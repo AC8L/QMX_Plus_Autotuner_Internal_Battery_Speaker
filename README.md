@@ -23,7 +23,7 @@ I am releasing PCB fabrication files and code under open source license.
 7. Install ATMEGA328P chip into the companion board
 8. Install ATU mount board with ATU into the QMX+ board.
 9. Insert 18650 batteries and install ATU Companion board on top of the ATU monut board. Make sure battery power switch is still on OFF position!
-10. Insert QMX+ assembly with companion boards into its enclosure, screw in fron and back panels of the enclosure.
+10. Insert QMX+ assembly with companion boards into its enclosure, screw-in front and back panels of the enclosure.
 11. Switch ATU companion board's battery switch to the ON position.
 12. Carefully insert and srew in QMX+ enclosure's top. 
 
