@@ -34,7 +34,20 @@ I am releasing PCB fabrication files and code under open source license.
 11. Switch ATU companion board's battery switch to the ON position.
 12. Carefully insert and screw-in QMX+ enclosure's top. 
 
-
+# BOM (currenly writing this section, wait until I remove this warning!)
+## QMX+
+ - Various female pin Connectors TBD
+## ATU
+ - See https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/
+ - Do not source and solther two BNC connectors.
+ - Do not source and solther male pin connectors to the ATU board. We will use different ones for our integration. 
+ - Assortment of male pin connectors TBD
+## ATU Mounting PCB
+  - Connectors TBD
+## Companion PCB
+ - ATMEGA328P
+ - TBD...
+ 
 Detailed Build Instructions TBD in-progress
 
 # Some work to be done:
