@@ -51,10 +51,11 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
 ## ATU Mounting PCB
   - Connectors TBD
 ## Companion PCB
- - ATMEGA328P-PU (Digikey part ATMEGA328P-PU-ND)
+ - 1xATMEGA328P-PU (Digikey part ATMEGA328P-PU-ND)
    - For Digikey part you will have to burn the Arduino bootloader. Instructions: https://www.youtube.com/watch?v=AwbcOT2z69k
    - If you want to source the ATMEGA with bootloader burned: https://a.co/d/9rrcNaf
- - LM386N-4 Operational amplifier (Digikey part 296-43960-5-ND)
+ - 1xLM386N-4 Operational amplifier (Digikey part 296-43960-5-ND)
+ - 1x7.5K THT resistor (Digikey part MFR-25FRF52-7K5)
  - TBD...
  
 Detailed Build Instructions TBD in-progress
