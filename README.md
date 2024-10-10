@@ -44,6 +44,13 @@ I personally have a habit ordering PCB's from JLCPCB (again, I am not associated
 2. ATU Mount PCB - from this repo
 3. QMX+ Companion PCB - from this repo
 
+# Group build manager 
+Usually in group builds it is the responsibility of a group build manager to:
+1. Order PCB's.
+2. Assemble kit bags.
+3. Burn Arduino bootloader and load the sketch from this repo into it.
+4. Upload the ATU formware from this repo into the PIC16F1938 microcontroller.
+
 # Build configurations
 There are various build configurations posssible:
 1. All inclusive - ATU, battery, speaker.
