@@ -11,7 +11,7 @@ https://github.com/AC8L/PSU-for-uSDX-SOTA
 https://antrak.org.tr/blog/usdx-sdr-ssb-sota-transceiver-battery-pack/
 
 
-I am releasing PCB fabrication files and code under open source license. Feel free to you materials in any way you think suitable.
+I am releasing PCB fabrication files and code under open source license. Feel free to use materials in any way you think suitable.
 
 Because of minimum batch of 5 for the PCB order plus shipment, project is very well suited for the group build. If anyone wants to make money out of it - you have my blessings and prayers for the success!
 
