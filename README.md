@@ -105,6 +105,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - 1x8Pos DIP Socket for U3 (Digikey part A120347-ND)
  - SW1: PCB Mount Slide Switch THT: https://a.co/d/ghhbBuE
  - JP106: 1x6 2.54mm Male Pin Female Socket Long needle stackable header: https://a.co/d/21eQjdI
+   - For JP106 we need actually 3-pin connector. However I could not source one with long needles. So, I just cut 3 pins. Leaving the plastic though intact!
  - JP102:
  - J1: 1x10 pin 2.54mm Male pin Header Connector Extra Tall: https://a.co/d/2l7o6wW
    - These are sold in a bulk, you will have to cut 1x10 out of it. Do not worry, we use some for the ATU Mount PCB as well.
