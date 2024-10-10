@@ -52,7 +52,7 @@ Usually in group builds it is the responsibility of a group build manager to:
 4. Upload the ATU firmware from this repo into the PIC16F1938 microcontroller.
 
 # Build configurations
-There are various build configurations posssible:
+There are various build configurations possible:
 1. All inclusive - ATU, battery, speaker.
 2. ATU only
 3. Battery only
