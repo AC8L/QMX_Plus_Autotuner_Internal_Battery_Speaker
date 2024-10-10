@@ -46,16 +46,17 @@ I personally have a habit ordering PCB's from JLCPCB (again, I am not associated
 
 # Build configurations
 There are various build configurations posssible:
-a. All inclusive - ATU, battery, speaker.
-b. ATU only
-c. Battery only
-d. Speaker only
-e. ATU and battery
-f. ATU and speaker
-g. Battery and speaker
-- For all configurations you still will have to order both PCB's from this repositiry.
-- For configurations (c),(d) and (g) - you do not need to order the ATU.
+1. All inclusive - ATU, battery, speaker.
+2. ATU only
+3. Battery only
+4. Speaker only
+5. ATU and battery
+6. ATU and speaker
+7. Battery and speaker
+- For all configurations you still will have to order both PCB's from this repositiry. Even some portions will be left unpopulated - PCB's are mechanically and electrically interdependent on each other.  
+- For configurations (3),(4) and (7) - you do not need to order the ATU.
 - For any non-complete configuration you can gradually add other components later on.
+- Barb (WB2CBA) has detailed instructions on the ordering process at the ATU link above. It will be difficuilt to add anything else to his writing.
 
 # BOM (currenly writing this section, wait until I remove this warning!)
 Discalimer: I am not associated with any supplier and do not receive any monetary or other benefit from referring to their products!
