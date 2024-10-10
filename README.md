@@ -39,8 +39,8 @@ I cand do a limited support and further development only on best effort basis.
 12. Carefully insert and screw-in QMX+ enclosure's top. 
 
 # BOM (currenly writing this section, wait until I remove this warning!)
-Discalimer: I am not associated with any supplier and do not receiver any monetary or other benefit from referring to their products!
-I am using USA suppliers, other regions have better suppliers for BOM sourcing
+Discalimer: I am not associated with any supplier and do not receive any monetary or other benefit from referring to their products!
+I am using USA suppliers, other regions have better suppliers for BOM sourcing.
 ## QMX+
  - Various female pin Connectors TBD
 ## ATU
