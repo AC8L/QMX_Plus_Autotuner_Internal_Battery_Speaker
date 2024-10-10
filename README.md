@@ -103,7 +103,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - 1x28Pos DIP Socket for U1 (Digikey part A120353-ND). If you bought ATMEGA from Amazon with socket included - you do not need this.
  - 1x14Pos DIP Socket for U2 (Digikey part AE9989-ND)
  - 1x8Pos DIP Socket for U3 (Digikey part A120347-ND)
- - SW1: PCB Mount Switch
+ - SW1: PCB Mount Slide Switch THT: https://a.co/d/ghhbBuE
  - LS1: Speaker 2W 8Ohm 36mm: https://a.co/d/bCwJI5i
  - TBD...
  
