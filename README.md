@@ -43,6 +43,8 @@ I personally have a habit ordering PCB's from JLCPCB (again, I am not associated
 1. ATU (see link above to download fabrication files)
 2. ATU Mount PCB - from this repo
 3. QMX+ Companion PCB - from this repo
+
+# Build configurations
 There are various build configurations posssible:
 a. All inclusive - ATU, battery, speaker.
 b. ATU only
