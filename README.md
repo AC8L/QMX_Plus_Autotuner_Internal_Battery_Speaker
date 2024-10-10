@@ -49,7 +49,7 @@ Usually in group builds it is the responsibility of a group build manager to:
 1. Order PCB's.
 2. Assemble kit bags.
 3. Burn Arduino bootloader and load the sketch from this repo into it.
-4. Upload the ATU formware from this repo into the PIC16F1938 microcontroller.
+4. Upload the ATU firmware from this repo into the PIC16F1938 microcontroller.
 
 # Build configurations
 There are various build configurations posssible:
