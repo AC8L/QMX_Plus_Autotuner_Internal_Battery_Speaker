@@ -56,7 +56,13 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - If you want to source the ATMEGA with bootloader burned: https://a.co/d/9rrcNaf
  - U2: CD4066BE bilateral switch (Digikey Part 296-2061-5-ND)
  - U3: LM386N-4 Operational amplifier (Digikey part 296-43960-5-ND)
+ - R1,R2: 1K THT Resistor (Digikey part )
+ - R3: 10K THT Resistor (Digikey part )
  - R4: 7.5K THT resistor (Digikey part MFR-25FRF52-7K5)
+ - R5: 10 Ohm THT resistor (Digikey part )
+ - 1x28Pos DIP Socket for U1 (Digikey Part A120353-ND). If you bought ATMEGA from Amazon with socket included - you do not need this.
+ - 1x14Pos DIP Socket for U2 (Digikey part AE9989-ND)
+ - 1x8Pos DIP Socket for U3 (Digikey part A120347-ND)
  - TBD...
  
 Detailed Build Instructions TBD in-progress
