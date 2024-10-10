@@ -83,6 +83,8 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - If you want to source the ATMEGA with bootloader burned: https://a.co/d/9rrcNaf
  - U2: CD4066BE bilateral switch (Digikey Part 296-2061-5-ND)
  - U3: LM386N-4 Operational amplifier (Digikey part 296-43960-5-ND)
+ - U4 - 18650 battery holder (model 1, THT): https://a.co/d/hhQG5n8 
+ - U5, U7 - 18650 battery holder (model 2, SMD): https://a.co/d/4vdH2PG
  - U8: 1xBMS battery charger/protection board https://a.co/d/gX6wQ45
    - Sometimes one vendor is unavailable, other comes in. But these parts are generally are always available. Make sure to source 3S 40A 12.6V model!
  - R1,R2: 1K THT Resistor (Digikey part 13-MFR-25FRF52-1KCT-ND)
