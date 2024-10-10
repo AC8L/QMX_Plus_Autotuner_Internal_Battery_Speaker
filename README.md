@@ -15,7 +15,7 @@ I am releasing PCB fabrication files and code under open source license. Feel fr
 
 Because of minimum batch of 5 for the PCB order plus shipment, project is very well suited for the group build. If anyone wants to make money out of it - you have my blessings and prayers for the success!
 
-I cand do a limited support and further development only on best effort basis.
+I can only do a limited support and further development on best effort basis.
 
 # Build steps at a glance
 1. Build QMX+ with following mods:
