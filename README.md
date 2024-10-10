@@ -39,6 +39,8 @@ I cand do a limited support and further development only on best effort basis.
 12. Carefully insert and screw-in QMX+ enclosure's top. 
 
 # BOM (currenly writing this section, wait until I remove this warning!)
+Discalimer: I am not associated with any supplier and do not receiver any monetary or other benefit from referring to their products!
+I am using USA suppliers, other regions have better suppliers for BOM sourcing
 ## QMX+
  - Various female pin Connectors TBD
 ## ATU
@@ -49,7 +51,10 @@ I cand do a limited support and further development only on best effort basis.
 ## ATU Mounting PCB
   - Connectors TBD
 ## Companion PCB
- - ATMEGA328P
+ - ATMEGA328P-PU (Digikey part ATMEGA328P-PU-ND)
+   - For this one you will have to burn the Arduino bootloader: https://www.youtube.com/watch?v=AwbcOT2z69k
+   - If you want to source the ATMEGA with bootloader burned: https://a.co/d/9rrcNaf
+ - LM386N-4 Operational amplifier (Digikey part 296-43960-5-ND)
  - TBD...
  
 Detailed Build Instructions TBD in-progress
