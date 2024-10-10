@@ -36,7 +36,24 @@ I cand do a limited support and further development only on best effort basis.
 9. Insert 18650 batteries and install ATU Companion board on top of the ATU mounting board. Make sure battery power switch is still on OFF position!
 10. Insert QMX+ assembly with companion boards into its enclosure, screw-in front and back panels of the enclosure.
 11. Switch ATU companion board's battery switch to the ON position.
-12. Carefully insert and screw-in QMX+ enclosure's top. 
+12. Carefully insert and screw-in QMX+ enclosure's top.
+
+# Ordering PCB's
+I personally have a habit ordering PCB's from JLCPCB (again, I am not associated with them!). For the convenience, all 3 PCB's can be ordered in one order.
+1. ATU (see link above to download fabrication files)
+2. ATU Mount PCB - from this repo
+3. QMX+ Companion PCB - from this repo
+There are various build configurations posssible:
+a. All inclusive - ATU, battery, speaker.
+b. ATU only
+c. Battery only
+d. Speaker only
+e. ATU and battery
+f. ATU and speaker
+g. Battery and speaker
+- For all configurations you still will have to order both PCB's from this repositiry.
+- For configurations (c),(d) and (g) - you do not need to order the ATU.
+- For any non-complete configuration you can gradually add other components later on.
 
 # BOM (currenly writing this section, wait until I remove this warning!)
 Discalimer: I am not associated with any supplier and do not receive any monetary or other benefit from referring to their products!
