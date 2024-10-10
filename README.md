@@ -60,7 +60,7 @@ There are various build configurations posssible:
 5. ATU and battery
 6. ATU and speaker
 7. Battery and speaker
-- For all configurations you still will have to order both PCB's from this repositiry. Even some portions will be left unpopulated - PCB's are mechanically and electrically interdependent on each other.  
+- For all configurations you still will have to order both PCB's from this repositiry. Even if some portions will be left unpopulated - PCB's are mechanically and electrically interdependent on each other.  
 - For configurations (3),(4) and (7) - you do not need to order the ATU.
 - For any non-complete configuration you can gradually add other components later on.
 - Barb (WB2CBA) has detailed instructions on the ordering process at the ATU link above. It will be difficuilt to add anything else to his writing.
