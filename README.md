@@ -104,8 +104,11 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - 1x14Pos DIP Socket for U2 (Digikey part AE9989-ND)
  - 1x8Pos DIP Socket for U3 (Digikey part A120347-ND)
  - SW1: PCB Mount Slide Switch THT: https://a.co/d/ghhbBuE
+ - JP106: 2.54mm Male Pin
+ - JP102:
+ - J1: 1x10 pin 2.54mm Male pin Header Connector Extra Tall: https://a.co/d/2l7o6wW
+   - These are sold in a bulk, you will have to cut 1x10 out of it. Do not worry, we use some for the ATU Mount PCB as well.
  - LS1: Speaker 2W 8Ohm 36mm: https://a.co/d/bCwJI5i
- - TBD...
  
 Detailed Build Instructions TBD in-progress
 
