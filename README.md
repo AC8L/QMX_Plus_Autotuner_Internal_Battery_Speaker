@@ -81,17 +81,21 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - U1: ATMEGA328P-PU (Digikey part ATMEGA328P-PU-ND)
    - For Digikey part you will have to burn the Arduino bootloader. Instructions: https://www.youtube.com/watch?v=AwbcOT2z69k
    - If you want to source the ATMEGA with bootloader burned: https://a.co/d/9rrcNaf
- - U2: CD4066BE bilateral switch (Digikey Part 296-2061-5-ND)
+ - Y1: 16Mhz Crystal (Digikey part 3155-16M20P2/49US-ND)
+ - U2: CD4066BE bilateral switch (Digikey part 296-2061-5-ND)
  - U3: LM386N-4 Operational amplifier (Digikey part 296-43960-5-ND)
  - U4 - 18650 battery holder (model 1, THT): https://a.co/d/hhQG5n8 
  - U5, U7 - 18650 battery holder (model 2, SMD): https://a.co/d/4vdH2PG
  - U8: 1xBMS battery charger/protection board https://a.co/d/gX6wQ45
    - Sometimes one vendor is unavailable, other comes in. But these parts are generally are always available. Make sure to source 3S 40A 12.6V model!
+ - 3x18650 
  - R1,R2: 1K THT Resistor (Digikey part 13-MFR-25FRF52-1KCT-ND)
  - R3: 10K THT Resistor (Digikey part 13-MFR-25FRF52-10KCT-ND)
  - R4: 7.5K THT resistor (Digikey part MFR-25FRF52-7K5)
  - R5: 10 Ohm THT resistor (Digikey part 10.0XBK-ND)
- - 1x28Pos DIP Socket for U1 (Digikey Part A120353-ND). If you bought ATMEGA from Amazon with socket included - you do not need this.
+ - C1,C2: 22pF ceramic capacitor (Digikey part BC1055TR-ND) 
+ - C4: 47pF ceramic capacitor (Digikey part BC1009TR-ND) 
+ - 1x28Pos DIP Socket for U1 (Digikey part A120353-ND). If you bought ATMEGA from Amazon with socket included - you do not need this.
  - 1x14Pos DIP Socket for U2 (Digikey part AE9989-ND)
  - 1x8Pos DIP Socket for U3 (Digikey part A120347-ND)
  - TBD...
