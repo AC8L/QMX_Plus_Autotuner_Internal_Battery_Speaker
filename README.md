@@ -107,7 +107,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - JP106: 1x6 6pin 2.54mm Male Pin Female Socket Long needle stackable header: https://a.co/d/21eQjdI
    - For JP106 we need actually 3-pin connector. However I could not source one with long needles. So, I just cut 3 pins. Leaving the plastic though intact!
  - JP102: 2x3 6pin 2.54mm connector, long needles: https://a.co/d/4Ca8vJi
-   - For JP102 we need 2x2 female. But again, I could not source the none with long needes. So, I just cut two side needles leaving plastic part intact.  
+   - For JP102 we need 2x2 female connector. But again, I could not source one with long needes. So, I just cut two side needles leaving plastic part intact.  
  - J1: 1x10 pin 2.54mm Male pin Header Connector Extra Tall: https://a.co/d/2l7o6wW
    - These are sold in a bulk, you will have to cut 1x10 out of it. Do not worry, we use some for the ATU Mount PCB as well.
  - LS1: Speaker 2W 8Ohm 36mm: https://a.co/d/bCwJI5i
