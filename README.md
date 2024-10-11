@@ -76,10 +76,15 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - 3xM3 Nylon Hex Standoff spacer female-female, 11mm: https://a.co/d/94ycTzV
  - 2xM3 Nylon Hex Standoff spacer female-female, 15mm - from kit: https://a.co/d/bzrrWku  
  - 1xM3 Nylon Hex Standoff spacer male-female, 15mm - from kit:  https://a.co/d/bzrrWku
+ - one of 2x2 4-pin double row female connector: https://a.co/d/acgPCxS
+ - one of 2x5 10-pin double row female connector: https://a.co/d/iHggplQ
+ - one of 1x4 4-pin single row female connector: https://a.co/d/03AtQEI
+ - one of 1x3 3-pin single row female connector: https://a.co/d/5E9IhZu
+   - just cut 3-pin module from the strip.
  - Various female pin Connectors TBD
 ## ATU
  - See https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/
- - Do not source and solther two BNC connectors.
+ - Do not source and solther two BNC connectors
  - Do not source and solther male pin connectors to the ATU board. We will use different ones for our integration. 
  - Assortment of male pin connectors TBD
 ## ATU Mounting PCB
