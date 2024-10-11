@@ -69,6 +69,13 @@ There are various build configurations possible:
 Discalimer: I am not associated with any supplier and do not receive any monetary or other benefit from referring to their products!
 I am using USA suppliers, other regions have better suppliers for BOM sourcing.
 ## QMX+
+ - 7xM3 Nylon screw, 6mm: http://shop.qrp-labs.com/SPAREPARTS/sparepartsqmx/hscrewm3p6
+   - or from kit: https://a.co/d/bzrrWku
+ - 1xM3 Nylon screw, 12mm: https://a.co/d/bzrrWku
+ - 5xM3 Nylon Hex nut - from kit: https://a.co/d/bzrrWku
+ - 3xM3 Nylon Hex Standoff spacer female-female, 11mm: https://a.co/d/94ycTzV
+ - 2xM3 Nylon Hex Standoff spacer female-female, 15mm - from kit: https://a.co/d/bzrrWku  
+ - 1xM3 Nylon Hex Standoff spacer male-female, 15mm - from kit:  https://a.co/d/bzrrWku
  - Various female pin Connectors TBD
 ## ATU
  - See https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/
