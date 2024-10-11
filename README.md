@@ -85,7 +85,8 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - See https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/
  - Do not source and solther two BNC connectors
  - Do not source and solther male pin connectors to the ATU board. We will use different ones for our integration. 
- - Assortment of male pin connectors TBD
+ - two of 8-pin single row male pin headers: https://a.co/d/2SuiWnt
+   - just cut two 8-pin sections from the strip.
 ## ATU Mounting PCB
   - Connectors TBD
 ## Companion PCB
