@@ -123,7 +123,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - These are sold in a bulk, you will have to cut 1x10 out of it. Do not worry, we use some for the ATU Mount PCB as well.
  - LS1: Speaker 2W 8Ohm 36mm: https://a.co/d/bCwJI5i
  
-Detailed Build Instructions TBD in-progress
+Detailed Build Instructions TBD in-progress. Daily edits will be committed to the repository until done.
 
 # Some work to be done:
 - Test ATU and battery charger implications into the QMX+ performance in the context of the parasitic interference
