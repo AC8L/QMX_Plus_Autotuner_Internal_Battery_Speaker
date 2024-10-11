@@ -81,7 +81,6 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - one of 1x4 4-pin single row female connector: https://a.co/d/03AtQEI
  - one of 1x3 3-pin single row female connector: https://a.co/d/5E9IhZu
    - just cut 3-pin module from the strip.
- - Various female pin Connectors TBD
 ## ATU
  - See https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/
  - Do not source and solther two BNC connectors
