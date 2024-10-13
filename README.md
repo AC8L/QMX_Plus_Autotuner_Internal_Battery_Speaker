@@ -133,7 +133,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - J1: JST XH2.54 pigtail with PCB mount male connector: https://a.co/d/9YMnd1q
  - 40cm of 30 AWG Kynar wire: https://a.co/d/ix2YHia
  
-## Detailed Build Instructions
+# Detailed Build Instructions
 https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/QMX%2B_ATU_Bat_Speaker_Assembly_Instructions_v1.0.pdf
 
 TBD in-progress. Daily edits will be committed to the repository until done.
