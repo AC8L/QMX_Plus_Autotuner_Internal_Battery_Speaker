@@ -128,10 +128,10 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - These are sold in a bulk, you will have to cut 1x10 out of it. Do not worry, we use some for the ATU Mount PCB as well.
  - LS1: Speaker 2W 8Ohm 36mm: https://a.co/d/bCwJI5i
  ## Front Panel
- - SW1: Generic button
+ - SW1: Generic button: https://a.co/d/eFSJQzc
  - D1: 3mm LED (Digikey part 732-5008-ND)
- - JST pigtail
- - kylar wire
+ - J1: JST XH2.54 pigtail with PCB mount male connector: https://a.co/d/9YMnd1q
+ - 40cm of 30 AWG Kynar wire: https://a.co/d/ix2YHia
  
 ## Detailed Build Instructions
 https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/QMX%2B_ATU_Bat_Speaker_Assembly_Instructions_v1.0.pdf
