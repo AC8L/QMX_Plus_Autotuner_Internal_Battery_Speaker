@@ -67,7 +67,7 @@ There are various build configurations possible:
 - For all configurations you still will have to order both PCB's from this repositiry. Even if some portions will be left unpopulated - PCB's are mechanically and electrically interdependent on each other.  
 - For configurations (3),(4) and (7) - you do not need to order the ATU.
 - For any non-complete configuration you can gradually add other components later on.
-- Barb (WB2CBA) has detailed instructions on the ordering process at the ATU link above. It will be difficuilt to add anything else to his writing.
+- Barb (WB2CBA) has detailed instructions on the ordering process from JLCPCB at the ATU link above for both "plain" PCB's an d PCB's with SMD components populated. It will be difficuilt to add anything else to his writings.
 
 # BOM (currenly writing this section, wait until I remove this warning!)
 Discalimer: I am not associated with any supplier and do not receive any monetary or other benefit from referring to their products!
@@ -127,6 +127,11 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - J1: 1x10 pin 2.54mm Male pin Header Connector Extra Tall: https://a.co/d/2l7o6wW
    - These are sold in a bulk, you will have to cut 1x10 out of it. Do not worry, we use some for the ATU Mount PCB as well.
  - LS1: Speaker 2W 8Ohm 36mm: https://a.co/d/bCwJI5i
+ ## Front Panel
+ - SW1: Generic button
+ - D1: 3mm LED (Digikey part 732-5008-ND)
+ - JST pigtail
+ - kylar wire
  
 Detailed Build Instructions TBD in-progress. Daily edits will be committed to the repository until done.
 
