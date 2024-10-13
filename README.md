@@ -153,7 +153,17 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - 40cm of 30 AWG Kynar wire: https://a.co/d/ix2YHia
 
 ## Approximate cost estimate 
- - TBD
+ Below is a rough estimate (with most pessimistic unoptimized assumption) for few configurations based on 10/13/24 simulation of JLPCB ordering plus US shipment. Estimation is based on a minimum batch of 5 PCB order and can be significantly lower with higer batch size. With current inflation rates next year this info will be well outdated.
+### All Inclusive
+ - ATU: 115$ per 5
+ - ATU Mount PCB: 8.40$ per 5
+ - ATU Companion PCB: 8.40$ per 5
+ - shipment to US: 42$
+ - Total per 5 PCB of each and shipment: 174$
+ - Total per set of 3 PCB's of each type: 174/5 = approx. 35$ 
+ - Total other parts: approx 25-35$.
+ - Grand Total: 70$ max.
+
 
 # Detailed Build Instructions
 Can be found <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/QMX%2B_ATU_Bat_Speaker_Assembly_Instructions_v1.0.pdf">here.</a> Work is still in progress and daily edits will be committed to the repository until done.
