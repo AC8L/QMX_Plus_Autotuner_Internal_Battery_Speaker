@@ -32,7 +32,7 @@ I can only do a limited support and further development on best effort basis.
 3. Upload <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/main/ATU-100_Custom_Firmware/atu_100_fw_3.2_QMX+.hex.zip">ATU custom firmware from this repository</a> into the PIC16F1938 and plug it to the ATU board.
 4. Build <a href="QMX+_ATU_Mount_Board/QMX+_ATU_Mount_Board_Front.jpg">QMX+ ATU Mount Board</a> (install the ATU itself and QMX+ connectors to the Mount board)
 5. Build <a href="QMX+_ATU_Companion_Board_THT_v1.1/QMX+_ATU_Companion_Board_Front.jpg">QMX+ ATU Companion Board.</a> Keep power (battery) switch on the OFF position until the last moment before closing the enclosure top!
-6. Upload companion board formware into ATMEGA328P chip. Use Ardiuno UNO board for that.
+6. Upload <a href="https://raw.githubusercontent.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/refs/heads/main/QMX_plus_ATU_Companion_Board_ATMEGA328P/QMX_plus_ATU_Companion_Board_ATMEGA328P.ino">companion board firmware</a> into ATMEGA328P chip. Use Ardiuno UNO R3 board for that.
 7. Install ATMEGA328P chip into the companion board
 8. Install ATU mount board with ATU into the QMX+ board.
 9. Insert 18650 batteries and install ATU Companion board on top of the ATU mounting board. Make sure battery power switch is still on OFF position!
