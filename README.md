@@ -27,7 +27,8 @@ I can only do a limited support and further development on best effort basis.
    - Remove temporary jumper wire.    
 2. Build ATU with <a href="https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/">instructions at the WB2CBA's page</a> with following mods:
    - Do not source and solther two BNC connectors.
-   - Do not source and solther male pin connectors to the ATU board. We will use different ones for our integration. 
+   - Do not source and solther male pin connectors to the ATU board. We will use different ones for our integration.
+   - Use only ATU section of the page, ignore the rest for the purpose of this project.
 3. Upload ATU custom firmware from this repository into the PIC16F1938 and plug it to the ATU board.
 4. Build QMX+ ATU Mount Board (install the ATU itself and QMX+ connectors to the Mount board)
 5. Build QMX+ ATU Companion Board. Keep power (battery) switch on the OFF position until the last moment before closing the enclosure top!
