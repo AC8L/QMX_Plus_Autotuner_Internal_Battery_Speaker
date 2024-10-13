@@ -106,8 +106,8 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - Sometimes one vendor is unavailable, other comes in. But these parts are generally are always available. Make sure to source 3S 40A 12.6V model!
  - 3x18650 Lithium Batteries. 18650BatteryStore.com part number INR18650-25R.
    - These are original Samsung 25R 18650 2500mAh 20A Batteries. Not problematic ones from Amazon and a such.
- - D1,D2 3mm LED (Digikey part 732-5008-ND)
-   - D1 goes to the PCB, D2 for the front panel. Feel free choising different colors.
+ - D1 3mm LED (Digikey part 732-5008-ND)
+   - Feel free choising different colors.
  - R1,R2: 1K THT Resistor (Digikey part 13-MFR-25FRF52-1KCT-ND)
  - R3: 10K THT Resistor (Digikey part 13-MFR-25FRF52-10KCT-ND)
  - R4: 7.5K THT resistor (Digikey part MFR-25FRF52-7K5)
