@@ -12,11 +12,20 @@ https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp
 Battery and charger is based on my <a href="https://github.com/AC8L/PSU-for-uSDX-SOTA">previous work</a>, which in turn, is also based on Barb's <a href="https://antrak.org.tr/blog/usdx-sdr-ssb-sota-transceiver-battery-pack/
 ">original design.</a>
 
-I am releasing PCB fabrication files and code under open source license. Feel free to use materials in any way you think suitable.
+I am releasing design materials, PCB fabrication files, and code under open source license and to be free for ham radio community to embrace and enjoy DIY building. Or commercially selling.
+
+Anyone who wants to commercialize and sell this solution as modules or as a semi kit or as a full kit are allowed to do so under these terms:
+
+– Commercial seller can not alter design and has to keep it in it’s original published form.
+– Recognition of originators and designers AC8L and WB2CBA for their work on their site.
 
 Because of minimum batch of 5 for the PCB order plus shipment, project is very well suited for the group build. If anyone wants to make money out of it - you have my blessings and prayers for the success!
 
 I can only do a limited support and further development on best effort basis.
+
+Sardar - AC8L, 4K6SA, VA3DUA.
+Vienna, VA 10/13/2024
+AC8L@ARRL.NET
 
 # Build steps at a glance
 1. Build <a href="http://qrp-labs.com/qmxp.html">QMX+</a> with following mods:
