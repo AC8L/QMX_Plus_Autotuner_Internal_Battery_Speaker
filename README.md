@@ -133,7 +133,8 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - JST pigtail
  - kylar wire
  
-Detailed Build Instructions TBD in-progress. Daily edits will be committed to the repository until done.
+Detailed Build Instructions: https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/QMX%2B_ATU_Bat_Speaker_Assembly_Instructions_v1.0.pdf
+TBD in-progress. Daily edits will be committed to the repository until done.
 
 # Some work to be done:
 - Test ATU and battery charger implications into the QMX+ performance in the context of the parasitic interference
