@@ -9,11 +9,8 @@ https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp
  
 <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/tree/main/ATU-100_Custom_Firmware">Custom firmware</a> was written for the ATU.
  
-Battery and charger is based on my previous work:
-https://github.com/AC8L/PSU-for-uSDX-SOTA
- Which in turn, is also based on Barb's original design:
-https://antrak.org.tr/blog/usdx-sdr-ssb-sota-transceiver-battery-pack/
-
+Battery and charger is based on my <a href="https://github.com/AC8L/PSU-for-uSDX-SOTA">previous work</a>, which in turn, is also based on Barb's <a href="https://antrak.org.tr/blog/usdx-sdr-ssb-sota-transceiver-battery-pack/
+">original design.</a>
 
 I am releasing PCB fabrication files and code under open source license. Feel free to use materials in any way you think suitable.
 
