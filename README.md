@@ -22,7 +22,7 @@ Because of minimum batch of 5 for the PCB order plus shipment, project is very w
 I can only do a limited support and further development on best effort basis.
 
 # Build steps at a glance
-1. Build QMX+ with following mods:
+1. Build <a href="http://qrp-labs.com/qmxp.html">QMX+</a> with following mods:
    - Do not solther the jumper wire on JP501 as instructed on Rev2.00 build document's page 37! The ATU will play the role of that jumper wire.
    - Make sure to solder-in the 2-row 5-pin female connector into JP501.
    - Plug in a temporary jumper wire (breadboard prototyping wire is a good choice) into the female connector at JP501 at pins corresponding to a soldered jumper wire in the instruction document's page 37.
