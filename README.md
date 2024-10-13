@@ -76,7 +76,7 @@ There are various build configurations possible:
 - For any non-complete configuration you can gradually add other components later on.
 - Barb (WB2CBA) has <a href="https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/">detailed instructions on the ordering process from JLCPCB at the ATU link</a> for both "plain" PCB's and PCB's with SMD components populated. It will be difficuilt to add anything else to his writings.
 
-# BOM
+# Bill of Materials (BOM)
 Discalimer: I am not associated with any supplier and do not receive any monetary or other benefit from referring to their products!
 I am using USA suppliers, other regions have better suppliers for BOM sourcing.
 ## QMX+
@@ -154,7 +154,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
 
 ## Approximate cost estimate 
  - TBD
- 
+
 # Detailed Build Instructions
 Can be found <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/QMX%2B_ATU_Bat_Speaker_Assembly_Instructions_v1.0.pdf">here.</a> Work is still in progress and daily edits will be committed to the repository until done.
 
