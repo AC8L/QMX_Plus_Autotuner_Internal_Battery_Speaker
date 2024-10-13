@@ -42,7 +42,7 @@ I can only do a limited support and further development on best effort basis.
 
 # Ordering PCB's
 I personally have a habit ordering PCB's from <a href="https://jlcpcb.com">JLCPCB</a> (again, I am not associated with them!). For the convenience, all 3 PCB's can be ordered in one order.
-1. ATU (see link above to download fabrication files)
+1. ATU <a href="https://antrak.org.tr/wp-content/uploads/uSDX-SOTA-ATU.zip">(link to download fabrication files is here)</a>
 2. ATU Mount PCB - from this repo
 3. QMX+ Companion PCB - from this repo
 
