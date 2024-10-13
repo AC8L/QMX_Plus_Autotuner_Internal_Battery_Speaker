@@ -31,7 +31,7 @@ I can only do a limited support and further development on best effort basis.
 2. Build ATU with instructions at the WB2CBA's page with following mods:
    - Do not source and solther two BNC connectors.
    - Do not source and solther male pin connectors to the ATU board. We will use different ones for our integration. 
-3. Upload ATU custom firmware into the PIC16F1938 and plug it to the ATU board.
+3. Upload ATU custom firmware from this repository into the PIC16F1938 and plug it to the ATU board.
 4. Build QMX+ ATU Mount Board (install the ATU itself and QMX+ connectors to the Mount board)
 5. Build QMX+ ATU Companion Board. Keep power (battery) switch on the OFF position until the last moment before closing the enclosure top!
 6. Upload companion board formware into ATMEGA328P chip. Use Ardiuno UNO board for that.
@@ -49,7 +49,7 @@ I personally have a habit ordering PCB's from JLCPCB (again, I am not associated
 3. QMX+ Companion PCB - from this repo
 
 # Group build manager 
-Usually in group builds it is the responsibility of a group build manager to:
+Usually in group builds it supoposed to be the responsibility of a group build manager to:
 1. Order PCB's.
 2. Assemble kit bags.
 3. Burn Arduino bootloader and load the sketch from this repo into it.
@@ -75,7 +75,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
 ## QMX+
  - 7xM3 Nylon screw, 6mm: http://shop.qrp-labs.com/SPAREPARTS/sparepartsqmx/hscrewm3p6
    - or from kit: https://a.co/d/bzrrWku
- - 1xM3 Nylon screw, 12mm: https://a.co/d/bzrrWku
+ - 2xM3 Nylon screw, 12mm: https://a.co/d/bzrrWku
  - 5xM3 Nylon Hex nut - from kit: https://a.co/d/bzrrWku
  - 3xM3 Nylon Hex Standoff spacer female-female, 11mm: https://a.co/d/94ycTzV
  - 2xM3 Nylon Hex Standoff spacer female-female, 15mm - from kit: https://a.co/d/bzrrWku  
