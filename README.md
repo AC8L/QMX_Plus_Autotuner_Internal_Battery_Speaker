@@ -146,9 +146,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - 40cm of 30 AWG Kynar wire: https://a.co/d/ix2YHia
  
 # Detailed Build Instructions
-https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/QMX%2B_ATU_Bat_Speaker_Assembly_Instructions_v1.0.pdf
-
-TBD in-progress. Daily edits will be committed to the repository until done.
+Can be found <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/QMX%2B_ATU_Bat_Speaker_Assembly_Instructions_v1.0.pdf">here.</a> Work is still in progress and daily edits will be committed to the repository until done.
 
 # Some work to be done:
 - Test ATU and battery charger implications into the QMX+ performance in the context of the parasitic interference
