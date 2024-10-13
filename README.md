@@ -7,7 +7,7 @@ QMX+ Battery Charger and ATU Companion Board             |  QMX+ ATU Mounting Bo
 The ATU is based on N7DDC's 7x7 ATU minituarized by Barb (WB2CBA):
 https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/
  
-Custom firmware was written for the ATU.
+<a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/tree/main/ATU-100_Custom_Firmware">Custom firmware</a> was written for the ATU.
  
 Battery and charger is based on my previous work:
 https://github.com/AC8L/PSU-for-uSDX-SOTA
