@@ -74,7 +74,7 @@ There are various build configurations possible:
 - For all configurations you still will have to order both PCB's from this repositiry. Even if some portions will be left unpopulated - PCB's are mechanically and electrically interdependent on each other.  
 - For configurations (3),(4) and (7) - you do not need to order the ATU.
 - For any non-complete configuration you can gradually add other components later on.
-- Barb (WB2CBA) has detailed instructions on the ordering process from JLCPCB at the ATU link above for both "plain" PCB's an d PCB's with SMD components populated. It will be difficuilt to add anything else to his writings.
+- Barb (WB2CBA) has <a href="https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/">detailed instructions on the ordering process from JLCPCB at the ATU link</a> for both "plain" PCB's and PCB's with SMD components populated. It will be difficuilt to add anything else to his writings.
 
 # BOM
 Discalimer: I am not associated with any supplier and do not receive any monetary or other benefit from referring to their products!
@@ -151,6 +151,9 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - D1: 3mm LED (Digikey part 732-5008-ND)
  - J1: JST XH2.54 pigtail with PCB mount male connector: https://a.co/d/9YMnd1q
  - 40cm of 30 AWG Kynar wire: https://a.co/d/ix2YHia
+
+## Approximate cost estimate 
+ - TBD
  
 # Detailed Build Instructions
 Can be found <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/QMX%2B_ATU_Bat_Speaker_Assembly_Instructions_v1.0.pdf">here.</a> Work is still in progress and daily edits will be committed to the repository until done.
