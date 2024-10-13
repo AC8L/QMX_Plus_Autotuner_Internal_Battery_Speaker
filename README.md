@@ -96,7 +96,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - the 1x6 connector from the same kit wil be used for JP102 on a companion board BOM
  - J2: JST XH2.54 PCB mount male connector: https://a.co/d/9YMnd1q
    - The pigtail from the same kit will be used for the LED connection from the front panel.
-   - Although the part mentioned here and for the front panel - you need to source only one item.
+   - Although the same part is mentioned here and for the front panel - you need to source only one item.
  - J3: 
  - JP102: two 1x2 pin 2.54mm Male pin Header Connector Extra Tall: https://a.co/d/2l7o6wW
    - These are sold in a bulk, you will have to cut 1x2 out of it. Effectively, we will end up having one 2x2 double row Extra Tall Connector.
