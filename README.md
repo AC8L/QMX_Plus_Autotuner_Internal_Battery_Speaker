@@ -14,12 +14,13 @@ Battery and charger is based on my <a href="https://github.com/AC8L/PSU-for-uSDX
 
 **I am releasing design materials, PCB fabrication files, and code under open source license and to be free for ham radio community to embrace and enjoy DIY building. Or commercially selling.**
 
-[!CAUTION]
-Anyone who wants to commercialize and sell this solution as modules, semi kit or as a full kit are allowed to do so under these terms:
+```diff
+- text in red
+- Anyone who wants to commercialize and sell this solution as modules, semi kit or as a full kit are allowed to do so under these terms:
 
- – Commercial seller can not alter design and has to keep it in it’s original published form.
+- – Commercial seller can not alter design and has to keep it in it’s original published form.
 
- – Recognition of originators and designers AC8L and WB2CBA for their work on their site.
+- – Recognition of originators and designers AC8L and WB2CBA for their work on their site.
 
 Because of minimum batch of 5 for the PCB order plus shipment, project is very well suited for the group build. If anyone wants to make money out of it - you have my blessings and prayers for the success!
 
