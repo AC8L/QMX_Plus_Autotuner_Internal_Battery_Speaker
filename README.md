@@ -25,7 +25,7 @@ I can only do a limited support and further development on best effort basis.
    - Plug in a temporary jumper wire (breadboard prototyping wire is a good choice) into the female connector at JP501 at pins corresponding to a soldered jumper wire in the instruction document's page 37.
    - Thoroghly calibrate and test the QMX+ build according to the assembly manual. Making a couple of QSO's is a good idea.
    - Remove temporary jumper wire.    
-2. Build ATU with instructions at the WB2CBA's page with following mods:
+2. Build ATU with <a href="https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/">instructions at the WB2CBA's page</a> with following mods:
    - Do not source and solther two BNC connectors.
    - Do not source and solther male pin connectors to the ATU board. We will use different ones for our integration. 
 3. Upload ATU custom firmware from this repository into the PIC16F1938 and plug it to the ATU board.
