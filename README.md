@@ -16,18 +16,15 @@ Battery and charger is based on my <a href="https://github.com/AC8L/PSU-for-uSDX
 
 **Anyone who wants to commercialize and sell this solution as modules, semi kit or as a full kit are allowed to do so under these terms:**
 
-**- Commercial seller can not alter design and has to keep it in it’s original published form.**
-
+**- Commercial seller can not alter design and has to keep it in it’s original published form.</br>**
 **- Recognition of originators and designers AC8L and WB2CBA for their work on their site.**
 
 Because of minimum batch of 5 for the PCB order plus shipment, project is very well suited for the group build. If anyone wants to make money out of it - you have my blessings and prayers for the success!
 
 I can only do a limited support and further development on best effort basis.
 
-Sardar - AC8L, 4K6SA, VA3DUA.
-
-Vienna, VA 10/13/2024
-
+Sardar - AC8L, 4K6SA, VA3DUA.</br>
+Vienna, VA 10/13/2024</br>
 AC8L@ARRL.NET
 
 # Build steps at a glance
