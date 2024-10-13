@@ -80,10 +80,10 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - 3xM3 Nylon Hex Standoff spacer female-female, 11mm: https://a.co/d/94ycTzV
  - 2xM3 Nylon Hex Standoff spacer female-female, 15mm - from kit: https://a.co/d/bzrrWku  
  - 1xM3 Nylon Hex Standoff spacer male-female, 15mm - from kit:  https://a.co/d/bzrrWku
- - one of 2x2 4-pin double row female connector: https://a.co/d/acgPCxS
- - one of 2x5 10-pin double row female connector: https://a.co/d/iHggplQ
- - one of 1x4 4-pin single row female connector: https://a.co/d/03AtQEI
- - one of 1x3 3-pin single row female connector: https://a.co/d/5E9IhZu
+ - JP101 one of 2x2 4-pin double row female connector: https://a.co/d/acgPCxS
+ - JP501: one of 2x5 10-pin double row female connector: https://a.co/d/iHggplQ
+ - JP301: one of 1x4 4-pin single row female connector: https://a.co/d/03AtQEI
+ - JP106: one of 1x3 3-pin single row female connector: https://a.co/d/5E9IhZu
    - just cut 3-pin module from the strip.
 ## ATU
  - See https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/
@@ -92,6 +92,14 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - two of 8-pin single row male pin headers: https://a.co/d/2SuiWnt
    - just cut two 8-pin sections from the strip.
 ## ATU Mounting PCB
+ - J1: 1x10 pin 2.54mm Female pin Header Connector Extra Tall: https://a.co/d/21eQjdI
+   - the 1x6 connector from the same kit wil be used for JP102 on a companion board BOM
+ - JP102: two 1x2 pin 2.54mm Male pin Header Connector Extra Tall: https://a.co/d/2l7o6wW
+   - These are sold in a bulk, you will have to cut 1x2 out of it. Effectively, we will end up having one 2x2 double row Extra Tall Connector.
+   - Same strip is used for the Companion board BOM.
+ - JP106: 1x3 3pin 2.54mm Male pin Header Connector Extra Tall: https://a.co/d/2l7o6wW
+ - JP501:
+ - JP302: 
   - Connectors TBD
 ## Companion PCB
  - U1: ATMEGA328P-PU (Digikey part ATMEGA328P-PU-ND)
@@ -120,12 +128,12 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - 1x14Pos DIP Socket for U2 (Digikey part AE9989-ND)
  - 1x8Pos DIP Socket for U3 (Digikey part A120347-ND)
  - SW1: PCB Mount Slide Switch THT: https://a.co/d/ghhbBuE
- - JP106: 1x6 6pin 2.54mm Male Pin Female Socket Long needle stackable header: https://a.co/d/21eQjdI
-   - For JP106 we need actually 3-pin connector. However I could not source one with long needles. So, I just cut 3 pins. Leaving the plastic though intact!
- - JP102: 2x3 6pin 2.54mm connector, long needles: https://a.co/d/4Ca8vJi
-   - For JP102 we need 2x2 female connector. But again, I could not source one with long needes. So, I just cut two side needles leaving plastic part intact.  
  - J1: 1x10 pin 2.54mm Male pin Header Connector Extra Tall: https://a.co/d/2l7o6wW
    - These are sold in a bulk, you will have to cut 1x10 out of it. Do not worry, we use some for the ATU Mount PCB as well.
+ - JP102: 2x3 6pin 2.54mm connector, long needles: https://a.co/d/4Ca8vJi
+   - For JP102 we need 2x2 female connector. But again, I could not source one with long needes. So, I just cut two side needles leaving plastic part intact.  
+ - JP106: 1x6 6pin 2.54mm Female Socket Long needle stackable header: https://a.co/d/21eQjdI
+   - For JP106 we need actually 3-pin connector. However I could not source one with long needles. So, I just cut 3 pins. Leaving the plastic though intact!
  - LS1: Speaker 2W 8Ohm 36mm: https://a.co/d/bCwJI5i
  ## Front Panel
  - SW1: Generic button: https://a.co/d/eFSJQzc
