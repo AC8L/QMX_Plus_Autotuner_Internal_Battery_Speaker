@@ -161,7 +161,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - shipment to US: $42
  - Total per 5 PCB of each and shipment: $174
  - Total per set of 3 PCB's of each type: 174/5 = approx. $35 
- - Total other parts: approx 25-35$.
+ - Total other parts per 1 build: approx 25-35$.
  - Grand Total per 1 build: $70 max.
 ### Battery only
  - ATU Mount PCB: $8.40 per 5
@@ -169,9 +169,8 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - shipment to US: $26
  - Total per 5 PCB of each and shipment: $43
  - Total per set of 3 PCB's of each type: 43/5 = approx. $8.60 
- - Total other parts: approx 15-20$.
- - Grand Total: 30$ max.
-
+ - Total other parts per 1 build: approx 15-20$.
+ - Grand Total per 1 build: 30$ max.
 
 # Detailed Build Instructions
 Can be found <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/QMX%2B_ATU_Bat_Speaker_Assembly_Instructions_v1.0.pdf">here.</a> Work is still in progress and daily edits will be committed to the repository until done.
