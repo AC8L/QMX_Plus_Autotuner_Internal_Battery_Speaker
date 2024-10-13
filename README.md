@@ -84,7 +84,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - JP501: one of 2x5 10-pin double row female connector: https://a.co/d/iHggplQ
  - JP301: one of 1x4 4-pin single row female connector: https://a.co/d/03AtQEI
  - JP106: one of 1x3 3-pin single row female connector: https://a.co/d/5E9IhZu
-   - just cut 3-pin module from the strip.
+   - cut 3-pin module from the strip.
 ## ATU
  - See https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/
  - Do not source and solther two BNC connectors
@@ -94,13 +94,16 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
 ## ATU Mounting PCB
  - J1: 1x10 pin 2.54mm Female pin Header Connector Extra Tall: https://a.co/d/21eQjdI
    - the 1x6 connector from the same kit wil be used for JP102 on a companion board BOM
+ - J2: JST XH2.54 PCB mount male connector: https://a.co/d/9YMnd1q
+   - The pigtail from the same kit will be used for the LED connection from the front panel.
+   - Although the part mentioned here and for the front panel - you need to source only one item.
+ - J3: 
  - JP102: two 1x2 pin 2.54mm Male pin Header Connector Extra Tall: https://a.co/d/2l7o6wW
    - These are sold in a bulk, you will have to cut 1x2 out of it. Effectively, we will end up having one 2x2 double row Extra Tall Connector.
    - Same strip is used for the Companion board BOM.
  - JP106: 1x3 3pin 2.54mm Male pin Header Connector Extra Tall: https://a.co/d/2l7o6wW
  - JP501:
  - JP302: 
-  - Connectors TBD
 ## Companion PCB
  - U1: ATMEGA328P-PU (Digikey part ATMEGA328P-PU-ND)
    - For Digikey part you will have to burn the Arduino bootloader. Instructions: https://www.youtube.com/watch?v=AwbcOT2z69k
