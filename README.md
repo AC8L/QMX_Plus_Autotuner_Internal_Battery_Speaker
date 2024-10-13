@@ -102,9 +102,9 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - These are sold in a bulk, you will have to cut 1x2 out of it. Effectively, we will end up having one 2x2 double row Extra Tall Connector.
    - Same strip is used for the Companion board BOM.
  - JP106: 1x3 3pin 2.54mm Male pin Header Connector Extra Tall: https://a.co/d/2l7o6wW
+ - JP302: 4-pin single row male pin header: https://a.co/d/2SuiWnt 
  - JP501: 2x5 10-pin double row male pin header: https://a.co/d/dF83x28
    - cut 2x5 section from the strip.
- - JP302: 4-pin single row male pin header: https://a.co/d/2SuiWnt 
 ## Companion PCB
  - U1: ATMEGA328P-PU (Digikey part ATMEGA328P-PU-ND)
    - For Digikey part you will have to burn the Arduino bootloader. Instructions: https://www.youtube.com/watch?v=AwbcOT2z69k
