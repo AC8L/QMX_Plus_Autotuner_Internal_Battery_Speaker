@@ -4,6 +4,10 @@ QMX+ Battery Charger and ATU Companion Board             |  QMX+ ATU Mounting Bo
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/IMG_1165.jpeg)  |  ![](https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/IMG_1161.jpeg)  |  ![](https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/IMG_1168.jpeg)  |  <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/IMG_1172.jpeg" width=120% height=30%>
 
+After Hans has released the QMX+ transeiver it became very popular as a DIY development platform inviting projects like this.
+
+I have made a protype using QMX+ Dev Kit and later though that the QRP communiuty would benefit from it too, so I designed PCB's to make reproduction easier.
+
 The ATU is based on N7DDC's 7x7 ATU minituarized by Barb (WB2CBA):
 https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/
  
@@ -19,7 +23,7 @@ Battery and charger is based on my <a href="https://github.com/AC8L/PSU-for-uSDX
 **- Commercial seller can not alter design and has to keep it in it’s original published form.</br>**
 **- Recognition of originators and designers AC8L and WB2CBA for their work on their site.**
 
-Because of minimum batch of 5 for the PCB order plus shipment, project is very well suited for the group build. If anyone wants to make money out of it - you have my blessings and prayers for the success!
+Because of minimum batch of 5 for the PCB order plus shipment, project is very well suited for the group build or club projects. If anyone wants to make money out of it - you have my blessings and prayers for the success!
 
 I can only do a limited support and further development on best effort basis.
 
