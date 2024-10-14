@@ -4,7 +4,7 @@ QMX+ Battery Charger and ATU Companion Board             |  QMX+ ATU Mounting Bo
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/IMG_1165.jpeg)  |  ![](https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/IMG_1161.jpeg)  |  ![](https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/IMG_1168.jpeg)  |  <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/IMG_1172.jpeg" width=120% height=30%>
 
-After Hans has released his <a href="http://qrp-labs.com/qmxp.html">QMX+ transeiver</a> - quickly became popular both as a TRX and as a DIY development platform inviting projects like this.
+After Hans has released his <a href="http://qrp-labs.com/qmxp.html">QMX+ transeiver</a> - it quickly became popular both as a TRX and as a DIY development platform inviting projects like this.
 
 I have made a protype using QMX+ Dev Kit and later thought that the QRP communiuty would benefit from it too, so I designed PCB's to make reproduction easier.
 
