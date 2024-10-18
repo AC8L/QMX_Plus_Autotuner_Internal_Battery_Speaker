@@ -136,9 +136,9 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - R3: 10K THT Resistor (Digikey part 13-MFR-25FRF52-10KCT-ND)
  - R4: 7.5K THT resistor (Digikey part MFR-25FRF52-7K5)
  - R5: 10 Ohm THT resistor (Digikey part 10.0XBK-ND)
- - C1,C2: 22pF ceramic capacitor THT (Digikey part BC1055TR-ND) 
+ - C1,C2: 22pF ceramic capacitor THT (Digikey part BC1055CT-ND) 
  - C3: 1000uF electrolytic capacitor THT (Digikey part 1189-1583-1-ND)
- - C4: 47pF ceramic capacitor THT (Digikey part BC1009TR-ND) 
+ - C4: 47pF ceramic capacitor THT (Digikey part BC1009CT-ND) 
  - C5,C6: 100uF electrolytic capacitors THT (Digikey part 399-6601-ND)
  - 1x28Pos DIP Socket for U1 (Digikey part A120353-ND). If you bought ATMEGA from Amazon with socket included - you do not need this.
  - 1x14Pos DIP Socket for U2 (Digikey part AE9989-ND)
