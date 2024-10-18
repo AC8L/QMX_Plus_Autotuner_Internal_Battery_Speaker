@@ -65,6 +65,7 @@ Usually in group builds it supoposed to be the responsibility of a group build m
 2. Assemble kit bags.
 3. Burn Arduino bootloader and load the sketch from this repo into it.
 4. Upload the ATU firmware from this repo into the PIC16F1938 microcontroller.
+- Due to shipping restrictions, group build manager must not source and ship batteries, leaving their purchase for each individual participant.
 
 # Build configurations
 There are various build configurations possible:
