@@ -160,6 +160,10 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - J1: JST XH2.54 pigtail with PCB mount male connector: https://a.co/d/9YMnd1q
  - 40cm of 30 AWG Kynar wire: https://a.co/d/ix2YHia
 
+## Digikey part list
+For the ordering convenience, below is the part list from Digkey for one build:
+https://www.digikey.com/en/mylists/list/1DR9PWCRAR
+
 ## Approximate cost estimate 
  Below is a rough estimate (with most pessimistic unoptimized assumption) for few configurations based on 10/13/24 simulation of JLPCB ordering plus US shipment. Estimation is based on a minimum batch of 5 PCB order and can be significantly lower with higer batch size. With current inflation rates next year this info will be well outdated.
 ### All Inclusive
