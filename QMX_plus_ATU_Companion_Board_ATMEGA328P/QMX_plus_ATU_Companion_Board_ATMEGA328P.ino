@@ -1,3 +1,10 @@
+// Firware for the ATU Companion Board for QMX+
+// by Sardar Azari (AC8L)
+// ver 1.0, October 7, 2024
+// Firmware uses single button to emulate autotune on, off and reset functions of the ATU
+// that otherwise requires 3 different buttons
+// Firmware also uses OneButton library to detect autotune status using ATU status LED's as emulated button press actions
+//
 #include <Arduino.h>
 #include <OneButton.h>
 
