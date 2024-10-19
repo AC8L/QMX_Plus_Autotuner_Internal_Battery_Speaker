@@ -97,10 +97,14 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - or from Digikey part 36-25512-ND  
  - 1xM3 Nylon Hex Standoff spacer male-female, 15mm - from kit:  https://a.co/d/bzrrWku
  - JP101 one of 2x2 4-pin double row female connector: https://a.co/d/acgPCxS
+   - or from Digikey part S7105-ND
  - JP501: one of 2x5 10-pin double row female connector: https://a.co/d/iHggplQ
+   - or Digikey part 5268-21602X5GSE-ND
  - JP301: one of 1x4 4-pin single row female connector: https://a.co/d/03AtQEI
+   - or from Digikey part S7002-ND
  - JP106: one of 1x3 3-pin single row female connector: https://a.co/d/5E9IhZu
    - cut 3-pin module from the strip.
+   - or from Digikey part S7001-ND
 ## ATU
  - See https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/
  - Do not source and solther two BNC connectors
