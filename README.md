@@ -178,7 +178,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - or Digikey part K229-ND
 
 ## Digikey part list
-For the ordering convenience, below is the part list from Digkey for one build. List contains the vast majority of parts that can be sourced from Digikey except for some minor parts, like pin headers.
+For the ordering convenience, below is the part list from Digkey for one build. List contains the vast majority of parts that can be sourced from Digikey except for some minor parts, like few pin headers and BMS battery charger.
 https://www.digikey.com/en/mylists/list/1DR9PWCRAR
 
 ## Approximate cost estimate 
@@ -204,7 +204,7 @@ https://www.digikey.com/en/mylists/list/1DR9PWCRAR
 # Detailed Build Instructions
 Can be found <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/QMX%2B_ATU_Bat_Speaker_Assembly_Instructions_v1.0.pdf">here.</a> Work is still in progress and daily edits will be committed to the repository until done.
 
-# Some work to be done:
+# Some future work:
 - Test ATU and battery charger implications into the QMX+ performance in the context of the parasitic interference
 - The speaker and amplifier was a last moment addition with a brief breadbord prototyping. Schematics will definitely benefit from fine tuning.
 - Implement band switching for external amps through AUX port. Utilize LPF0 to LPF5 signals from QMX+.
