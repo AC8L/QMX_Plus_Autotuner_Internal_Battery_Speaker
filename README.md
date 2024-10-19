@@ -161,7 +161,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - 40cm of 30 AWG Kynar wire: https://a.co/d/ix2YHia
 
 ## Digikey part list
-For the ordering convenience, below is the part list from Digkey for one build:
+For the ordering convenience, below is the part list from Digkey for one build. List contains the vast majority of parts that can be sourced from Digikey except for some minor parts, like pin headers.
 https://www.digikey.com/en/mylists/list/1DR9PWCRAR
 
 ## Approximate cost estimate 
