@@ -179,7 +179,7 @@ For the ordering convenience, below is the part list from Digkey for one build. 
 https://www.digikey.com/en/mylists/list/1DR9PWCRAR
 
 ## Approximate cost estimate 
- Below is a rough estimate (with most pessimistic unoptimized assumption) for few configurations based on 10/13/24 simulation of JLPCB ordering plus US shipment. Estimation is based on a minimum batch of 5 PCB order and can be significantly lower with higer batch size. With current inflation rates next year this info will be well outdated.
+ Below is a rough estimate (with most pessimistic unoptimized assumption) for few configurations based on 10/13/24 simulation of JLPCB ordering plus US shipment and, Digikey part list cost. Estimation is based on a minimum batch of 5 PCB order and can be significantly lower with higer batch size. With current inflation rates next year this info will be well outdated.
 ### All Inclusive
  - ATU: $115 per 5
  - ATU Mount PCB: $8.40 per 5
@@ -187,8 +187,8 @@ https://www.digikey.com/en/mylists/list/1DR9PWCRAR
  - shipment to US: $42
  - Total per 5 PCB of each and shipment: $174
  - Total per set of 3 PCB's of each type: 174/5 = approx. $35 
- - Total other parts per 1 build: approx 60$.
- - Grand Total per 1 build: $95 max.
+ - Total other parts per 1 build: approx 60$ + shipment.
+ - Grand Total per 1 build: $105 max.
 ### Battery only
  - ATU Mount PCB: $8.40 per 5
  - ATU Companion PCB: $8.40 per 5
