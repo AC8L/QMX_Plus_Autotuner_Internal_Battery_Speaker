@@ -59,7 +59,7 @@ I personally have a habit ordering PCB's from <a href="https://jlcpcb.com">JLCPC
 2. ATU Mount PCB - <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/main/QMX+_ATU_Mount_Board/QMX_Plus_ATU_Mount_Board_Fabrication_Files.zip">fabrication files for latest revison</a>
 3. QMX+ Companion PCB - <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/main/QMX+_ATU_Companion_Board_THT_v1.1/QMX_Plus_ATU_Companion_Board-Fabrication_Files.zip">fabrication files for latest revison</a>
 
-# Group build manager 
+# Group build manager (organizer)
 Usually in group builds it supoposed to be the responsibility of a group build manager to:
 1. Order PCB's.
 2. Assemble kit bags.
@@ -86,9 +86,10 @@ Discalimer: I am not associated with any supplier and do not receive any monetar
 I am using USA suppliers, other regions have better suppliers for BOM sourcing.
 ## QMX+
  - 7xM3 Nylon screw, 6mm: http://shop.qrp-labs.com/SPAREPARTS/sparepartsqmx/hscrewm3p6
-   - or Digikey part 732-13704-ND
+   - or from Digikey part 732-13704-ND
    - or from kit: https://a.co/d/bzrrWku
  - 2xM3 Nylon screw, 12mm: https://a.co/d/bzrrWku
+   - or from Digikey part RPC2024-ND
  - 5xM3 Nylon Hex nut - from kit: https://a.co/d/bzrrWku
    - or from Digikey part 732-12637-ND
  - 3xM3 Nylon Hex Standoff spacer female-female, 11mm: https://a.co/d/94ycTzV
@@ -96,6 +97,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - 2xM3 Nylon Hex Standoff spacer female-female, 15mm - from kit: https://a.co/d/bzrrWku
    - or from Digikey part 36-25512-ND  
  - 1xM3 Nylon Hex Standoff spacer male-female, 15mm - from kit:  https://a.co/d/bzrrWku
+   - or from Digikey part 36-25503-ND
  - JP101 one of 2x2 4-pin double row female connector: https://a.co/d/acgPCxS
    - or from Digikey part S7105-ND
  - JP501: one of 2x5 10-pin double row female connector: https://a.co/d/iHggplQ
@@ -114,7 +116,8 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - just cut two 8-pin sections from the strip.
 ## ATU Mounting PCB
  - J1: 1x10 pin 2.54mm Female pin Header Connector Extra Tall: https://a.co/d/21eQjdI
-   - the 1x6 connector from the same kit wil be used for JP102 on a companion board BOM
+   - the 1x6 connector from the same Amazon kit will be used for JP102 on a companion board BOM
+   - or Digikey part SSW-110-03-T-S-ND
  - J2: JST XH2.54 PCB mount male connector: https://a.co/d/9YMnd1q
    - The pigtail from the same kit will be used for the LED connection from the front panel.
    - Although the same part is mentioned here and for the front panel - you need to source only one item.
