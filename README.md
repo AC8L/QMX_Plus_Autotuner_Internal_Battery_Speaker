@@ -170,9 +170,11 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - LS1: Speaker 2W 8Ohm 36mm: https://a.co/d/bCwJI5i
  ## Front Panel
  - SW1: Generic button: https://a.co/d/eFSJQzc
+   - or Digikey part EG2025-ND
  - D1: 3mm LED (Digikey part 732-5008-ND)
  - J1: JST XH2.54 pigtail with PCB mount male connector: https://a.co/d/9YMnd1q
  - 40cm of 30 AWG Kynar wire: https://a.co/d/ix2YHia
+   - or Digikey part K229-ND
 
 ## Digikey part list
 For the ordering convenience, below is the part list from Digkey for one build. List contains the vast majority of parts that can be sourced from Digikey except for some minor parts, like pin headers.
