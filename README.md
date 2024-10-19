@@ -86,11 +86,15 @@ Discalimer: I am not associated with any supplier and do not receive any monetar
 I am using USA suppliers, other regions have better suppliers for BOM sourcing.
 ## QMX+
  - 7xM3 Nylon screw, 6mm: http://shop.qrp-labs.com/SPAREPARTS/sparepartsqmx/hscrewm3p6
+   - or Digikey part 732-13704-ND
    - or from kit: https://a.co/d/bzrrWku
  - 2xM3 Nylon screw, 12mm: https://a.co/d/bzrrWku
  - 5xM3 Nylon Hex nut - from kit: https://a.co/d/bzrrWku
+   - or from Digikey part 732-12637-ND
  - 3xM3 Nylon Hex Standoff spacer female-female, 11mm: https://a.co/d/94ycTzV
- - 2xM3 Nylon Hex Standoff spacer female-female, 15mm - from kit: https://a.co/d/bzrrWku  
+   - or from Digiley part RPC4425-ND
+ - 2xM3 Nylon Hex Standoff spacer female-female, 15mm - from kit: https://a.co/d/bzrrWku
+   - or from Digikey part 36-25512-ND  
  - 1xM3 Nylon Hex Standoff spacer male-female, 15mm - from kit:  https://a.co/d/bzrrWku
  - JP101 one of 2x2 4-pin double row female connector: https://a.co/d/acgPCxS
  - JP501: one of 2x5 10-pin double row female connector: https://a.co/d/iHggplQ
@@ -101,7 +105,8 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - See https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/
  - Do not source and solther two BNC connectors
  - Do not source and solther male pin connectors to the ATU board. We will use different ones for our integration. 
- - two of 8-pin single row male pin header: https://a.co/d/2SuiWnt
+ - two of 8-pin single row male pin header (Digikey part 664-G800W268018EU-ND)
+   - Alternative from Amazon: https://a.co/d/2SuiWnt
    - just cut two 8-pin sections from the strip.
 ## ATU Mounting PCB
  - J1: 1x10 pin 2.54mm Female pin Header Connector Extra Tall: https://a.co/d/21eQjdI
@@ -113,8 +118,9 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - JP102: two 1x2 pin 2.54mm Male pin Header Connector Extra Tall: https://a.co/d/2l7o6wW
    - These are sold in a bulk, you will have to cut 1x2 out of it. Effectively, we will end up having one 2x2 double row Extra Tall Connector.
    - Same strip is used for the Companion board BOM.
- - JP106: 1x3 3pin 2.54mm Male pin Header Connector Extra Tall: https://a.co/d/2l7o6wW
- - JP302: 4-pin single row male pin header: https://a.co/d/2SuiWnt 
+ - JP106: 1x3 3pin 2.54mm male pin Header Connector Extra Tall: https://a.co/d/2l7o6wW
+ - JP302: 4-pin single row male pin header (Digikey part 664-G800W268018EU-ND)
+   - Alternative from Amazon: https://a.co/d/2SuiWnt 
  - JP501: 2x5 10-pin double row male pin header: https://a.co/d/dF83x28
    - cut 2x5 section from the strip.
 ## Companion PCB
