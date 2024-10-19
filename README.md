@@ -92,7 +92,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - 5xM3 Nylon Hex nut - from kit: https://a.co/d/bzrrWku
    - or from Digikey part 732-12637-ND
  - 3xM3 Nylon Hex Standoff spacer female-female, 11mm: https://a.co/d/94ycTzV
-   - or from Digiley part RPC4425-ND
+   - or from Digikey part RPC4425-ND
  - 2xM3 Nylon Hex Standoff spacer female-female, 15mm - from kit: https://a.co/d/bzrrWku
    - or from Digikey part 36-25512-ND  
  - 1xM3 Nylon Hex Standoff spacer male-female, 15mm - from kit:  https://a.co/d/bzrrWku
