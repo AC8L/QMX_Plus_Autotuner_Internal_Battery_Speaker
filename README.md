@@ -173,6 +173,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - or Digikey part EG2025-ND
  - D1: 3mm LED (Digikey part 732-5008-ND)
  - J1: JST XH2.54 pigtail with PCB mount male connector: https://a.co/d/9YMnd1q
+ - 2-pin jumper (Digikey part 1528-4934-ND)
  - 40cm of 30 AWG Kynar wire: https://a.co/d/ix2YHia
    - or Digikey part K229-ND
 
