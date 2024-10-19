@@ -130,6 +130,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - Alternative from Amazon: https://a.co/d/2SuiWnt 
  - JP501: 2x5 10-pin double row male pin header: https://a.co/d/dF83x28
    - cut 2x5 section from the strip.
+   - or from Digikey part 10129382-906001BLF-ND
 ## Companion PCB
  - U1: ATMEGA328P-PU (Digikey part ATMEGA328P-PU-ND)
    - For Digikey part you will have to burn the Arduino bootloader. Instructions: https://www.youtube.com/watch?v=AwbcOT2z69k
@@ -186,8 +187,8 @@ https://www.digikey.com/en/mylists/list/1DR9PWCRAR
  - shipment to US: $42
  - Total per 5 PCB of each and shipment: $174
  - Total per set of 3 PCB's of each type: 174/5 = approx. $35 
- - Total other parts per 1 build: approx 25-35$.
- - Grand Total per 1 build: $70 max.
+ - Total other parts per 1 build: approx 60$.
+ - Grand Total per 1 build: $95 max.
 ### Battery only
  - ATU Mount PCB: $8.40 per 5
  - ATU Companion PCB: $8.40 per 5
