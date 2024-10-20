@@ -202,7 +202,7 @@ https://www.digikey.com/en/mylists/list/1DR9PWCRAR
  - Grand Total per 1 build: 30$ max.
 
 # Detailed Build Instructions
-Can be found <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/QMX%2B_ATU_Bat_Speaker_Assembly_Instructions_v1.0.pdf">here.</a> Work is still in progress and daily edits will be committed to the repository until done.
+Can be found <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/QMX%2B_ATU_Bat_Speaker_Assembly_Instructions_v1.0.pdf">here.</a>
 
 # Some future work:
 - Test ATU and battery charger implications into the QMX+ performance in the context of the parasitic interference
