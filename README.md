@@ -31,6 +31,8 @@ Sardar - AC8L, 4K6SA, VA3DUA.</br>
 Vienna, VA 10/13/2024</br>
 AC8L@ARRL.NET
 
+**WARNING! Before you proceed with spending money and time, the battery mod is compatible with QMX+ 12V build only!!! Do not use it with 9V, you will damage the rig!!!**
+
 # Build steps at a glance
 1. Build <a href="http://qrp-labs.com/qmxp.html">QMX+</a> with following mods:
    - Do not solther the jumper wire on JP501 as instructed on Rev2.00 build document's page 37! The ATU will play the role of that jumper wire.
