@@ -93,19 +93,24 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - or from kit: https://a.co/d/bzrrWku
  - 2xM3 Nylon screw, 12mm: https://a.co/d/bzrrWku
    - or from Digikey part RPC2024-ND
- - 5xM3 Nylon Hex nut - from kit: https://a.co/d/bzrrWku
+ - 5xM3 Nylon Hex nut: https://shop.qrp-labs.com/m3nut
+   - or from kit: https://a.co/d/bzrrWku
    - or from Digikey part 732-12637-ND
- - 3xM3 Nylon Hex Standoff spacer female-female, 11mm: https://a.co/d/94ycTzV
+ - 3xM3 Nylon Hex Standoff spacer female-female, 11mm: https://shop.qrp-labs.com/hex11
+   - or from Amazon: https://a.co/d/94ycTzV
    - or from Digikey part RPC4425-ND
  - 2xM3 Nylon Hex Standoff spacer female-female, 15mm - from kit: https://a.co/d/bzrrWku
    - or from Digikey part 36-25512-ND  
  - 1xM3 Nylon Hex Standoff spacer male-female, 15mm - from kit:  https://a.co/d/bzrrWku
    - or from Digikey part 36-25503-ND
- - JP101 one of 2x2 4-pin double row female connector: https://a.co/d/acgPCxS
+ - JP101 one of 2x2 4-pin double row female connector: https://shop.qrp-labs.com/con2x2f
+   - or from Amazon: https://a.co/d/acgPCxS
    - or from Digikey part S7105-ND
- - JP501: one of 2x5 10-pin double row female connector: https://a.co/d/iHggplQ
+ - JP501: one of 2x5 10-pin double row female connector: https://shop.qrp-labs.com/con2x5f
+   - or from Amazon: https://a.co/d/iHggplQ
    - or Digikey part 732-2861-ND
- - JP301: one of 1x4 4-pin single row female connector: https://a.co/d/03AtQEI
+ - JP301: one of 1x4 4-pin single row female connector: https://shop.qrp-labs.com/con1x4f
+   - or from Amazon: https://a.co/d/03AtQEI
    - or from Digikey part S7002-ND
  - JP106: one of 1x3 3-pin single row female connector: https://a.co/d/5E9IhZu
    - cut 3-pin module from the strip.
