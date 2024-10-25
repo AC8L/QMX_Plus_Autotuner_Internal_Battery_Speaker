@@ -180,6 +180,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - JP106: 1x6 6pin 2.54mm Female Socket Long needle stackable header: https://a.co/d/21eQjdI
    - For JP106 we need actually 3-pin connector. However I could not source one with long needles. So, I just cut 3 pins. Leaving the plastic though intact!
  - LS1: Speaker 2W 8Ohm 36mm: https://a.co/d/bCwJI5i
+   - or Dikigey part 2056-K36WP-8OHM-ND
  ## Front Panel
  - SW1: Generic button: https://a.co/d/eFSJQzc
    - or Digikey part EG2025-ND
