@@ -49,7 +49,7 @@ AC8L@ARRL.NET
 4. Build <a href="QMX+_ATU_Mount_Board/QMX+_ATU_Mount_Board_Front.jpg">QMX+ ATU Mount Board</a> (install the ATU itself and QMX+ connectors to the Mount board)
 5. If building the ATU - perform front panel mod. We have 3 options for the front panel modification:
    - Drilling the factory front panel (less desireable option)
-   - Printing the replacement front panel on a 3D printer (budget option). STL file can be downloaded from <a href="QMX+_Front_Panel_Mod_For_ATU/3D Prints/QMX+ Front Panel with ATU Control.stl">here.</a> 
+   - Printing the replacement front panel on a 3D printer (budget option). STL file can be downloaded from <a href="QMX+_Front_Panel_Mod_For_ATU/3D Prints/QMX+ Front Panel with ATU Control.stl">here.</a> PETG filament is recommended due to the outdoor exposure.
    - Ordering front panel from JLCPCB (WORK IN PROGRESS!!! most aestetically appealing option). When ordered along with other PCB's - the front panel will add negligeable cost. Otherwise if ordered separately the shipping cost to US (about $20) is the most cosiderable portion of the total cost.
 6. Build <a href="QMX+_ATU_Companion_Board_THT_v1.1/QMX+_ATU_Companion_Board_Front.jpg">QMX+ ATU Companion Board.</a> Keep power (battery) switch on the OFF position until the last moment before closing the enclosure top!
 7. Upload <a href="QMX_plus_ATU_Companion_Board_ATMEGA328P/QMX_plus_ATU_Companion_Board_ATMEGA328P.ino">companion board firmware</a> into ATMEGA328P chip. Use Ardiuno UNO R3 board for that.
