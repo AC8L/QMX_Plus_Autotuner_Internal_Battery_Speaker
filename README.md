@@ -229,6 +229,6 @@ Can be found <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Batter
 
 #
 #### Legal notice
-- <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/QRP_Labs_Logo.png" width=50% height=50%>, QMX and QMX+ are trademarks of Hans Summers (G0UPL).
+- <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/QRP_Labs_Logo.png" width=10% height=10%>, QMX and QMX+ are trademarks of Hans Summers (G0UPL).
 - References to trademarks above are used in this open source project on no-objection basis from Hans Summers (G0UPL) for this project only.
 - Since this project is an open source, the permission to use trademarks mentioned is not transferred automatically in case parts of this project are reused for other project(s). Each new project originator(s) must obtain the explicit permission from trademark owner.
