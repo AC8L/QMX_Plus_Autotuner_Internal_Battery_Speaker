@@ -6,7 +6,7 @@ QMX+ Battery Charger and ATU Companion Board             |  QMX+ ATU Mounting Bo
 
 After Hans Summers (G0UPL) has released his <a href="http://qrp-labs.com/qmxp.html">QMX+ transeiver</a> - it quickly became popular both as a TRX and as a DIY development platform inviting projects like this.
 
-I have made a protype using QMX+ Dev Kit and later thought that the QRP communiuty would benefit from it too, so I designed PCB's to make reproduction easier.
+I have made a prototype using QMX+ Dev Kit and later thought that the QRP communiuty would benefit from it too, so I designed PCB's to make the reproduction easier.
 
 The ATU is based on N7DDC's 7x7 ATU minituarized by Barb (WB2CBA):
 https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/
