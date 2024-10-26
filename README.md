@@ -18,6 +18,8 @@ Battery and charger mod is based on my <a href="https://github.com/AC8L/PSU-for-
 
 **I am releasing design materials, PCB fabrication files, and code under open source license and to be free for ham radio community to embrace and enjoy DIY building. Or commercially selling.**
 
+**This is an attempt to contribute to QRP Labs mission of providing high quality low cost transmitters to hams to ease their entry to the hobby.**
+
 **Anyone who wants to commercialize and sell this solution as modules, semi kit or as a full kit are allowed to do so under these terms:**
 
 **- Commercial seller can not alter design and has to keep it in it’s original published form.</br>**
