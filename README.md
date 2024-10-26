@@ -27,6 +27,8 @@ Battery and charger mod is based on my <a href="https://github.com/AC8L/PSU-for-
 
 Because of minimum batch of 5 for the PCB order plus shipment, project is very well suited for the group build or club projects. If anyone wants to make money out of it - you have my blessings and prayers for the success!
 
+There are active discussions on group build and group purchase on QRP Labs forum hosted by groups.io, please visit https://groups.io/g/QRPLabs.
+
 I can only do a limited support and further development on best effort basis.
 
 Sardar - AC8L, 4K6SA, VA3DUA.</br>
