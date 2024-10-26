@@ -35,11 +35,12 @@ Sardar - AC8L, 4K6SA, VA3DUA.</br>
 Vienna, VA 10/13/2024</br>
 AC8L@ARRL.NET
 
+# Build steps at a glance
+
 **WARNING! Before you proceed with spending money and time, please take a note that the battery mod is compatible with QMX+ 12V build only!!! Do not use it with 9V, you will damage the rig!!!**
 
-# Build steps at a glance
 1. Build <a href="http://qrp-labs.com/qmxp.html">QMX+</a> with following mods:
-   - Do not solther the jumper wire on JP501 as instructed on Rev2.00 build document's page 37! The ATU will play the role of that jumper wire.
+   - Do not solder the jumper wire on JP501 as instructed on Rev2.00 build document's page 37! The ATU will play the role of that jumper wire.
    - Make sure to solder-in the 2-row 5-pin female connector into JP501.
    - Plug in a temporary jumper wire (breadboard prototyping wire is a good choice) into the female connector at JP501 at pins corresponding to a soldered jumper wire in the instruction document's page 37.
    - Thoroghly calibrate and test the QMX+ build according to the assembly manual. Making a couple of QSO's is a good idea.
