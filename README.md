@@ -199,6 +199,9 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
 For the ordering convenience, below is the part list from Digkey for one build. List contains the vast majority of parts that can be sourced from Digikey except for some minor parts, like few pin headers and BMS battery charger.
 https://www.digikey.com/en/mylists/list/1DR9PWCRAR
 
+## Alternative US sourcing option
+If you are located in US,  prefer brick & mortar style shopping and in addition are lucky enough to live near one of many <a href="https://www.microcenter.com">Microcenter</a>> stores - it carries many if not all parts in the part list. It may worth to pay a visit to the store, if not for the parts, but to replenish the BAWLS stock for sure :)
+
 ## Approximate cost estimate 
  Below is a rough estimate (with most pessimistic unoptimized assumption) for few configurations based on 10/13/24 simulation of JLPCB ordering plus US shipment and, Digikey part list cost. Estimation is based on a minimum batch of 5 PCB order and can be significantly lower with higer batch size. With current inflation rates next year this info will be well outdated.
 ### All Inclusive
