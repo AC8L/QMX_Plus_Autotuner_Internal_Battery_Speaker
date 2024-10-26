@@ -1,4 +1,4 @@
-# Integrated Automatic antenna tuner, internal battery with a charger and speaker for <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/QRP_Labs_Logo.png" width=20% height=20%> QMX+ transceiver
+# Integrated Automatic antenna tuner, internal battery with a charger and speaker for <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/QRP_Labs_Logo.png" width=15% height=15%> QMX+ transceiver
 
 QMX+ Battery Charger and ATU Companion Board             |  QMX+ ATU Mounting Board | Back of the Companion board | All-in-One QMX+ Field minimalistic config
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
