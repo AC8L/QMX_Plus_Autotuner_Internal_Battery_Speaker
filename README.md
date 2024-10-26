@@ -227,4 +227,5 @@ Can be found <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Batter
 - The speaker and amplifier was a last moment addition with a brief breadbord prototyping. Schematics will definitely benefit from fine tuning.
 - Implement band switching for external amps through AUX port. Utilize LPF0 to LPF5 signals from QMX+.
 
+#
 #### Legal notice
