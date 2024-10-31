@@ -202,7 +202,7 @@ For the ordering convenience, below is the part list from Digkey for one build. 
 https://www.digikey.com/en/mylists/list/1DR9PWCRAR
 
 ## Alternative US sourcing option
-If you are located in US,  prefer brick & mortar style shopping and in addition are lucky enough to live near one of many <a href="https://www.microcenter.com">Microcenter</a> stores - it carries many if not all parts in the part list either individualy or in a variety of sets. It may be worth paying a visit to the store, if not for the parts, but to replenish the <a href="https://www.bawls.com">BAWLS</a> stock for sure :smile:
+If you are located in US,  prefer brick & mortar style shopping and in addition are lucky enough to live near one of many <a href="https://www.microcenter.com">Microcenter</a> stores - it carries many if not all parts in the part list either individualy or in a variety of sets. Look at the Maker section of the store, prices are lower or competitve to Amazon. It may be worth paying a visit to the store, if not for the parts, but to replenish the <a href="https://www.bawls.com">BAWLS</a> stock for sure :smile:
 
 ## Approximate cost estimate 
  Below is a rough estimate (with most pessimistic unoptimized assumption) for few configurations based on 10/13/24 simulation of JLPCB ordering plus US shipment and, Digikey part list cost. Estimation is based on a minimum batch of 5 PCB order and can be significantly lower with higer batch size. With current inflation rates next year this info will be well outdated.
