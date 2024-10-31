@@ -72,7 +72,9 @@ I personally have a habit ordering PCB's from <a href="https://jlcpcb.com">JLCPC
 1. ATU <a href="https://antrak.org.tr/wp-content/uploads/uSDX-SOTA-ATU.zip">(link to download fabrication files is here)</a>
 2. ATU Mount PCB - <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/main/QMX+_ATU_Mount_Board/QMX_Plus_ATU_Mount_Board_Fabrication_Files.zip">fabrication files for latest revison</a>
 3. QMX+ Companion PCB - <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/main/QMX+_ATU_Companion_Board_THT_v1.1/QMX_Plus_ATU_Companion_Board-Fabrication_Files.zip">fabrication files for latest revison</a>
-
+4. Optionally, order one of the versions of the front panel PCB:
+     - with LED manually sothered from the back. Fabrications files are <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/main/QMX+_Front_Panel_Mod_For_ATU/PCB version THT v1.0//GERBER-QMX_Plus Front Panel Mod THT v1.0.zip">here</a>.
+     - with SMD LED factory-sothered on the front. Fabrications files are <a href="QMX+_Front_Panel_Mod_For_ATU/PCB version SMD with LED v1.1/production_files">here</a>.
 # Group build manager (organizer)
 Usually in group builds it supoposed to be the responsibility of a group build manager to:
 1. Order PCB's.
