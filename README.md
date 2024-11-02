@@ -232,6 +232,11 @@ If you are located in US,  prefer brick & mortar style shopping and in addition 
 # Detailed Build Instructions
 Can be found <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/QMX%2B_ATU_Bat_Speaker_Assembly_Instructions_v1.0.pdf">here.</a>
 
+# Known issues
+There is a bug discovered in ATU mount board PCB v1.0 that was fixed in v1.1. Basically, the output from audio channel was tapped to the non-switched output. The result of the bug is that when external audio device is plugged to the "Ear" front connector - the internal speaker is not turning off. Lucklily, the fix for v1.0 PCB is very easy. Check photos below for the fix.
+<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/Mount_Board_v1.0_bugfix_p1.jpeg" width=20% height=20%>
+<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/Mount_Board_v1.0_bugfix_p2.jpeg" width=20% height=20%>
+
 # Some future work:
 - Test ATU and battery charger implications into the QMX+ performance in the context of the parasitic interference
 - The speaker and amplifier was a last moment addition with a brief breadbord prototyping. Schematics will definitely benefit from fine tuning.
