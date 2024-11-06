@@ -238,7 +238,7 @@ Can be found <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Batter
 
 <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/Mount_Board_v1.0_bugfix_p1.jpeg" width=25% height=25%><img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/Mount_Board_v1.0_bugfix_p2.jpeg" width=20% height=20%>
 
- - For some taste the LED might be too bright. If that is the case, chnage R1 adn R2 values on Companion PCB to 2.2K or 3K, or 3.5K. Higher the values lower the brightness.
+ - For some taste the LED might be too bright. If that is the case, change R1 adn R2 values on Companion PCB to 2.2k or 3k, or 3.5k. Higher the values lower the brightness.
 
 # Some future work:
 - Test ATU and battery charger implications into the QMX+ performance in the context of the parasitic interference
