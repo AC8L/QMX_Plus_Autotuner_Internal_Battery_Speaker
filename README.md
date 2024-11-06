@@ -234,9 +234,11 @@ If you are located in US,  prefer brick & mortar style shopping and in addition 
 Can be found <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/QMX%2B_ATU_Bat_Speaker_Assembly_Instructions_v1.0.pdf">here.</a>
 
 # Known issues
-There is a bug discovered in ATU mount board PCB v1.0 that was fixed in v1.1. Basically, the output from audio channel was tapped to the non-switched output of QMX+ "Ear" front connector. The result of the bug is that when an external audio device is plugged to the "Ear" front connector - the internal speaker is not turning off. Luckily, the fix for v1.0 PCB is very easy. Check photos below for the fix.
+ - There is a bug discovered in ATU mount board PCB v1.0 that was fixed in v1.1. Basically, the output from audio channel was tapped to the non-switched output of QMX+ "Ear" front connector. The result of the bug is that when an external audio device is plugged to the "Ear" front connector - the internal speaker is not turning off. Luckily, the fix for v1.0 PCB is very easy. Check photos below for the fix.
 
 <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/Mount_Board_v1.0_bugfix_p1.jpeg" width=25% height=25%><img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/Mount_Board_v1.0_bugfix_p2.jpeg" width=20% height=20%>
+
+ - For some taste the LED might be too bright. If that is the case, chnage R1 adn R2 values on Companion PCB to 2.2K or 3K, or 3.5K. Higher the values lower the brightness.
 
 # Some future work:
 - Test ATU and battery charger implications into the QMX+ performance in the context of the parasitic interference
