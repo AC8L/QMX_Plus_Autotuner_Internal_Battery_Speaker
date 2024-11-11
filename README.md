@@ -1,4 +1,4 @@
-# Integrated Automatic antenna tuner, internal battery with a charger and speaker for <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/QRP_Labs_Logo.png" width=15% height=15%> QMX+ transceiver
+# Integrated Automatic antenna tuner, internal battery with a charger and speaker for QMX+ transceiver
 
 QMX+ Battery Charger and ATU Companion Board             |  QMX+ ATU Mounting Board | Back of the Companion board | All-in-One QMX+ Field minimalistic config
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
@@ -244,9 +244,3 @@ Can be found <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Batter
 - Test ATU and battery charger implications into the QMX+ performance in the context of the parasitic interference
 - The speaker and amplifier was a last moment addition with a brief breadbord prototyping. Schematics will definitely benefit from fine tuning.
 - Implement band switching for external amps through AUX port. Utilize LPF0 to LPF5 signals from QMX+.
-
-#
-#### *Legal notice*
-- <sup><img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/QRP_Labs_Logo.png" width=10% height=10%>, QMX and QMX+ are trademarks of Hans Summers (G0UPL).</sup>
-- <sup>References to trademarks above are used in this open source project on no-objection basis from Hans Summers (G0UPL) for this project only.</sup>
-- <sup>Since this project is an open source, the permission to use trademarks mentioned is not automatically transferrable in the case parts of this project are reused for other project(s). Each new project originator(s) must obtain the explicit permission from trademark owner.</sup>
