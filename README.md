@@ -37,7 +37,9 @@ AC8L@ARRL.NET
 
 # Build steps at a glance
 
-**WARNING! Before you proceed with spending money and time, please take a note that the battery mod is compatible with QMX+ 12V build only!!! Do not use it with QMX+ built for 9V power supply, you will damage the rig!!!**
+**WARNING 1! Anyone who are about to try these experimental solutions are doing so at their own risk and I do not carry any repsonsibility for any loss as a result of trying proposed solution, including but not limited to the material loss or loss of health!!!**
+
+**WARNING 2! Before you proceed with spending money and time, please take a note that the battery mod is compatible with QMX+ 12V build only!!! Do not use it with QMX+ built for 9V power supply, you will damage the rig!!!**
 
 1. Build <a href="http://qrp-labs.com/qmxp.html">QMX+</a> with following mods:
    - Do not solder the jumper wire on JP501 as instructed on Rev2.00 build document's page 37! The ATU will play the role of that jumper wire.
@@ -192,6 +194,8 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - For JP106 we need actually 3-pin connector. However I could not source one with long needles. So, I just cut 3 pins. Leaving the plastic though intact!
  - LS1: Speaker 2W 8Ohm 28mm: https://a.co/d/bBaHMG7
    - or Digikey part 102-3850-ND
+   - Power supply/charger for batteries: https://a.co/d/hriKC1F
+   - It is very important to use this recommended power supply for the best charging experience and from the safety perspective!  
  ## Front Panel
  - SW1: Generic button: https://a.co/d/eFSJQzc
    - or Digikey part EG2025-ND
