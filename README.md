@@ -39,7 +39,7 @@ AC8L@ARRL.NET
 
 # Build steps at a glance
 
-**WARNING 1! Anyone who are about to try these experimental solutions are doing so at their own risk and I do not carry any repsonsibility for any loss as a result of trying proposed solution, includimg but not limited to their material loss or loss of health!!!**
+**WARNING 1! Anyone who are about to try these experimental solutions are doing so at their own risk and I do not carry any repsonsibility for any loss as a result of trying proposed solution, including but not limited to the material loss or loss of health!!!**
 
 **WARNING 2! Before you proceed with spending money and time, please take a note that the battery mod is compatible with QMX+ 12V build only!!! Do not use it with QMX+ built for 9V power supply, you will damage the rig!!!**
 
