@@ -165,7 +165,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - For Digikey part you will have to burn the Arduino bootloader. Instructions: https://www.youtube.com/watch?v=AwbcOT2z69k
    - If you want to source the ATMEGA with bootloader burned: https://a.co/d/9rrcNaf
  - Y1: 16Mhz Crystal (Digikey part 3155-16M20P2/49US-ND)
- - U2: CD4066BE bilateral switch (Digikey part 296-2061-5-ND)
+ - U2,U6: CD4066BE bilateral switch (Digikey part 296-2061-5-ND)
  - U3: LM386N-4 Operational amplifier (Digikey part 296-43960-5-ND)
  - U4 - 18650 battery holder (model 1, THT) (Digikey part BH-18650-PC-ND) 
    - Alternative from Amazon: https://a.co/d/hhQG5n8 
