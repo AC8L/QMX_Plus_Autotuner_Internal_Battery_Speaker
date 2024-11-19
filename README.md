@@ -182,6 +182,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - R3: 10K THT Resistor (Digikey part 13-MFR-25FRF52-10KCT-ND)
  - R4: 7.5K THT resistor (Digikey part MFR-25FRF52-7K5)
  - R5: 10 Ohm THT resistor (Digikey part 10.0XBK-ND)
+ - R6: 750 Ohm THT resistor (Digikey part 13-MFR-25FRF52-750RCT-ND)
  - C1,C2: 22pF ceramic capacitor THT (Digikey part BC1055CT-ND) 
  - C3: 1000uF electrolytic capacitor THT (Digikey part 1189-1583-1-ND)
  - C4: 47pF ceramic capacitor THT (Digikey part BC1009CT-ND) 
