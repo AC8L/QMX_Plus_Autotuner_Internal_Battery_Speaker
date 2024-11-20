@@ -1,4 +1,5 @@
-# Integrated Automatic antenna tuner, internal battery with a charger and speaker for QMX+ transceiver - ver.2 (beta)
+# ABS for QMX+ transceiver - V2 (beta)
+## (Integrated Automatic antenna tuner, internal battery with charger and speaker)
 
 QMX+ Battery Charger and ATU Companion Board             |  QMX+ ATU Mounting Board | Back of the Companion board | All-in-One QMX+ Field minimalistic config
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
