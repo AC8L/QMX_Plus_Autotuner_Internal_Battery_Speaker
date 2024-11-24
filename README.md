@@ -153,6 +153,8 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - JP501: 2x5 10-pin double row male pin header: https://a.co/d/dF83x28
    - cut 2x5 section from the strip.
 ## Battery/Speaker PCB
+<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_ATU_Audio_Amp_PCB_v1.6.1/ABS_ATU_Audio_Amp_PCB_v1.6.1 - Front.jpg" width=50% height=50%>
+<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_ATU_Audio_Amp_PCB_v1.6.1/ABS_ATU_Audio_Amp_PCB_v1.6.1 - Back.jpg" width=50% height=50%>
  - U4, U5, U7 - 18650 battery holder (Digikey part 36-1043P-ND)
  - U8: 1xBMS battery charger/protection board https://a.co/d/gX6wQ45
    - Sometimes one vendor is unavailable, other comes in. But these parts are generally are always available. Make sure to source 3S 40A 12.6V model!
