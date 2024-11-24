@@ -135,15 +135,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - JP106: one of 1x3 3-pin single row female connector: https://a.co/d/5E9IhZu
    - cut 3-pin module from the strip.
    - or from Digikey part S7001-ND
-## ATU
- - See https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/
- - Do not source and solther two BNC connectors
- - Do not source and solther the fixed 100uH inductor L8.
- - Do not source and solther male pin connectors to the ATU board. We will use different ones for our integration. 
- - two of 8-pin single row male pin header (Digikey part 664-G800W268018EU-ND)
-   - Alternative from Amazon: https://a.co/d/2SuiWnt
-   - just cut two 8-pin sections from the strip.
-## ATU Mounting PCB
+## ATU / Audio Amp PCB
  - J1: 1x10 pin 2.54mm Female pin Header Connector Extra Tall: https://a.co/d/21eQjdI
    - the 1x6 connector from the same Amazon kit will be used for JP102 on a companion board BOM
    - or Digikey part SSW-110-03-T-S-ND
@@ -159,35 +151,13 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - Alternative from Amazon: https://a.co/d/2SuiWnt 
  - JP501: 2x5 10-pin double row male pin header: https://a.co/d/dF83x28
    - cut 2x5 section from the strip.
-## Companion PCB
- - U1: ATMEGA328P-PU (Digikey part ATMEGA328P-PU-ND)
-   - For Digikey part you will have to burn the Arduino bootloader. Instructions: https://www.youtube.com/watch?v=AwbcOT2z69k
-   - If you want to source the ATMEGA with bootloader burned: https://a.co/d/9rrcNaf
- - Y1: 16Mhz Crystal (Digikey part 3155-16M20P2/49US-ND)
- - U2: CD4066BE bilateral switch (Digikey part 296-2061-5-ND)
- - U3: LM386N-4 Operational amplifier (Digikey part 296-43960-5-ND)
- - U4 - 18650 battery holder (model 1, THT) (Digikey part BH-18650-PC-ND) 
-   - Alternative from Amazon: https://a.co/d/hhQG5n8 
- - U5, U7 - 18650 battery holder (model 2, SMD) (Digikey part 36-1042P-ND)
-   - Alternative from Amazon: https://a.co/d/4vdH2PG
+## Battery/Speaker PCB
+ - U4, U5, U7 - 18650 battery holder (Digikey part 36-1043P-ND)
  - U8: 1xBMS battery charger/protection board https://a.co/d/gX6wQ45
    - Sometimes one vendor is unavailable, other comes in. But these parts are generally are always available. Make sure to source 3S 40A 12.6V model!
  - 3x18650 Lithium Batteries. 18650BatteryStore.com part number INR18650-25R.
    - These are original Samsung 25R 18650 2500mAh 20A Batteries. Not problematic ones from Amazon and a such.
    - Alternative from Digikey, part number 1568-1488-ND
- - D1 3mm LED (Digikey part 732-5008-ND)
-   - Feel free choising different colors.
- - R1,R2: 1K THT Resistor (Digikey part 13-MFR-25FRF52-1KCT-ND)
- - R3: 10K THT Resistor (Digikey part 13-MFR-25FRF52-10KCT-ND)
- - R4: 7.5K THT resistor (Digikey part MFR-25FRF52-7K5)
- - R5: 10 Ohm THT resistor (Digikey part 10.0XBK-ND)
- - C1,C2: 22pF ceramic capacitor THT (Digikey part BC1055CT-ND) 
- - C3: 1000uF electrolytic capacitor THT (Digikey part 1189-1583-1-ND)
- - C4: 47pF ceramic capacitor THT (Digikey part BC1009CT-ND) 
- - C5,C6: 100uF electrolytic capacitors THT (Digikey part 399-6601-ND)
- - 1x28Pos DIP Socket for U1 (Digikey part A120353-ND). If you bought ATMEGA from Amazon with socket included - you do not need this.
- - 1x14Pos DIP Socket for U2 (Digikey part AE9989-ND)
- - 1x8Pos DIP Socket for U3 (Digikey part A120347-ND)
  - SW1: PCB Mount Slide Switch THT: https://a.co/d/ghhbBuE
  - J1: 1x10 pin 2.54mm Male pin Header Connector Extra Tall: https://a.co/d/2l7o6wW
    - These are sold in a bulk, you will have to cut 1x10 out of it. Do not worry, we use some for the ATU Mount PCB as well.
@@ -208,7 +178,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
 
 ## Digikey part list
 For the ordering convenience, below is the part list from Digkey for one build. List contains the vast majority of parts that can be sourced from Digikey except for some minor parts, like few pin headers and BMS battery charger.
-https://www.digikey.com/en/mylists/list/1DR9PWCRAR
+(Work in progress)...
 
 ## Alternative US sourcing option
 If you are located in US,  prefer brick & mortar style shopping and in addition are lucky enough to live near one of many <a href="https://www.microcenter.com">Microcenter</a> stores - it carries many if not all parts in the part list either individualy or in a variety of sets. Look at the Maker section of the store, prices are lower or competitve to Amazon. It may be worth paying a visit to the store, if not for the parts, but to replenish the <a href="https://www.bawls.com">BAWLS</a> stock for sure :smile:
