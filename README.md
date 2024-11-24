@@ -73,10 +73,9 @@ AC8L@ARRL.NET
 
 # Ordering PCB's
 I personally have a habit ordering PCB's from <a href="https://jlcpcb.com">JLCPCB</a> (again, I am not associated with them!). For the convenience, all 3 PCB's can be ordered in one order.
-1. ATU <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/main/ATU Fabrication Files/ATU_Fabrication_Files.zip">(link to download fabrication files is here)</a>
-2. ATU Mount PCB - <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/main/QMX+_ATU_Mount_Board/QMX_Plus_ATU_Mount_Board_Fabrication_Files.zip">fabrication files for latest revison</a>
-3. QMX+ Companion PCB - <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/main/QMX+_ATU_Companion_Board_THT_v1.1/QMX_Plus_ATU_Companion_Board-Fabrication_Files.zip">fabrication files for latest revison</a>
-4. Optionally, order one of the versions of the front panel PCB:
+1. ATU and Audio amp PCB (work in progress)...
+2. Battery/Speaker PCB (work in progress)...
+3. Optionally, order one of the versions of the front panel PCB:
      - with LED manually soldered from the back. Fabrication files are <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/main/QMX+_Front_Panel_Mod_For_ATU/PCB version THT v1.0//GERBER-QMX_Plus Front Panel Mod THT v1.0.zip">here</a>.
      - with SMD LED factory-soldered on the front. Fabrication files are <a href="QMX+_Front_Panel_Mod_For_ATU/PCB version SMD with LED v1.1/production_files">here</a>.
 
@@ -136,6 +135,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - cut 3-pin module from the strip.
    - or from Digikey part S7001-ND
 ## ATU / Audio Amp PCB
+<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_ATU_Audio_Amp_PCB_v1.6.1/ABS_ATU_Audio_Amp_PCB_v1.6.1 - Front.jpg" width=120% height=30%>
  - J1: 1x10 pin 2.54mm Female pin Header Connector Extra Tall: https://a.co/d/21eQjdI
    - the 1x6 connector from the same Amazon kit will be used for JP102 on a companion board BOM
    - or Digikey part SSW-110-03-T-S-ND
