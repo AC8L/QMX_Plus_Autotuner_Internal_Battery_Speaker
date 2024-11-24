@@ -135,7 +135,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - cut 3-pin module from the strip.
    - or from Digikey part S7001-ND
 ## ATU / Audio Amp PCB
-<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_ATU_Audio_Amp_PCB_v1.6.1/ABS_ATU_Audio_Amp_PCB_v1.6.1 - Front.jpg" width=120% height=30%>
+<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_ATU_Audio_Amp_PCB_v1.6.1/ABS_ATU_Audio_Amp_PCB_v1.6.1 - Front.jpg" width=20% height=20%>
  - J1: 1x10 pin 2.54mm Female pin Header Connector Extra Tall: https://a.co/d/21eQjdI
    - the 1x6 connector from the same Amazon kit will be used for JP102 on a companion board BOM
    - or Digikey part SSW-110-03-T-S-ND
