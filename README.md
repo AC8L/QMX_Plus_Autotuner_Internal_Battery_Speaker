@@ -168,7 +168,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - Y1: 16Mhz Crystal (Digikey part 3155-16M20P2/49US-ND)
  - U2,U6: CD4066BE bilateral switch (Digikey part 296-2061-5-ND)
  - U3: LM386N-4 Operational amplifier (Digikey part 296-43960-5-ND)
- - U4,U5,U7 - 18650 battery holder (THT, polarized) (Digikey part 36-1043P-ND) 
+ - U4,U5,U7 - 18650 battery holder (THT) (Digikey part 36-1043-ND) 
  - U8: 1xBMS battery charger/protection board https://a.co/d/gX6wQ45
    - Sometimes one vendor is unavailable, other comes in. But these parts are generally are always available. Make sure to source 3S 40A 12.6V model!
  - 3x18650 Lithium Batteries. 18650BatteryStore.com part number INR18650-25R.
