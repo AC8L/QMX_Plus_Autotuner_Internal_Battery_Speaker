@@ -165,7 +165,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - U3: LM386N-4 Operational amplifier (Digikey part 296-43960-5-ND)
  - U4 - 18650 battery holder (model 1, THT) (Digikey part BH-18650-PC-ND) 
    - Alternative from Amazon: https://a.co/d/hhQG5n8 
- - U5, U7 - 18650 battery holder (model 2, SMD) (Digikey part 36-1042P-ND)
+ - U5, U7 - 18650 battery holder (model 2, SMD) (Digikey part 36-1042-ND)
    - Alternative from Amazon: https://a.co/d/4vdH2PG
  - U8: 1xBMS battery charger/protection board https://a.co/d/gX6wQ45
    - Sometimes one vendor is unavailable, other comes in. But these parts are generally are always available. Make sure to source 3S 40A 12.6V model!
