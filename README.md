@@ -157,7 +157,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
 ## Battery/Speaker PCB
 <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_Battery_Speaker_PCB_v1.2/ABS_Battery_Board_v1.2 - Front.jpg" width=50% height=50%>
 <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_Battery_Speaker_PCB_v1.2/ABS_Battery_Board_v1.2 - Back.jpg" width=50% height=50%>
- - U4, U5, U7 - 18650 battery holder (Digikey part 36-1043P-ND)
+ - U4, U5, U7 - 18650 battery holder (THT) (Digikey part 36-1043-ND)
  - U8: 1xBMS battery charger/protection board https://a.co/d/gX6wQ45
    - Sometimes one vendor is unavailable, other comes in. But these parts are generally are always available. Make sure to source 3S 40A 12.6V model!
  - 3x18650 Lithium Batteries. 18650BatteryStore.com part number INR18650-25R.
