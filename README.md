@@ -136,7 +136,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - or from Digikey part S7001-ND
 
 ## ATU / Audio Amp PCB
-<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_ATU_Audio_Amp_PCB_v1.6.1/ABS_ATU_Audio_Amp_PCB_v1.6.1 - Front.jpg" width=50% height=50%>
+<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_ATU_Audio_Amp_PCB_v1.6.1/ABS_ATU_Audio_Amp_PCB_v1.6.1 - Front with Components Assembled.png" width=50% height=50%>
 <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_ATU_Audio_Amp_PCB_v1.6.1/ABS_ATU_Audio_Amp_PCB_v1.6.1 - Back.jpg" width=50% height=50%>
 
  - J1: 1x10 pin 2.54mm Female pin Header Connector Extra Tall: https://a.co/d/21eQjdI
