@@ -176,7 +176,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - Alternative from Digikey, part number 1568-1488-ND
  - D1 3mm LED (Digikey part 732-5008-ND)
    - Feel free choising different colors.
- - R1,R2: 1K THT Resistor (Digikey part 13-MFR-25FRF52-1KCT-ND)
+ - R1,R2: 3K THT Resistor (Digikey part 13-MFR-25FRF52-3KCT-ND)
  - R3: 10K THT Resistor (Digikey part 13-MFR-25FRF52-10KCT-ND)
  - R4: 7.5K THT resistor (Digikey part MFR-25FRF52-7K5)
  - R5: 10 Ohm THT resistor (Digikey part 10.0XBK-ND)
