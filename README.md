@@ -156,8 +156,8 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - cut 2x5 section from the strip.
 
 ## Battery/Speaker PCB
-<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.4 - Front.jpg" width=50% height=50%>
-<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.4 - Back.jpg" width=50% height=50%>
+<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5 - Front.jpg" width=50% height=50%>
+<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5 - Back.jpg" width=50% height=50%>
 
  - U4, U5, U7 - 18650 battery holder (THT) (Digikey part 36-1043-ND)
  - U8: 1xBMS battery charger/protection board https://a.co/d/gX6wQ45
