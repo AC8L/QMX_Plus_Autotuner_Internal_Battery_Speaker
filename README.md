@@ -110,7 +110,7 @@ There are various build configurations possible:
 - Barb (WB2CBA) has <a href="https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/">detailed instructions on the ordering process from JLCPCB at the ATU link</a> for both "plain" PCB's and PCB's with SMD components populated. It will be difficuilt to add anything else to his writings.
 
 # Bill of Materials (BOM)
-Discalimer: I am not associated with any supplier and do not receive any monetary or other benefit from referring to their products!
+Discalimer: I am not affiliated with any supplier and do not receive any monetary or other benefit from referring to their products!
 I am using USA suppliers, other regions have better suppliers for BOM sourcing.
 ## QMX+
  - 7xM3 Nylon screw, 6mm: http://shop.qrp-labs.com/SPAREPARTS/sparepartsqmx/hscrewm3p6
