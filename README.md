@@ -110,8 +110,9 @@ There are various build configurations possible:
 5. ATU and battery
 6. ATU and speaker
 7. Battery and speaker
-- For all configurations you still will have to order both PCB's from this repositiry. Even if some portions will be left unpopulated - PCB's are mechanically and electrically interdependent on each other.  
+- For all configurations you still will have to order both - ATU Mount and Companion PCB's from this repositiry. Even if some portions will be left unpopulated - PCB's are mechanically and electrically interdependent on each other.  
 - For configurations (3),(4) and (7) - you do not need to order the ATU.
+- For configurations (2),(4) and (6) - you do not need to order the real panel PCB.
 - For any non-complete configuration you can gradually add other components later on.
 - Barb (WB2CBA) has <a href="https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/">detailed instructions on the ordering process from JLCPCB at the ATU link</a> for both "plain" PCB's and PCB's with SMD components populated. It will be difficuilt to add anything else to his writings.
 
