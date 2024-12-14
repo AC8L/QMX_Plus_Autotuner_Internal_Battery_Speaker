@@ -38,6 +38,9 @@ Sardar - AC8L, 4K6SA, VA3DUA.</br>
 Vienna, VA 10/13/2024</br>
 AC8L@ARRL.NET
 
+### Notes for the ABS v1.2 release
+Since the inception of ABS back in August 2024 the have been active discussions going on QRP Labs forum. Version 1.2 has incorporated many of useful feedback provided through the forum. The release of version 1.2 would not be possible without that feedback. While it is difficult to name everyone who provded a feedback I want to acknowledge Cal (AD8Q), Stan (KC7XE), Jeff (W1NC) and Dirk (DK7CVD) who spent a tremendous amount of time (almost fulltime job) to build and test (and few times even scrap) intermediate revisions of PCB's at their own expense until design has stabilized.
+
 # Build steps at a glance
 
 **WARNING 1! Anyone who are about to try these experimental solutions are doing so at their own risk and I do not carry any repsonsibility for any loss as a result of trying proposed solution, including but not limited to the material loss or loss of health!!!**
