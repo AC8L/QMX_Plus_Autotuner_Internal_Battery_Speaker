@@ -238,11 +238,16 @@ If you are located in US,  prefer brick & mortar style shopping and in addition 
 # Detailed Build Instructions
 Can be found <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/QMX%2B_ATU_Bat_Speaker_Assembly_Instructions_v1.0.pdf">here.</a>
 
+# Fixed issues in ABS V1.2
+## ATU Mount PCB v1.2
+ - Fixed proper routing of audio input to the switched output of QMX+ "Ear" front connector.
+ - Added routing from ATU Bypass button to the J1 connector.
+ - Widened Vcc (+5V) trace to the ATU +5V pad.
+ - Added additional mounting M3 hole for better mechanical assembly between ATU Mounting PCB (v1.2) and Companion Board (v1.3).
+## Companion Board V1.3
+ - Fixed significan voltage drops (1-2.5V) due to narrow long traces.
+
 # Known issues
- - There is a bug discovered in ATU mount board PCB v1.0 that was fixed in v1.1. Basically, the output from audio channel was tapped to the non-switched output of QMX+ "Ear" front connector. The result of the bug is that when an external audio device is plugged to the "Ear" front connector - the internal speaker is not turning off. Luckily, the fix for v1.0 PCB is very easy. Check photos below for the fix.
-
-<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/Mount_Board_v1.0_bugfix_p1.jpeg" width=25% height=25%><img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/Mount_Board_v1.0_bugfix_p2.jpeg" width=20% height=20%>
-
  - For some taste the LED might be too bright. If that is the case, change R1 adn R2 values on Companion PCB to 2.2k or 3k, or 3.5k. Higher the values lower the brightness.
 
 # Some future work:
