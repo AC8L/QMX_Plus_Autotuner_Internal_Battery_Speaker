@@ -81,6 +81,7 @@ I personally have a habit ordering PCB's from <a href="https://jlcpcb.com">JLCPC
 1. ATU <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/main/ATU Fabrication Files/ATU_Fabrication_Files.zip">(link to download fabrication files is here)</a>
 
 *It is important to use fabrication files from this repository rather than original from Barb's page. BOM has been optimized for ABS to include currently available components and the entire power supply component circuit was removed. CPL file has been fixed for proper component placement.*
+
 2. ATU Mount PCB - <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/version1.2-beta/QMX+_ATU_Mount_Board_THT_v1.2/GERBER-QMX_Plus_ATU_Mount_Board_THT_v1.2.zip">fabrication files for latest revison</a>
 3. QMX+ Companion PCB - <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/version1.2-beta/QMX+_ATU_Companion_Board_THT_v1.3/GERBER-QMX_Plus_ATU_Companion_Board_THT_v1.3.zip">fabrication files for latest revison</a>
 4. Optionally, order one of the versions of the front panel PCB:
