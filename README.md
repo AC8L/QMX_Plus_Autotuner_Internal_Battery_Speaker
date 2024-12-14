@@ -79,6 +79,7 @@ Since the inception of ABS back in August 2024 there have been active discussion
 # Ordering PCB's
 I personally have a habit ordering PCB's from <a href="https://jlcpcb.com">JLCPCB</a> (again, I am not associated with them!). For the convenience, all 3 PCB's can be ordered in one order.
 1. ATU <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/main/ATU Fabrication Files/ATU_Fabrication_Files.zip">(link to download fabrication files is here)</a>
+*It is important to use fabrication files from this repository rather than original from Barb's page. BOM has been optimized for ABS to include currently available components and the entire power supply component circuit was removed. CPL file has been fixed for proper component placement.*
 2. ATU Mount PCB - <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/version1.2-beta/QMX+_ATU_Mount_Board_THT_v1.2/GERBER-QMX_Plus_ATU_Mount_Board_THT_v1.2.zip">fabrication files for latest revison</a>
 3. QMX+ Companion PCB - <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/version1.2-beta/QMX+_ATU_Companion_Board_THT_v1.3/GERBER-QMX_Plus_ATU_Companion_Board_THT_v1.3.zip">fabrication files for latest revison</a>
 4. Optionally, order one of the versions of the front panel PCB:
@@ -116,12 +117,12 @@ There are various build configurations possible:
 Discalimer: I am not affiliated with any supplier and do not receive any monetary or other benefit from referring to their products!
 I am using USA suppliers, other regions have better suppliers for BOM sourcing.
 ## QMX+
- - 7xM3 Nylon screw, 6mm: http://shop.qrp-labs.com/SPAREPARTS/sparepartsqmx/hscrewm3p6
+ - 8xM3 Nylon screw, 6mm: http://shop.qrp-labs.com/SPAREPARTS/sparepartsqmx/hscrewm3p6
    - or from Digikey part 732-13704-ND
    - or from kit: https://a.co/d/bzrrWku
- - 2xM3 Nylon screw, 12mm: https://a.co/d/bzrrWku
+ - 3xM3 Nylon screw, 12mm: https://a.co/d/bzrrWku
    - or from Digikey part RPC2024-ND
- - 5xM3 Nylon Hex nut: https://shop.qrp-labs.com/m3nut
+ - 6xM3 Nylon Hex nut: https://shop.qrp-labs.com/m3nut
    - or from kit: https://a.co/d/bzrrWku
    - or from Digikey part 732-12637-ND
  - 3xM3 Nylon Hex Standoff spacer female-female, 11mm: https://shop.qrp-labs.com/hex11
@@ -129,8 +130,8 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - or from Digikey part RPC4425-ND
  - 2xM3 Nylon Hex Standoff spacer female-female, 15mm - from kit: https://a.co/d/bzrrWku
    - or from Digikey part 36-25512-ND  
- - 1xM3 Nylon Hex Standoff spacer male-female, 15mm - from kit:  https://a.co/d/bzrrWku
-   - or from Digikey part 36-25503-ND
+ - 2xM3 Nylon Hex Standoff spacer male-female, 20mm - from kit:  https://a.co/d/bzrrWku
+   - or from Digikey part 36-25505-ND
  - JP101 one of 2x2 4-pin double row female connector: https://shop.qrp-labs.com/con2x2f
    - or from Amazon: https://a.co/d/acgPCxS
    - or from Digikey part S7105-ND
@@ -194,13 +195,15 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - 1x28Pos DIP Socket for U1 (Digikey part A120353-ND). If you bought ATMEGA from Amazon with socket included - you do not need this.
  - 2x14Pos DIP Socket for U2 and U6 (Digikey part AE9989-ND)
  - 1x8Pos DIP Socket for U3 (Digikey part A120347-ND)
- - SW1: PCB Mount Slide Switch THT: https://a.co/d/ghhbBuE
+ - SW1: PCB Mount Slide Switch THT Right angled (Digikey Part EG1917-ND)
  - J1: 1x10 pin 2.54mm Male pin Header Connector Extra Tall: https://a.co/d/2l7o6wW
    - These are sold in a bulk, you will have to cut 1x10 out of it. Do not worry, we use some for the ATU Mount PCB as well.
  - JP102: 2x3 6pin 2.54mm connector, long needles: https://a.co/d/4Ca8vJi
    - For JP102 we need 2x2 female connector. But again, I could not source one with long needes. So, I just cut two side needles leaving plastic part intact.  
  - JP106: 1x6 6pin 2.54mm Female Socket Long needle stackable header: https://a.co/d/21eQjdI
    - For JP106 we need actually 3-pin connector. However I could not source one with long needles. So, I just cut 3 pins. Leaving the plastic though intact!
+   - "ATU Firmware": 3-pin single row male pin header (Digikey part 664-G800W268018EU-ND)
+   - Alternative from Amazon: https://a.co/d/2SuiWnt 
  - LS1: Speaker 2W 8Ohm 28mm: https://a.co/d/bBaHMG7
    - or Digikey part 102-3850-ND
  - Power supply/charger for batteries: https://a.co/d/hriKC1F
