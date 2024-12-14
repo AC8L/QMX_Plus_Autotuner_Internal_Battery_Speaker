@@ -66,17 +66,17 @@ Since the inception of ABS back in August 2024 there have been active discussion
    - Ordering the front panel from JLCPCB (most aesthetically appealing option). When ordered along with other PCB's - the front panel will add negligeable cost. Otherwise if ordered separately the shipping cost to US (about $30) is the most cosiderable portion of the total cost. There are two versions of the PCB front panel:
      - with LED manually soldered from the back. Fabrication files are <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/main/QMX+_Front_Panel_Mod_For_ATU/PCB version THT v1.0//GERBER-QMX_Plus Front Panel Mod THT v1.0.zip">here</a>.
      - with SMD LED factory-soldered on the front. Fabrication files are <a href="QMX+_Front_Panel_Mod_For_ATU/PCB version SMD with LED v1.1/production_files">here</a>.
-6. Build <a href="QMX+_ATU_Companion_Board_THT_v1.3/QMX_Plus_ATU_Companion_Board_THT_v1.3 - Front.jpg">QMX+ ATU Companion Board.</a> Keep power (battery) switch on the OFF position until the last moment before closing the enclosure top!
+6. Build <a href="QMX+_ATU_Companion_Board_THT_v1.3/QMX_Plus_ATU_Companion_Board_THT_v1.3 - Front.jpg">QMX+ ATU Companion Board.</a> Keep power (battery) switch in the OFF position until the last moment before closing the enclosure top!
 7. Upload <a href="QMX_plus_ATU_Companion_Board_ATMEGA328P/QMX_plus_ATU_Companion_Board_ATMEGA328P.ino">companion board firmware</a> into ATMEGA328P chip. Use Ardiuno UNO R3 board for that.
 8. Install ATMEGA328P chip into the companion board
 9. Install ATU mount board with ATU into the QMX+ board.
-10. Insert 18650 batteries and install ATU Companion board on top of the ATU mounting board. Make sure battery power switch is still on OFF position!
+10. Insert 18650 batteries and install ATU Companion board on top of the ATU mounting board. Make sure battery power switch is still in OFF position!
 11. Insert QMX+ assembly with companion boards into its enclosure, screw-in front and back panels of the enclosure.
-12. Switch ATU companion board's battery switch to the ON position.
-13. Carefully insert and screw-in QMX+ enclosure's top.
+12. Carefully insert and screw-in QMX+ enclosure's top.
+13. Switch ATU companion board's battery switch to the ON position.
 
 # Ordering PCB's
-I personally have a habit ordering PCB's from <a href="https://jlcpcb.com">JLCPCB</a> (again, I am not associated with them!). For the convenience, all 3 PCB's can be ordered in one order.
+I personally have a habit ordering PCB's from <a href="https://jlcpcb.com">JLCPCB</a> (again, I am not affiliated with them!). For the convenience, all 5 PCB's can be ordered in one order.
 1. ATU <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/main/ATU Fabrication Files/ATU_Fabrication_Files.zip">(link to download fabrication files is here)</a>
 
 *It is important to use fabrication files from this repository rather than original from Barb's page. BOM has been optimized for ABS to include currently available components and the entire power supply component circuit was removed. CPL file has been fixed for proper component placement.*
