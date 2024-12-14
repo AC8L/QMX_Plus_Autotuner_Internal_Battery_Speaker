@@ -245,7 +245,13 @@ Can be found <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Batter
  - Widened Vcc (+5V) trace to the ATU +5V pad.
  - Added additional mounting M3 hole for better mechanical assembly between ATU Mounting PCB (v1.2) and Companion Board (v1.3).
 ## Companion Board V1.3
- - Fixed significan voltage drops (1-2.5V) due to narrow long traces.
+ - Fixed significant voltage drops (1-2.5V) due to narrow and long traces.
+ - Changed on/off switch to an angled version for safety reasons. It now can be controlled with closed enclosure and newly intrioduced rear panel PCB.
+ - Added two M3 mounting holes for better mechanical and electrical rigidity.
+ - Added a second bilateral switch and curcuit to manipulate the ATU bypass button from Arduino code.
+ - Added an "ATU Firmware" jumper for an easy switch between ATU Firmware V1 and V2 (beta). 
+ ## Rear panel V1.0
+ - Newly introduced.
 
 # Known issues
  - For some taste the LED might be too bright. If that is the case, change R1 adn R2 values on Companion PCB to 2.2k or 3k, or 3.5k. Higher the values lower the brightness.
