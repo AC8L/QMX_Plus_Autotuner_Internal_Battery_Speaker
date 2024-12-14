@@ -55,9 +55,9 @@ Since the inception of ABS back in August 2024 there have been active discussion
    - Remove temporary jumper wire.
    - If QMX+ was already built and operational - carefully remove jumper wire on JP501, use suction tool to cleanup soldering pads and holes to prepare them for 2x5 female connector.     
 2. Build ATU with <a href="https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/">instructions at the WB2CBA's page</a> with following mods:
-   - Do not source and solther two BNC connectors.
-   - Do not source and solther the fixed 100uH inductor L8.
-   - Do not source and solther male pin connectors to the ATU board. We will use different ones for our integration.
+   - Do not source and solder two BNC connectors.
+   - Do not source and solder the fixed 100uH inductor L8.
+   - Do not source and solder male pin connectors to the ATU board. We will use different ones for our integration.
    - Use only ATU section of the page, ignore the rest for the purpose of this project.
 3. Upload <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/main/ATU-100_Custom_Firmware/atu_100_fw_3.2_QMX+.hex.zip">ATU custom firmware from this repository</a> into the PIC16F1938 and plug it to the ATU board.
 4. Build <a href="QMX+_ATU_Mount_Board/QMX+_ATU_Mount_Board_Front.jpg">QMX+ ATU Mount Board</a> (install the ATU itself and QMX+ connectors to the Mount board)
