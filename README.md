@@ -87,6 +87,7 @@ I personally have a habit ordering PCB's from <a href="https://jlcpcb.com">JLCPC
 5. Rear panel PCB - <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/version1.2-beta/QMX+_Rear_Panel_Mod_For_Battery_V1/GERBER-QMX_Plus Rear Panel Mod_v1.0.zip">fabrication files for latest revison</a>
 
 *If you are ordering the PCB's from JLCPCB - for front and rear panels select black PCB color.*
+
 *If you are ordering the PCB's from JLCPCB - for ALL the PCB's (except the ATU) - for the option of "Mark on PCB" - select "Order Number (Specify Position)".*
 
 # Group build manager (organizer)
