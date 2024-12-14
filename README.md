@@ -186,7 +186,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - C4: 47nF ceramic capacitor THT (Digikey part BC5153-ND)
  - C5,C6: 100uF electrolytic capacitors THT (Digikey part 399-6601-ND)
  - 1x28Pos DIP Socket for U1 (Digikey part A120353-ND). If you bought ATMEGA from Amazon with socket included - you do not need this.
- - 1x14Pos DIP Socket for U2 (Digikey part AE9989-ND)
+ - 2x14Pos DIP Socket for U2 and U6 (Digikey part AE9989-ND)
  - 1x8Pos DIP Socket for U3 (Digikey part A120347-ND)
  - SW1: PCB Mount Slide Switch THT: https://a.co/d/ghhbBuE
  - J1: 1x10 pin 2.54mm Male pin Header Connector Extra Tall: https://a.co/d/2l7o6wW
