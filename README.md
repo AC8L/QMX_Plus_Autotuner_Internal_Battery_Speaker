@@ -272,6 +272,6 @@ Can be found <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Batter
 # Some future work:
 - Test ATU and battery charger implications into the QMX+ performance in the context of the parasitic interference
 - The speaker and amplifier was a last moment addition with a brief breadbord prototyping. Schematics will definitely benefit from fine tuning.
-- Implement band switching for external amps through AUX port. Utilize LPF0 to LPF5 signals from QMX+.
+- Implement band switching for external amps through AUX port.
 - Utilize upcoming BASIC script functionality in QMX+ to read SWR values from QMX+ itself and control ATU relays. Simplify ATU design by eliminating a transformer and Stockton bridge.
 - Convert ATU design to use latched relays.
