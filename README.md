@@ -249,7 +249,7 @@ If you are located in US,  prefer brick & mortar style shopping and in addition 
 # Detailed Build Instructions
 Can be found <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/QMX%2B_ATU_Bat_Speaker_Assembly_Instructions_v1.0.pdf">here.</a>
 
-# Fixed issues in ABS V1.2
+# ABS V1.2 Release notes
 ## ATU Mount PCB v1.2
  - Fixed proper routing of audio input to the switched output of QMX+ "Ear" front connector.
  - Added routing from ATU Bypass button to the J1 connector.
