@@ -247,7 +247,7 @@ If you are located in US,  prefer brick & mortar style shopping and in addition 
  - Grand Total per 1 build: 30$ max.
 
 # Detailed Build Instructions
-Can be found <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/QMX%2B_ATU_Bat_Speaker_Assembly_Instructions_v1.0.pdf">here.</a>
+Can be found <a href="ABS_for_QMX_Plus_Assembly_Instructions_v1.2.pdf">here.</a>
 
 # ABS V1.2 Release notes
 ## ATU Mount PCB v1.2
