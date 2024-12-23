@@ -206,7 +206,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - For JP106 we need actually 3-pin connector. However I could not source one with long needles. So, I just cut 3 pins. Leaving the plastic though intact!
  - "ATU Firmware": 3-pin single row male pin header (Digikey part 664-G800W268018EU-ND)
    - Alternative from Amazon: https://a.co/d/2SuiWnt 
- - Jumper pin shoring (shunt connector). Digikey part 952-2169-ND.
+ - Jumper pin shorting (shunt connector) for "ATU Firmware" selector jumper. Digikey part 952-2169-ND.
  - LS1: Speaker 2W 8Ohm 28mm: https://a.co/d/bBaHMG7
    - or Digikey part 102-3850-ND
  - Power supply/charger for batteries: https://a.co/d/hriKC1F
