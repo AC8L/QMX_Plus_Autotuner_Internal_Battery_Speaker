@@ -75,7 +75,7 @@ Since the inception of ABS back in August 2024 there have been active discussion
 
 # Ordering PCB's
 I personally have a habit ordering PCB's from <a href="https://jlcpcb.com">JLCPCB</a> (again, I am not affiliated with them!). For the convenience, all 5 PCB's can be ordered in one order.
-1. ATU <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version1.2/ATU%20Fabrication%20Files/ATU_Fabrication_Files.zip">(link to download fabrication files is here)</a>
+1. ATU <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/version1.2/ATU%20Fabrication%20Files/ATU_Fabrication_Files.zip">(link to download fabrication files is here)</a>
 
 *It is important to use fabrication files from this repository rather than original from Barb's page. BOM has been optimized for ABS to include currently available components and the entire power supply component circuit was removed. CPL file has been fixed for proper component placement.*
 
