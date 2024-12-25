@@ -57,7 +57,7 @@ Since the inception of ABS back in August 2024 there have been active discussion
    - Do not source and solder the fixed 100uH inductor L8.
    - Do not source and solder male pin connectors to the ATU board. We will use different ones for our integration.
    - Use only ATU section of the page, ignore the rest for the purpose of this project.
-3. Upload <a href="ATU-100_Custom_Firmware/QMX+_1938_EXT_board_V2_fw.hex">ATU custom firmware from this repository</a> into the PIC16F1938 and plug it to the ATU board.
+3. Upload <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/ATU-100_Custom_Firmware/QMX%2B_1938_EXT_board_V2_fw.hex">ATU custom firmware from this repository</a> into the PIC16F1938 and plug it to the ATU board.
 4. Build <a href="QMX+_ATU_Mount_Board_THT_v1.2/QMX_Plus_ATU_Mount_Board_THT_v1.2 - Front.jpg">QMX+ ATU Mount Board</a> (install the ATU itself and QMX+ connectors to the Mount board)
 5. If building the ATU configuration of ABS - perform the front panel mod. We have 2 options for the front panel modification:
    - Printing the replacement front panel on a 3D printer (budget option). STL file can be downloaded from <a href="QMX+_Front_Panel_Mod_For_ATU/3D Prints/QMX+ Front Panel with ATU Control.stl">here.</a> PETG filament is recommended due to the outdoor exposure.
