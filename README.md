@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-# Integrated Automatic antenna tuner, internal battery with a charger and speaker for QMX+ transceiver
-=======
 # ABS for QMX+ transceiver - V1.2
 ## (Integrated Automatic antenna tuner, internal battery with charger and speaker)
->>>>>>> origin/version1.2
 
 QMX+ Battery Charger and ATU Companion Board             |  QMX+ ATU Mounting Board | Back of the Companion board | All-in-One QMX+ Field minimalistic config
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
@@ -65,15 +61,10 @@ Since the inception of ABS back in August 2024 there have been active discussion
 4. Build <a href="QMX+_ATU_Mount_Board_THT_v1.2/QMX_Plus_ATU_Mount_Board_THT_v1.2 - Front.jpg">QMX+ ATU Mount Board</a> (install the ATU itself and QMX+ connectors to the Mount board)
 5. If building the ATU configuration of ABS - perform the front panel mod. We have 2 options for the front panel modification:
    - Printing the replacement front panel on a 3D printer (budget option). STL file can be downloaded from <a href="QMX+_Front_Panel_Mod_For_ATU/3D Prints/QMX+ Front Panel with ATU Control.stl">here.</a> PETG filament is recommended due to the outdoor exposure.
-<<<<<<< HEAD
-   - Ordering the front panel from JLCPCB (most aesthetically appealing option). When ordered along with other PCB's - the front panel will add negligeable cost. Otherwise if ordered separately the shipping cost to US (about $20) is the most cosiderable portion of the total cost. Fabrication files are <a href="QMX+_Front_Panel_Mod_For_ATU/PCB version SMD with LED v1.1/Fabrication_Files">here</a>.
-6. Build <a href="QMX+_ATU_Companion_Board_THT_v1.1/QMX+_ATU_Companion_Board_Front.jpg">QMX+ ATU Companion Board.</a> Keep power (battery) switch on the OFF position until the last moment before closing the enclosure top!
-=======
    - Ordering the front panel from JLCPCB (most aesthetically appealing option). When ordered along with other PCB's - the front panel will add negligeable cost. Otherwise if ordered separately the shipping cost to US (about $30) is the most cosiderable portion of the total cost. There are two versions of the PCB front panel:
      - with LED manually soldered from the back. Fabrication files are <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/version1.2/QMX+_Front_Panel_Mod_For_ATU/PCB version THT v1.0//GERBER-QMX_Plus Front Panel Mod THT v1.0.zip">here</a>.
      - with SMD LED factory-soldered on the front. Fabrication files are <a href="QMX+_Front_Panel_Mod_For_ATU/PCB version SMD with LED v1.1/production_files">here</a>.
 6. Build <a href="QMX+_ATU_Companion_Board_THT_v1.3/QMX_Plus_ATU_Companion_Board_THT_v1.3 - Front.jpg">QMX+ ATU Companion Board.</a> Keep power (battery) switch in the OFF position until the last moment before closing the enclosure top!
->>>>>>> origin/version1.2
 7. Upload <a href="QMX_plus_ATU_Companion_Board_ATMEGA328P/QMX_plus_ATU_Companion_Board_ATMEGA328P.ino">companion board firmware</a> into ATMEGA328P chip. Use Ardiuno UNO R3 board for that.
 8. Install ATMEGA328P chip into the companion board
 9. Install ATU mount board with ATU into the QMX+ board.
@@ -184,14 +175,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - Y1: 16Mhz Crystal (Digikey part 3155-16M20P2/49US-ND)
  - U2,U6: CD4066BE bilateral switch (Digikey part 296-2061-5-ND)
  - U3: LM386N-4 Operational amplifier (Digikey part 296-43960-5-ND)
-<<<<<<< HEAD
- - U4 - 18650 battery holder (model 1, THT) (Digikey part BH-18650-PC-ND) 
-   - Alternative from Amazon: https://a.co/d/hhQG5n8 
- - U5, U7 - 18650 battery holder (model 2, SMD) (Digikey part 36-1042-ND)
-   - Alternative from Amazon: https://a.co/d/4vdH2PG
-=======
  - U4,U5,U7 - 18650 battery holder (THT) (Digikey part 36-1043-ND) 
->>>>>>> origin/version1.2
  - U8: 1xBMS battery charger/protection board https://a.co/d/gX6wQ45
    - Sometimes one vendor is unavailable, other comes in. But these parts are generally are always available. Make sure to source 3S 40A 12.6V model!
  - 3x18650 Lithium Batteries. 18650BatteryStore.com part number INR18650-25R.
@@ -206,11 +190,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - R6: 750 Ohm THT resistor (Digikey part 13-MFR-25FRF52-750RCT-ND)
  - C1,C2: 22pF ceramic capacitor THT (Digikey part BC1055CT-ND) 
  - C3: 1000uF electrolytic capacitor THT (Digikey part 1189-1583-1-ND)
-<<<<<<< HEAD
- - C4: 47nF ceramic capacitor THT (Digikey part BC5153-ND) 
-=======
  - C4: 47nF ceramic capacitor THT (Digikey part BC5153-ND)
->>>>>>> origin/version1.2
  - C5,C6: 100uF electrolytic capacitors THT (Digikey part 399-6601-ND)
  - 1x28Pos DIP Socket for U1 (Digikey part A120353-ND). If you bought ATMEGA from Amazon with socket included - you do not need this.
  - 2x14Pos DIP Socket for U2 and U6 (Digikey part AE9989-ND)
@@ -227,11 +207,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - Jumper pin shorting (shunt connector) for "ATU Firmware" selector jumper. Digikey part 952-2169-ND.
  - LS1: Speaker 2W 8Ohm 28mm: https://a.co/d/bBaHMG7
    - or Digikey part 102-3850-ND
-<<<<<<< HEAD
-   - Power supply/charger for batteries: https://a.co/d/hriKC1F
-=======
  - Power supply/charger for batteries: https://a.co/d/hriKC1F
->>>>>>> origin/version1.2
    - It is very important to use this recommended power supply for the best charging experience and from the safety perspective!  
  ## Front Panel
  - SW1:  Digikey part 2223-TS02-66-60-BK-160-LCR-D-ND
@@ -289,23 +265,11 @@ Can be found <a href="ABS_for_QMX_Plus_Assembly_Instructions_v1.2.pdf">here.</a>
  - Newly introduced.
 
 # Known issues
-<<<<<<< HEAD
- - Due to the thin 0.2mm tracks Companion Board v1.1 causes QMX+ to have a significant (1.5-2V) voltage drop while on TX. Some community members reported they were able to fix the issue by enforcing battery cells interconnections with a thick wire. With ver1.1 this requires drilling few holes on the PCB. A more robust attempt to fix this issue in on the way with version1.1 and version1.2 of an ABS (both versions are currently in a beta stage).  
- - There is a bug discovered in ATU mount board PCB v1.0 that was fixed in v1.1. Basically, the output from audio channel was tapped to the non-switched output of QMX+ "Ear" front connector. The result of the bug is that when an external audio device is plugged to the "Ear" front connector - the internal speaker is not turning off. Luckily, the fix for v1.0 PCB is very easy. Check photos below for the fix.
-
-<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/Mount_Board_v1.0_bugfix_p1.jpeg" width=25% height=25%><img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/Mount_Board_v1.0_bugfix_p2.jpeg" width=20% height=20%>
-
-=======
->>>>>>> origin/version1.2
  - For some taste the LED might be too bright. If that is the case, change R1 adn R2 values on Companion PCB to 2.2k or 3k, or 3.5k. Higher the values lower the brightness.
 
 # Some future work:
 - Test ATU and battery charger implications into the QMX+ performance in the context of the parasitic interference
 - The speaker and amplifier was a last moment addition with a brief breadbord prototyping. Schematics will definitely benefit from fine tuning.
-<<<<<<< HEAD
-- Implement band switching for external amps through AUX port. Utilize LPF0 to LPF5 signals from QMX+.
-=======
 - Implement band switching for external amps through AUX port.
 - Utilize upcoming BASIC script functionality in QMX+ to read SWR values from QMX+ itself and control ATU relays. Simplify ATU design by eliminating a transformer and Stockton bridge.
 - Convert ATU design to use latched relays.
->>>>>>> origin/version1.2
