@@ -12,7 +12,7 @@ I have made a prototype using QMX+ Dev Kit and later thought that the QRP commun
 The ATU is based on N7DDC's 7x7 ATU minituarized by Barb (WB2CBA):
 https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/
  
-<a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/tree/main/ATU-100_Custom_Firmware">Custom firmware</a> was written for the ATU.
+<a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/tree/version1.2/ATU-100_Custom_Firmware">Custom firmware</a> was written for the ATU.
  
 Battery and charger mod is based on my <a href="https://github.com/AC8L/PSU-for-uSDX-SOTA">previous work</a>, which in turn, is also based on Barb's <a href="https://antrak.org.tr/blog/usdx-sdr-ssb-sota-transceiver-battery-pack/
 ">original design.</a>
@@ -57,12 +57,12 @@ Since the inception of ABS back in August 2024 there have been active discussion
    - Do not source and solder the fixed 100uH inductor L8.
    - Do not source and solder male pin connectors to the ATU board. We will use different ones for our integration.
    - Use only ATU section of the page, ignore the rest for the purpose of this project.
-3. Upload <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/main/ATU-100_Custom_Firmware/atu_100_fw_3.2_QMX+.hex.zip">ATU custom firmware from this repository</a> into the PIC16F1938 and plug it to the ATU board.
+3. Upload <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/version1.2/ATU-100_Custom_Firmware/atu_100_fw_3.2_QMX+.hex.zip">ATU custom firmware from this repository</a> into the PIC16F1938 and plug it to the ATU board.
 4. Build <a href="QMX+_ATU_Mount_Board_THT_v1.2/QMX_Plus_ATU_Mount_Board_THT_v1.2 - Front.jpg">QMX+ ATU Mount Board</a> (install the ATU itself and QMX+ connectors to the Mount board)
 5. If building the ATU configuration of ABS - perform the front panel mod. We have 2 options for the front panel modification:
    - Printing the replacement front panel on a 3D printer (budget option). STL file can be downloaded from <a href="QMX+_Front_Panel_Mod_For_ATU/3D Prints/QMX+ Front Panel with ATU Control.stl">here.</a> PETG filament is recommended due to the outdoor exposure.
    - Ordering the front panel from JLCPCB (most aesthetically appealing option). When ordered along with other PCB's - the front panel will add negligeable cost. Otherwise if ordered separately the shipping cost to US (about $30) is the most cosiderable portion of the total cost. There are two versions of the PCB front panel:
-     - with LED manually soldered from the back. Fabrication files are <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/main/QMX+_Front_Panel_Mod_For_ATU/PCB version THT v1.0//GERBER-QMX_Plus Front Panel Mod THT v1.0.zip">here</a>.
+     - with LED manually soldered from the back. Fabrication files are <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/version1.2/QMX+_Front_Panel_Mod_For_ATU/PCB version THT v1.0//GERBER-QMX_Plus Front Panel Mod THT v1.0.zip">here</a>.
      - with SMD LED factory-soldered on the front. Fabrication files are <a href="QMX+_Front_Panel_Mod_For_ATU/PCB version SMD with LED v1.1/production_files">here</a>.
 6. Build <a href="QMX+_ATU_Companion_Board_THT_v1.3/QMX_Plus_ATU_Companion_Board_THT_v1.3 - Front.jpg">QMX+ ATU Companion Board.</a> Keep power (battery) switch in the OFF position until the last moment before closing the enclosure top!
 7. Upload <a href="QMX_plus_ATU_Companion_Board_ATMEGA328P/QMX_plus_ATU_Companion_Board_ATMEGA328P.ino">companion board firmware</a> into ATMEGA328P chip. Use Ardiuno UNO R3 board for that.
@@ -75,16 +75,16 @@ Since the inception of ABS back in August 2024 there have been active discussion
 
 # Ordering PCB's
 I personally have a habit ordering PCB's from <a href="https://jlcpcb.com">JLCPCB</a> (again, I am not affiliated with them!). For the convenience, all 5 PCB's can be ordered in one order.
-1. ATU <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/main/ATU Fabrication Files/ATU_Fabrication_Files.zip">(link to download fabrication files is here)</a>
+1. ATU <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/version1.2/ATU Fabrication Files/ATU_Fabrication_Files.zip">(link to download fabrication files is here)</a>
 
 *It is important to use fabrication files from this repository rather than original from Barb's page. BOM has been optimized for ABS to include currently available components and the entire power supply component circuit was removed. CPL file has been fixed for proper component placement.*
 
-2. ATU Mount PCB - <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/version1.2-beta/QMX+_ATU_Mount_Board_THT_v1.2/GERBER-QMX_Plus_ATU_Mount_Board_THT_v1.2.zip">fabrication files for latest revison</a>
-3. QMX+ Companion PCB - <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/version1.2-beta/QMX+_ATU_Companion_Board_THT_v1.3/GERBER-QMX_Plus_ATU_Companion_Board_THT_v1.3.zip">fabrication files for latest revison</a>
+2. ATU Mount PCB - <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/version1.2/QMX+_ATU_Mount_Board_THT_v1.2/GERBER-QMX_Plus_ATU_Mount_Board_THT_v1.2.zip">fabrication files for latest revison</a>
+3. QMX+ Companion PCB - <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/version1.2/QMX+_ATU_Companion_Board_THT_v1.3/GERBER-QMX_Plus_ATU_Companion_Board_THT_v1.3.zip">fabrication files for latest revison</a>
 4. Optionally, order one of the versions of the front panel PCB:
-     - with LED manually soldered from the back. Fabrication files are <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/version1.2-beta/QMX+_Front_Panel_Mod_For_ATU/PCB version THT v1.0/GERBER-QMX_Plus Rear Panel Mod THT v1.0.zip">here</a>.
+     - with LED manually soldered from the back. Fabrication files are <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/version1.2/QMX+_Front_Panel_Mod_For_ATU/PCB version THT v1.0/GERBER-QMX_Plus Rear Panel Mod THT v1.0.zip">here</a>.
      - with SMD LED factory-soldered on the front. Fabrication files are <a href="QMX+_Front_Panel_Mod_For_ATU/PCB version SMD with LED v1.1/Fabrication_Files">here</a>.
-5. Rear panel PCB - <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/version1.2-beta/QMX+_Rear_Panel_Mod_For_Battery_V1/GERBER-QMX_Plus Rear Panel Mod_v1.0.zip">fabrication files for latest revison</a>
+5. Rear panel PCB - <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/version1.2/QMX+_Rear_Panel_Mod_For_Battery_V1/GERBER-QMX_Plus Rear Panel Mod_v1.0.zip">fabrication files for latest revison</a>
 
 *- If you are ordering PCB's from JLCPCB - for front and rear panels select black PCB color.*
 
