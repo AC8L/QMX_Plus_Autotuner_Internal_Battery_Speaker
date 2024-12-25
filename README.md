@@ -12,7 +12,7 @@ I have made a prototype using QMX+ Dev Kit and later thought that the QRP commun
 The ATU is based on N7DDC's 7x7 ATU minituarized by Barb (WB2CBA):
 https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/
  
-<a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/tree/version1.2/ATU-100_Custom_Firmware">Custom firmware</a> was written for the ATU.
+<a href="QMX_Plus_Autotuner_Internal_Battery_Speaker/ATU-100_Custom_Firmware">Custom firmware</a> was written for the ATU.
  
 Battery and charger mod is based on my <a href="https://github.com/AC8L/PSU-for-uSDX-SOTA">previous work</a>, which in turn, is also based on Barb's <a href="https://antrak.org.tr/blog/usdx-sdr-ssb-sota-transceiver-battery-pack/
 ">original design.</a>
