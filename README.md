@@ -3,7 +3,7 @@
 
 ABS ATU and Audio Amplifier Board             | ABS Battery Board | All-in-One QMX+ Field minimalistic config
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/Photos/IMG_1416.jpeg)  |  ![](https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/IMG_1168.jpeg)  |  <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/IMG_1172.jpeg" width=120% height=30%>
+![](https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/Photos/IMG_1416.jpeg)  |  ![](https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/IMG_1413.jpeg)  |  <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/main/Photos/IMG_1172.jpeg" width=120% height=30%>
 
 **This branch is for ver 2 of a solution. It is beta, work is still in progress. For the latest stable release use main branch!**
 
