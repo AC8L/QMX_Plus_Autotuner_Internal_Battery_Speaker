@@ -135,6 +135,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
 <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_ATU_Audio_Amp_PCB/ABS_ATU_Audio_Amp_PCB_v1.6.3.3- Front with Components Assembled 3D.png" width=50% height=50%>
 <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_ATU_Audio_Amp_PCB/ABS_ATU_Audio_Amp_PCB_v1.6.3.3- Back.jpg" width=50% height=50%>
 
+ - U4: LM386N-4 Operational amplifier (Digikey part 296-43960-5-ND)
  - J1: 1x10 pin 2.54mm Female pin Header Connector Extra Tall: https://a.co/d/21eQjdI
    - the 1x6 connector from the same Amazon kit will be used for JP102 on a companion board BOM
    - or Digikey part SSW-110-03-T-S-ND
@@ -150,6 +151,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - Alternative from Amazon: https://a.co/d/2SuiWnt 
  - JP501: 2x5 10-pin double row male pin header: https://a.co/d/dF83x28
    - cut 2x5 section from the strip.
+ - 1x8Pos DIP Socket for U4 (Digikey part A120347-ND)
 
 ## Battery/Speaker PCB
 <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5.1 - Front.jpg" width=50% height=50%>
