@@ -152,6 +152,8 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - JP501: 2x5 10-pin double row male pin header: https://a.co/d/dF83x28
    - cut 2x5 section from the strip.
  - 1x8Pos DIP Socket for U4 (Digikey part A120347-ND)
+ - RF_IN,RF_OUT: angled SMA connectors, PCB mountable: (Digikey part 931-1361-ND)
+   - Alternative from Amazon: https://a.co/d/7zYzlCo
 
 ## Battery/Speaker PCB
 <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5.1 - Front.jpg" width=50% height=50%>
