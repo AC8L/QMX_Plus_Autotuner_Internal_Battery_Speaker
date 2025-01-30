@@ -50,7 +50,7 @@ AC8L@ARRL.NET
    - Remove temporary jumper wire.
    - If QMX+ was already built and operational - carefully remove jumper wire on JP501, use suction tool to cleanup soldering pads and holes to prepare them for 2x5 female connector.     
 2. Build ATU/Audio board.
-3. Upload <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/version1.2-beta/ATU-100_Custom_Firmware/ATU-100_Custom_Firmware/ABS_for_QMX_Plus_1938_board_V2.1_fw_00.hex.zip">ATU custom firmware from this repository</a> into the PIC16F1938 using supplied programming ICSP connector on the ATU PCB.
+3. Upload <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blobs/version1.2-beta/ATU-100_Custom_Firmware/ATU-100_Custom_Firmware/ABS_for_QMX_Plus_1938_board_V2.1_fw_00.hex.zip">ATU custom firmware from this repository</a> into the PIC16F1938 using supplied programming ICSP connector on the ATU PCB.
 4. Build <a href="QMX+_ATU_Mount_Board/QMX+_ATU_Mount_Board_Front.jpg">QMX+ ATU Mount Board</a> (install the ATU itself and QMX+ connectors to the Mount board)
 5. If building the ATU - perform the front panel mod. We have 3 options for the front panel modification:
    - Drilling the factory front panel (less desirable option)
