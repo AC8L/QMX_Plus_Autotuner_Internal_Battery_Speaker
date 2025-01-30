@@ -180,6 +180,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - 2-pin jumper (Digikey part 1528-4934-ND)
  - 40cm of 30 AWG Kynar wire: https://a.co/d/ix2YHia
    - or Digikey part K229-ND
+ - Mini-Voltmeter: https://a.co/d/epVwKYk
 
 ## Digikey part list
 For the ordering convenience, below is the part list from Digkey for one build. List contains the vast majority of parts that can be sourced from Digikey except for some minor parts, like few pin headers and BMS battery charger.
