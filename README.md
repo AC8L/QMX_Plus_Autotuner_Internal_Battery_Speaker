@@ -172,6 +172,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - For JP106 we need actually 3-pin connector. However I could not source one with long needles. So, I just cut 3 pins. Leaving the plastic though intact!
  - LS1: Speaker 2W 8Ohm 28mm: https://a.co/d/bBaHMG7
    - or Digikey part 102-3850-ND
+ - Mini-Voltmeter: https://a.co/d/epVwKYk
  ## Front Panel
  - SW1: Generic button: https://a.co/d/eFSJQzc
    - or Digikey part EG2025-ND
@@ -180,7 +181,6 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - 2-pin jumper (Digikey part 1528-4934-ND)
  - 40cm of 30 AWG Kynar wire: https://a.co/d/ix2YHia
    - or Digikey part K229-ND
- - Mini-Voltmeter: https://a.co/d/epVwKYk
 
 ## Digikey part list
 For the ordering convenience, below is the part list from Digkey for one build. List contains the vast majority of parts that can be sourced from Digikey except for some minor parts, like few pin headers and BMS battery charger.
