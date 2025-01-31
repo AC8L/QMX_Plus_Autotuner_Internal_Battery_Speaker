@@ -79,8 +79,8 @@ I personally have a habit ordering PCB's from <a href="https://jlcpcb.com">JLCPC
 3. Order one of the versions of the rear panel PCB (see fabrication links above).
 
 *If you are ordering PCB's from JLCPCB:*
-* - for the front and rear panel PCBs from JLCPCB - select black PCB color. *
-* - for all PCB orders make sure for the option of "Mark on PCB" - select "Order Number (Specify Position)". *
+ - for the front and rear panel PCBs from JLCPCB - select black PCB color.
+ - for all PCB orders make sure for the option of "Mark on PCB" - select "Order Number (Specify Position)".
 
 # Group build manager (organizer)
 Usually in group builds it supoposed to be the responsibility of a group build manager to:
