@@ -66,9 +66,9 @@ board)
      - PCB variant:  Fabrication files are <a href="ABS_Rear_Panel_Mod_For_Battery_V2/ABS Rear Panel Mod - No SMA v2.2/GERBER-ABS Rear Panel Mod_v2.2_NO_SMA.zip">here</a>.
 
 6. Build <a href="ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5.1 - Front.jpg">ABS Battery and Speaker Board.</a> Keep power (battery) switch on the OFF position until the last moment before closing the enclosure top!
-7. Insert 18650 batteries and install ATU Companion board on top of the ATU mounting board. Make sure battery power switch is still on OFF position!
-8. Insert QMX+ assembly with companion boards into its enclosure, screw-in front and back panels of the enclosure.
-9. Switch ATU companion board's battery switch to the ON position.
+7. Insert 18650 batteries and install Battery and Speaker board on top of the ATU board. Make sure battery power switch is still on OFF position!
+8. Insert QMX+ assembly with ABS solution installed into its enclosure, screw-in front and back panels of the enclosure.
+9. Switch Battery board's switch to the ON position.
 10. Carefully insert and screw-in QMX+ enclosure's top.
 
 # Ordering PCB's
