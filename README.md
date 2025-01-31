@@ -73,13 +73,14 @@ board)
 
 # Ordering PCB's
 I personally have a habit ordering PCB's from <a href="https://jlcpcb.com">JLCPCB</a> (again, I am not associated with them!). For the convenience, all 3 PCB's can be ordered in one order.
-1. ATU and Audio amp PCB (work in progress)...
-2. Battery/Speaker PCB (work in progress)...
-3. Optionally, order one of the versions of the front panel PCB:
-     - with LED manually soldered from the back. Fabrication files are <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/main/QMX+_Front_Panel_Mod_For_ATU/PCB version THT v1.0//GERBER-QMX_Plus Front Panel Mod THT v1.0.zip">here</a>.
-     - with SMD LED factory-soldered on the front. Fabrication files are <a href="QMX+_Front_Panel_Mod_For_ATU/PCB version SMD with LED v1.1/production_files">here</a>.
+1. ATU and Audio amp PCB. Fabrication files are <a href="ABS_ATU_Audio_Amp_PCB/Fabrication Files">here</a>.
+2. Battery/Speaker PCB. Fabrication files are <a href="ABS_Battery_Speaker_PCB/GERBER-QMX_Plus_Battery_Board_v1.5.1.zip">here</a>.
+3. Order one of the versions of the front panel PCB (see fabrication links above).
+3. Order one of the versions of the rear panel PCB (see fabrication links above).
 
-*If you are ordering the front panel PCB from JLCPCB - select black PCB color and for the option of "Mark on PCB" - select "Order Number (Specify Position)".*
+*If you are ordering PCB's from JLCPCB:*
+* - for the front and rear panel PCBs from JLCPCB - select black PCB color. *
+* - for all PCB orders make sure for the option of "Mark on PCB" - select "Order Number (Specify Position)". *
 
 # Group build manager (organizer)
 Usually in group builds it supoposed to be the responsibility of a group build manager to:
