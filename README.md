@@ -57,7 +57,7 @@ board)
    - Ordering the front panel from JLCPCB (most aesthetically appealing option). When ordered along with other PCB's - the front panel will add negligeable cost. Otherwise if ordered separately the shipping cost to US (about $20) is the most cosiderable portion of the total cost. There are two versions of the PCB front panel:
      - with LED manually soldered from the back. Fabrication files are <a href="ABS_Front_Panel_Mod_For_ATU/PCB version THT v1.1/GERBER-ABS Front Panel Mod_THT_v1.1.zip">here</a>.
      - with SMD LED factory-soldered on the front. Fabrication files are <a href="ABS_Front_Panel_Mod_For_ATU/PCB version SMD with LED v1.2/Fabrication_Files/">here</a>.
-5. Build <a href="ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5.1 - Front.jpg">ABS BAttery and Speaker Board.</a> Keep power (battery) switch on the OFF position until the last moment before closing the enclosure top!
+5. Build <a href="ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5.1 - Front.jpg">ABS Battery and Speaker Board.</a> Keep power (battery) switch on the OFF position until the last moment before closing the enclosure top!
 6. Insert 18650 batteries and install ATU Companion board on top of the ATU mounting board. Make sure battery power switch is still on OFF position!
 7. Insert QMX+ assembly with companion boards into its enclosure, screw-in front and back panels of the enclosure.
 8. Switch ATU companion board's battery switch to the ON position.
