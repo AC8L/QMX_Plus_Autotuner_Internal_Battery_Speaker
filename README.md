@@ -53,7 +53,7 @@ AC8L@ARRL.NET
 3. Upload <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ATU-100_Custom_Firmware/ABS_for_QMX_Plus_1938_board_V2.1_fw_00.hex.zip">ATU custom firmware from this repository</a> into the PIC16F1938 using supplied programming ICSP connector on the ATU PCB.
 board)
 4. Front panel replcement. We have 2 options for the front panel replcement:
-   - Printing the replacement front panel on a 3D printer (budget option). STL files can be downloaded from <a href="QMX+_Front_Panel_Mod_For_ATU/3D Prints/ABS Front Panel with ATU Control.stl">here.</a> PETG filament is recommended due to the outdoor exposure.
+   - Printing the replacement front panel on a 3D printer (budget option). STL files can be downloaded from <a href="ABS_Front_Panel_Mod_For_ATU/3D Prints/ABS Front Panel with ATU Control.stl">here.</a> PETG filament is recommended due to the outdoor exposure.
    - Ordering the front panel from JLCPCB (most aesthetically appealing option). When ordered along with other PCB's - the front panel will add negligeable cost. Otherwise if ordered separately the shipping cost to US (about $20) is the most cosiderable portion of the total cost. There are two versions of the PCB front panel:
      - with LED manually soldered from the back. Fabrication files are <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/raw/refs/heads/main/QMX+_Front_Panel_Mod_For_ATU/PCB version THT v1.0//GERBER-QMX_Plus Front Panel Mod THT v1.0.zip">here</a>.
      - with SMD LED factory-soldered on the front. Fabrication files are <a href="QMX+_Front_Panel_Mod_For_ATU/PCB version SMD with LED v1.1/production_files">here</a>.
