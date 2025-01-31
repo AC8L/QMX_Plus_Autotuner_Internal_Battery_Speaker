@@ -91,17 +91,10 @@ Usually in group builds it supoposed to be the responsibility of a group build m
 - Due to shipping restrictions, group build manager must not source and ship batteries, leaving their purchase for each individual participant.
 
 # Build configurations
-There are various build configurations possible:
-1. All inclusive - ATU, battery, speaker.
-2. ATU only
-3. Battery only
-4. Speaker only
-5. ATU and battery
-6. ATU and speaker
-7. Battery and speaker
-- For all configurations you still will have to order both PCB's from this repositiry. Even if some portions will be left unpopulated - PCB's are mechanically and electrically interdependent on each other.  
-- For configurations (3),(4) and (7) - you do not need to order the ATU.
-- For any non-complete configuration you can gradually add other components later on.
+There two possible build configurations:
+1. All inclusive - ATU, battery, speaker (audio amplifier).
+2. ATU and speaker (audio amp) only.  
+- For configuration (2) you do not need to order the Battery and Speaker PCB. If you decide later that you want o add a battery board - you can do that. It is a non-destrcutive mod.
 - Barb (WB2CBA) has <a href="https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/">detailed instructions on the ordering process from JLCPCB at the ATU link</a> for both "plain" PCB's and PCB's with SMD components populated. It will be difficuilt to add anything else to his writings.
 
 # Bill of Materials (BOM)
