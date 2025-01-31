@@ -154,6 +154,12 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - 1x8Pos DIP Socket for U4 (Digikey part A120347-ND)
  - RF_IN,RF_OUT: angled SMA connectors, PCB mountable: (Digikey part 931-1361-ND)
    - Alternative from Amazon: https://a.co/d/7zYzlCo
+ - 1 x BN43-202 Binocular core for tandem match 
+ - 3 x T37-6 toroid core
+ - 2 x T37-2 toroid core
+ - 2 x T50-2 toroid core
+   - All toroid cores and BN43-202 binocular core can be outsourced from: https://kitsandparts.com/toroids.php
+ - 0.50 mm / AWG24 enameled inductor wire: https://a.co/d/7Qasw5C
 
 ## Battery/Speaker PCB
 <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5.1 - Front.jpg" width=50% height=50%>
