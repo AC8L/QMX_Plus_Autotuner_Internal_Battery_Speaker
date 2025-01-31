@@ -57,11 +57,16 @@ board)
    - Ordering the front panel from JLCPCB (most aesthetically appealing option). When ordered along with other PCB's - the front panel will add negligeable cost. Otherwise if ordered separately the shipping cost to US (about $20) is the most cosiderable portion of the total cost. There are two versions of the PCB front panel:
      - with LED manually soldered from the back. Fabrication files are <a href="ABS_Front_Panel_Mod_For_ATU/PCB version THT v1.1/GERBER-ABS Front Panel Mod_THT_v1.1.zip">here</a>.
      - with SMD LED factory-soldered on the front. Fabrication files are <a href="ABS_Front_Panel_Mod_For_ATU/PCB version SMD with LED v1.2/Fabrication_Files/">here</a>.
-5. Build <a href="ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5.1 - Front.jpg">ABS Battery and Speaker Board.</a> Keep power (battery) switch on the OFF position until the last moment before closing the enclosure top!
-6. Insert 18650 batteries and install ATU Companion board on top of the ATU mounting board. Make sure battery power switch is still on OFF position!
-7. Insert QMX+ assembly with companion boards into its enclosure, screw-in front and back panels of the enclosure.
-8. Switch ATU companion board's battery switch to the ON position.
-9. Carefully insert and screw-in QMX+ enclosure's top.
+5. Rear panel replacement. There are two versions of a rear panel replacement and each version has two options - 3D printed part or a PCB:
+   - If ATU is being built with SMA connectors:
+     - 3D printed <a href="ABS_Rear_Panel_Mod_For_Battery_V2/ABS Rear Panel Mod - SMA v2.2/3D Prints/ABS Rear Panel with Battery Slide Switch - V.2.2 - SMA.stl">variant</a>>.
+     - PCB variant:  Fabrication files are <a href="ABS_Rear_Panel_Mod_For_Battery_V2/ABS Rear Panel Mod - SMA v2.2/GERBER-ABS Rear Panel Mod SMA_v2.2.zip">here</a>.
+
+6. Build <a href="ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5.1 - Front.jpg">ABS Battery and Speaker Board.</a> Keep power (battery) switch on the OFF position until the last moment before closing the enclosure top!
+7. Insert 18650 batteries and install ATU Companion board on top of the ATU mounting board. Make sure battery power switch is still on OFF position!
+8. Insert QMX+ assembly with companion boards into its enclosure, screw-in front and back panels of the enclosure.
+9. Switch ATU companion board's battery switch to the ON position.
+10. Carefully insert and screw-in QMX+ enclosure's top.
 
 # Ordering PCB's
 I personally have a habit ordering PCB's from <a href="https://jlcpcb.com">JLCPCB</a> (again, I am not associated with them!). For the convenience, all 3 PCB's can be ordered in one order.
