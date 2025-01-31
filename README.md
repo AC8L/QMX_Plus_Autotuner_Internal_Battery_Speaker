@@ -61,6 +61,9 @@ board)
    - If ATU is being built with SMA connectors:
      - 3D printed <a href="ABS_Rear_Panel_Mod_For_Battery_V2/ABS Rear Panel Mod - SMA v2.2/3D Prints/ABS Rear Panel with Battery Slide Switch - V.2.2 - SMA.stl">variant</a>.
      - PCB variant:  Fabrication files are <a href="ABS_Rear_Panel_Mod_For_Battery_V2/ABS Rear Panel Mod - SMA v2.2/GERBER-ABS Rear Panel Mod SMA_v2.2.zip">here</a>.
+   - If ATU is being built without SMA connectors (using internal coax jumper wires):
+     - 3D printed <a href="ABS_Rear_Panel_Mod_For_Battery_V2/ABS Rear Panel Mod - No SMA v2.2/3D Prints/ABS Back Panel with Battery Slide Switch - V.2.2 - NO SMA.stl">variant</a>.
+     - PCB variant:  Fabrication files are <a href="ABS_Rear_Panel_Mod_For_Battery_V2/ABS Rear Panel Mod - No SMA v2.2/GERBER-ABS Rear Panel Mod_v2.2_NO_SMA.zip">here</a>.
 
 6. Build <a href="ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5.1 - Front.jpg">ABS Battery and Speaker Board.</a> Keep power (battery) switch on the OFF position until the last moment before closing the enclosure top!
 7. Insert 18650 batteries and install ATU Companion board on top of the ATU mounting board. Make sure battery power switch is still on OFF position!
