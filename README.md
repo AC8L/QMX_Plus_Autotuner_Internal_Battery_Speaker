@@ -187,6 +187,10 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - 2-pin jumper (Digikey part 1528-4934-ND)
  - 40cm of 30 AWG Kynar wire: https://a.co/d/ix2YHia
    - or Digikey part K229-ND
+ - LS1: Speaker 2W 8Ohm 28mm: https://a.co/d/bBaHMG7
+   - or Digikey part 102-3850-ND
+ - Power supply/charger for batteries: https://a.co/d/hriKC1F
+   - It is very important to use this recommended power supply for the best charging experience and from the safety perspective! The BMS module used in battery board is not a charger. Its purpose to manage balanced battery charge and discharge.
 
 ## Digikey part list
 For the ordering convenience, below is the part list from Digkey for one build. List contains the vast majority of parts that can be sourced from Digikey except for some minor parts, like few pin headers and BMS battery charger.
