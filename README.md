@@ -65,7 +65,7 @@ board)
      - 3D printed <a href="ABS_Rear_Panel_Mod_For_Battery_V2/ABS Rear Panel Mod - No SMA v2.2/3D Prints/ABS Back Panel with Battery Slide Switch - V.2.2 - NO SMA.stl">variant</a>.
      - PCB variant:  Fabrication files are <a href="ABS_Rear_Panel_Mod_For_Battery_V2/ABS Rear Panel Mod - No SMA v2.2/GERBER-ABS Rear Panel Mod_v2.2_NO_SMA.zip">here</a>.
 
-6. Build <a href="ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5.1 - Front.jpg">ABS Battery and Speaker Board.</a> Keep power (battery) switch on the OFF position until the last moment before closing the enclosure top!
+6. Build <a href="ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5.2 - Front.jpg">ABS Battery and Speaker Board.</a> Keep power (battery) switch on the OFF position until the last moment before closing the enclosure top!
 7. Insert 18650 batteries and install Battery and Speaker board on top of the ATU board. Make sure battery power switch is still on OFF position!
 8. Insert QMX+ assembly with ABS solution installed into its enclosure, screw-in front and back panels of the enclosure.
 9. Switch Battery board's switch to the ON position.
@@ -74,7 +74,7 @@ board)
 # Ordering PCB's
 I personally have a habit ordering PCB's from <a href="https://jlcpcb.com">JLCPCB</a> (again, I am not associated with them!). For the convenience, all 3 PCB's can be ordered in one order.
 1. ATU and Audio amp PCB. Fabrication files are <a href="ABS_ATU_Audio_Amp_PCB/Fabrication Files">here</a>.
-2. Battery/Speaker PCB. Fabrication files are <a href="ABS_Battery_Speaker_PCB/GERBER-QMX_Plus_Battery_Board_v1.5.1.zip">here</a>.
+2. Battery/Speaker PCB. Fabrication files are <a href="ABS_Battery_Speaker_PCB/GERBER-QMX_Plus_Battery_Board_v1.5.2.zip">here</a>.
 3. Order one of the versions of the front panel PCB (see fabrication links above).
 3. Order one of the versions of the rear panel PCB (see fabrication links above).
 
@@ -130,8 +130,8 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - or from Digikey part S7001-ND
 
 ## ATU / Audio Amp PCB
-<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_ATU_Audio_Amp_PCB/ABS_ATU_Audio_Amp_PCB_v1.6.3.3- Front with Components Assembled 3D.png" width=50% height=50%>
-<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_ATU_Audio_Amp_PCB/ABS_ATU_Audio_Amp_PCB_v1.6.3.3- Back.jpg" width=50% height=50%>
+<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_ATU_Audio_Amp_PCB/ABS_ATU_Audio_Amp_PCB_v1.7- Front with Components Assembled 3D.png" width=50% height=50%>
+<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_ATU_Audio_Amp_PCB/ABS_ATU_Audio_Amp_PCB_v1.7- Back.jpg" width=50% height=50%>
 
  - U4: LM386N-4 Operational amplifier (Digikey part 296-43960-5-ND)
  - J1: 1x10 pin 2.54mm Female pin Header Connector Extra Tall: https://a.co/d/21eQjdI
@@ -160,8 +160,8 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - 0.50 mm / AWG24 enameled inductor wire: https://a.co/d/7Qasw5C
 
 ## Battery/Speaker PCB
-<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5.1 - Front.jpg" width=50% height=50%>
-<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5.1 - Back.jpg" width=50% height=50%>
+<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5.2 - Front.jpg" width=50% height=50%>
+<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5.2 - Back.jpg" width=50% height=50%>
 
  - U4, U5, U7 - 18650 battery holder (THT) (Digikey part 36-1043-ND)
  - U8: 1xBMS battery charger/protection board https://a.co/d/gX6wQ45
