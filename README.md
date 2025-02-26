@@ -130,8 +130,8 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - or from Digikey part S7001-ND
 
 ## ATU / Audio Amp PCB
-<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_ATU_Audio_Amp_PCB/ABS_ATU_Audio_Amp_PCB_v1.7- Front with Components Assembled 3D.png" width=50% height=50%>
-<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_ATU_Audio_Amp_PCB/ABS_ATU_Audio_Amp_PCB_v1.7- Back.jpg" width=50% height=50%>
+<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_ATU_Audio_Amp_PCB/ABS_ATU_Audio_Amp_PCB_v2.0- Front with Components Assembled 3D.png" width=50% height=50%>
+<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_ATU_Audio_Amp_PCB/ABS_ATU_Audio_Amp_PCB_v2.0- Back.jpg" width=50% height=50%>
 
  - U4: LM386N-4 Operational amplifier (Digikey part 296-43960-5-ND)
  - J1: 1x10 pin 2.54mm Female pin Header Connector Extra Tall: https://a.co/d/21eQjdI
@@ -225,5 +225,4 @@ If you are located in US,  prefer brick & mortar style shopping and in addition 
  - ATU-100 design used for the ABS underperforms on 6m band. If using an ATU on a 6m band is absolutely important for you - build the ATU with SMA connectors. This way when using 6m - ATU can be unplugged from QMX+. Then you can either use a resonant antenna or look for a commercial ATU solution.
 
 # Some future work:
-- Test ATU and battery charger implications on QMX+ performance in the context of a parasitic interference;
 - Design ATU based on Dave's (N7DDC) ATU-10 schematic using latching relays.
