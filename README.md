@@ -247,6 +247,11 @@ If you are located in US,  prefer brick & mortar style shopping and in addition 
 # Detailed Build Instructions
 Can be found <a href="ABS_for_QMX_Plus_Assembly_Instructions_v1.2.pdf">here.</a>
 
+# Alternative documentation by Stan (KC7XE)
+ - <a href="https://onedrive.live.com/?authkey=%21AIxv4%5FRnoe3h%5FCY&cid=D955B8CAB2AB3344&id=D955B8CAB2AB3344%21173077&parId=D955B8CAB2AB3344%21172812&o=OneUp">ABS Kit Assembly - Important Notes - Please Read Me</a>
+ - <a href="https://onedrive.live.com/?authkey=%21AIxv4%5FRnoe3h%5FCY&cid=D955B8CAB2AB3344&id=D955B8CAB2AB3344%21173845&parId=D955B8CAB2AB3344%21172812&o=OneUp">ABS for QMX+ Build - FAQ</a>
+ - <a href="https://onedrive.live.com/?authkey=%21AIxv4%5FRnoe3h%5FCY&cid=D955B8CAB2AB3344&id=D955B8CAB2AB3344%21173076&parId=D955B8CAB2AB3344%21172812&o=OneUp">FAQ - Using the ABS Antenna Tuner</a>
+
 # ABS V1.2 Release notes
 ## ATU Mount PCB v1.2
  - Fixed proper routing of audio input to the switched output of QMX+ "Ear" front connector.
