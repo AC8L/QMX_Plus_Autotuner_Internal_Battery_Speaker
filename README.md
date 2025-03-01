@@ -42,25 +42,25 @@ AC8L@ARRL.NET
 
 **WARNING! Before you proceed with spending money and time, please take a note that the battery mod is compatible with QMX+ 12V build only!!! Do not use it with QMX+ built for 9V power supply, you will damage the rig!!!**
 
-1. Decide how you want to build the ATU:
+1. Decide how you want to build the ABS ATU/Audio board:
   a. Using SMA connectors;
   b. Using coax jumper wires for QMX+ integration. 
-1. Build <a href="http://qrp-labs.com/qmxp.html">QMX+</a> with following mods:
+2. If you decided on option (a), ignore this step. Otehrwise for option (b) - build <a href="http://qrp-labs.com/qmxp.html">QMX+</a> with following mods:
    - Do not solder the jumper wire on JP501 as instructed on Rev2.00 build document's page 37! The ATU will play the role of that jumper wire.
    - Make sure to solder-in the 2-row 5-pin female connector into JP501.
    - Plug in a temporary jumper wire (breadboard prototyping wire is a good choice) into the female connector at JP501 at pins corresponding to a soldered jumper wire in the instruction document's page 37.
    - Thoroghly calibrate and test the QMX+ build according to the assembly manual. Making a couple of QSO's is a good idea.
    - Remove temporary jumper wire.
    - If QMX+ was already built and operational - carefully remove jumper wire on JP501, use suction tool to cleanup soldering pads and holes to prepare them for 2x5 female connector.     
-2. Build ABS ATU/Audio board.
-3. Upload <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ATU-100_Custom_Firmware/ABS_for_QMX_Plus_1938_board_V2.1_fw_00.hex.zip">ATU custom firmware from this repository</a> into the PIC16F1938 using supplied programming ICSP connector on the ATU PCB.
+3. Build ABS ATU/Audio board.
+4. Upload <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ATU-100_Custom_Firmware/ABS_for_QMX_Plus_1938_board_V2.1_fw_00.hex.zip">ATU custom firmware from this repository</a> into the PIC16F1938 using supplied programming ICSP connector on the ATU PCB.
 board)
-4. Front panel replcement. We have 2 options for the front panel replcement:
+5. Front panel replcement. We have 2 options for the front panel replcement:
    - Printing the replacement front panel on a 3D printer (budget option). STL files can be downloaded from <a href="ABS_Front_Panel_Mod_For_ATU/3D Prints/ABS Front Panel with ATU Control.stl">here.</a> PETG filament is recommended due to the outdoor exposure.
    - Ordering the front panel from JLCPCB (most aesthetically appealing option). When ordered along with other PCB's - the front panel will add negligeable cost. Otherwise if ordered separately the shipping cost to US (about $20) is the most cosiderable portion of the total cost. There are two versions of the PCB front panel:
      - with LED manually soldered from the back. Fabrication files are <a href="ABS_Front_Panel_Mod_For_ATU/PCB version THT v1.1/GERBER-ABS Front Panel Mod_THT_v1.1.zip">here</a>.
      - with SMD LED factory-soldered on the front. Fabrication files are <a href="ABS_Front_Panel_Mod_For_ATU/PCB version SMD with LED v1.2/Fabrication_Files/">here</a>.
-5. Rear panel replacement. There are two versions of a rear panel replacement and each version has two options - 3D printed part or a PCB:
+6. Rear panel replacement. There are two versions of a rear panel replacement and each version has two options - 3D printed part or a PCB:
    - If ATU is being built with SMA connectors:
      - 3D printed <a href="ABS_Rear_Panel_Mod_For_Battery_V2/ABS Rear Panel Mod - SMA v2.2/3D Prints/ABS Rear Panel with Battery Slide Switch - V.2.2 - SMA.stl">variant</a>.
      - PCB variant:  Fabrication files are <a href="ABS_Rear_Panel_Mod_For_Battery_V2/ABS Rear Panel Mod - SMA v2.2/GERBER-ABS Rear Panel Mod SMA_v2.2.zip">here</a>.
