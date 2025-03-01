@@ -42,6 +42,9 @@ AC8L@ARRL.NET
 
 **WARNING! Before you proceed with spending money and time, please take a note that the battery mod is compatible with QMX+ 12V build only!!! Do not use it with QMX+ built for 9V power supply, you will damage the rig!!!**
 
+1. Decide how you want to build the ATU:
+  a. Using SMA connectors;
+  b. Using coax jumper wires for QMX+ integration. 
 1. Build <a href="http://qrp-labs.com/qmxp.html">QMX+</a> with following mods:
    - Do not solder the jumper wire on JP501 as instructed on Rev2.00 build document's page 37! The ATU will play the role of that jumper wire.
    - Make sure to solder-in the 2-row 5-pin female connector into JP501.
