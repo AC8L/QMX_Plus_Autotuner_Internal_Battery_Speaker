@@ -94,7 +94,7 @@ Usually in group builds it supoposed to be the responsibility of a group build m
 - Due to shipping restrictions, group build manager must not source and ship batteries, leaving their purchase for each individual participant.
 
 # Build configurations
-There two possible build configurations:
+There are two possible build configurations:
 1. All inclusive - ATU, battery, speaker (audio amplifier).
 2. ATU and speaker (audio amp) only.  
 - For configuration (2) you do not need to order the Battery and Speaker PCB. If you decide later that you want o add a battery board - you can do that. It is a non-destrcutive mod.
