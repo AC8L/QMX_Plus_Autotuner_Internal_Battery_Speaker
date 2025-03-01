@@ -55,7 +55,7 @@ AC8L@ARRL.NET
 3. Build ABS ATU/Audio board.
 4. Upload <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ATU-100_Custom_Firmware/ABS_for_QMX_Plus_1938_board_V2.1_fw_00.hex.zip">ATU custom firmware from this repository</a> into the PIC16F1938 using supplied programming ICSP connector on the ATU PCB.
 board)
-5. Front panel replcement. We have 2 options for the front panel replcement:
+5. Front panel replacement. We have 2 options for the front panel replcement:
    - Printing the replacement front panel on a 3D printer (budget option). STL files can be downloaded from <a href="ABS_Front_Panel_Mod_For_ATU/3D Prints/ABS Front Panel with ATU Control.stl">here.</a> PETG filament is recommended due to the outdoor exposure.
    - Ordering the front panel from JLCPCB (most aesthetically appealing option). When ordered along with other PCB's - the front panel will add negligeable cost. Otherwise if ordered separately the shipping cost to US (about $20) is the most cosiderable portion of the total cost. There are two versions of the PCB front panel:
      - with LED manually soldered from the back. Fabrication files are <a href="ABS_Front_Panel_Mod_For_ATU/PCB version THT v1.1/GERBER-ABS Front Panel Mod_THT_v1.1.zip">here</a>.
@@ -162,6 +162,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - 2 x T37-1 toroid core
    - All toroid cores and BN43-202 binocular core can be sourced from: https://kitsandparts.com/toroids.php
  - 0.50 mm / AWG24 enameled inductor wire: https://a.co/d/7Qasw5C
+ - PIC ICSP programming header: 5 Position Header Connector (Digikey part: S5480-ND)
 
 ## Battery/Speaker PCB
 <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5.2 - Front.jpg" width=50% height=50%>
