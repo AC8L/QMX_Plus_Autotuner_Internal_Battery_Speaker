@@ -134,6 +134,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
 <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_ATU_Audio_Amp_PCB/ABS_ATU_Audio_Amp_PCB_v2.0- Back.jpg" width=50% height=50%>
 
  - U4: LM386N-4 Operational amplifier (Digikey part 296-43960-5-ND)
+ - 1x8Pos DIP Socket for U4 (Digikey part A120347-ND)
  - J1: 1x10 pin 2.54mm Female pin Header Connector Extra Tall: https://a.co/d/21eQjdI
    - the 1x6 connector from the same Amazon kit will be used for JP102 on a companion board BOM
    - or Digikey part SSW-110-03-T-S-ND
@@ -149,7 +150,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - Alternative from Amazon: https://a.co/d/2SuiWnt 
  - JP501: 2x5 10-pin double row male pin header: https://a.co/d/dF83x28
    - cut 2x5 section from the strip.
- - 1x8Pos DIP Socket for U4 (Digikey part A120347-ND)
+ - SW1: PCB Mount Slide Switch THT Right angled (Digikey Part EG1917-ND)
  - RF_IN,RF_OUT: angled SMA connectors, PCB mountable: (Digikey part 931-1361-ND)
    - Alternative from Amazon: https://a.co/d/7zYzlCo
  - 1 x BN43-202 Binocular core for tandem match 
@@ -169,7 +170,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - 3x18650 Lithium Batteries. 18650BatteryStore.com part number INR18650-25R.
    - These are original Samsung 25R 18650 2500mAh 20A Batteries. Not problematic ones from Amazon and a such.
    - Alternative from Digikey, part number 1568-1488-ND
- - SW1: PCB Mount Slide Switch THT: https://a.co/d/ghhbBuE
+ - SW1: PCB Mount Slide Switch THT Right angled (Digikey Part EG1917-ND)
  - J1: 1x10 pin 2.54mm Male pin Header Connector Extra Tall: https://a.co/d/2l7o6wW
    - These are sold in a bulk, you will have to cut 1x10 out of it. Do not worry, we use some for the ATU Mount PCB as well.
  - JP102: 2x3 6pin 2.54mm connector, long needles: https://a.co/d/4Ca8vJi
