@@ -160,7 +160,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - 3 x T37-6 toroid core
  - 2 x T37-2 toroid core
  - 2 x T37-1 toroid core
-   - All toroid cores and BN43-202 binocular core can be outsourced from: https://kitsandparts.com/toroids.php
+   - All toroid cores and BN43-202 binocular core can be sourced from: https://kitsandparts.com/toroids.php
  - 0.50 mm / AWG24 enameled inductor wire: https://a.co/d/7Qasw5C
 
 ## Battery/Speaker PCB
