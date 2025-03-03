@@ -1,9 +1,20 @@
+<<<<<<< HEAD
 # ABS for QMX+ transceiver - V1.2
 ## (Integrated Automatic antenna tuner, internal battery with charger and speaker)
 
 QMX+ Battery Charger and ATU Companion Board             |  QMX+ ATU Mounting Board | Back of the Companion board | All-in-One QMX+ Field minimalistic config
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version1.2/Photos/IMG_1165.jpeg)  |  ![](https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version1.2/Photos/IMG_1161.jpeg)  |  ![](https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version1.2/Photos/IMG_1334.jpeg)  |  <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version1.2/Photos/IMG_1172.jpeg" width=120% height=30%>
+=======
+# ABS for QMX+ transceiver - V2
+## (Integrated Automatic antenna tuner, internal battery with charger and speaker)
+
+ABS ATU and Audio Amplifier Board             | ABS Battery Board | All-in-One QMX+ Field minimalistic config
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2/Photos/IMG_1554.jpeg)  |  ![](https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2/Photos/IMG_1413.jpeg)  |  <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2/Photos/IMG_1172.jpeg" width=120% height=30%>
+
+**This branch is for ABS ver 2. For ver.1.2 switch to version1.2 branch**
+>>>>>>> version2
 
 After Hans Summers (G0UPL) has released his <a href="http://qrp-labs.com/qmxp.html">QMX+ transeiver</a> - it quickly became popular both as a TRX and as a DIY development platform inviting projects like this.
 
@@ -24,7 +35,7 @@ Battery and charger mod is based on my <a href="https://github.com/AC8L/PSU-for-
 **Anyone who wants to commercialize and sell this solution as modules, semi kit or as a full kit are allowed to do so under these terms:**
 
 **- Commercial seller can not alter design and has to keep it in it’s original published form.</br>**
-**- Recognition of originators and designers AC8L and WB2CBA for their work on their site.**
+**- Recognition of originators and designers AC8L, WB2CBA and N7DDC for their work on their site.**
 
 Because of minimum batch of 5 for the PCB order plus shipment, project is very well suited for the group build or club projects. If anyone wants to make money out of it - you have my blessings and prayers for the success!
 
@@ -45,13 +56,17 @@ Since the inception of ABS back in August 2024 there have been active discussion
 
 **WARNING 2! Before you proceed with spending money and time, please take a note that the battery mod is compatible with QMX+ 12V build only!!! Do not use it with QMX+ built for 9V power supply, you will damage the rig!!!**
 
-1. Build <a href="http://qrp-labs.com/qmxp.html">QMX+</a> with following mods:
+1. Decide how you want to build the ABS ATU/Audio board:
+  a. Using SMA connectors;
+  b. Using coax jumper wires for QMX+ integration. 
+2. If you decided on option (a), ignore this step. Otehrwise for option (b) - build <a href="http://qrp-labs.com/qmxp.html">QMX+</a> with following mods:
    - Do not solder the jumper wire on JP501 as instructed on Rev2.00 build document's page 37! The ATU will play the role of that jumper wire.
    - Make sure to solder-in the 2-row 5-pin female connector into JP501.
    - Plug in a temporary jumper wire (breadboard prototyping wire is a good choice) into the female connector at JP501 at pins corresponding to a soldered jumper wire in the instruction document's page 37.
    - Thoroghly calibrate and test the QMX+ build according to the assembly manual. Making a couple of QSO's is a good idea.
    - Remove temporary jumper wire.
    - If QMX+ was already built and operational - carefully remove jumper wire on JP501, use suction tool to cleanup soldering pads and holes to prepare them for 2x5 female connector.     
+<<<<<<< HEAD
 2. Build ATU with <a href="https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/">instructions at the WB2CBA's page</a> with following mods:
    - Do not source and solder two BNC connectors.
    - Do not source and solder the fixed 100uH inductor L8.
@@ -89,6 +104,40 @@ I personally have a habit ordering PCB's from <a href="https://jlcpcb.com">JLCPC
 *- If you are ordering PCB's from JLCPCB - for front and rear panels select black PCB color.*
 
 *- If you are ordering PCB's from JLCPCB - for ALL the PCB's (except the ATU) - for the option of "Mark on PCB" - select "Order Number (Specify Position)".*
+=======
+3. Build ABS ATU/Audio board.
+4. Upload <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2/ATU-100_Custom_Firmware/ABS_for_QMX_Plus_1938_board_V2.1_fw_00.hex.zip">ATU custom firmware from this repository</a> into the PIC16F1938 using supplied programming ICSP connector on the ATU PCB.
+board)
+5. Front panel replacement. We have 2 options for the front panel replcement:
+   - Printing the replacement front panel on a 3D printer (budget option). STL files can be downloaded from <a href="ABS_Front_Panel_Mod_For_ATU/3D Prints/ABS Front Panel with ATU Control.stl">here.</a> PETG filament is recommended due to the outdoor exposure.
+   - Ordering the front panel from JLCPCB (most aesthetically appealing option). When ordered along with other PCB's - the front panel will add negligeable cost. Otherwise if ordered separately the shipping cost to US (about $20) is the most cosiderable portion of the total cost. There are two versions of the PCB front panel:
+     - with LED manually soldered from the back. Fabrication files are <a href="ABS_Front_Panel_Mod_For_ATU/PCB version THT v1.1/GERBER-ABS Front Panel Mod_THT_v1.1.zip">here</a>.
+     - with SMD LED factory-soldered on the front. Fabrication files are <a href="ABS_Front_Panel_Mod_For_ATU/PCB version SMD with LED v1.2/Fabrication_Files/">here</a>.
+6. Rear panel replacement. There are two versions of a rear panel replacement and each version has two options - 3D printed part or a PCB:
+   - If ATU is being built with SMA connectors:
+     - 3D printed <a href="ABS_Rear_Panel_Mod_For_Battery_V2/ABS Rear Panel Mod - SMA v2.2/3D Prints/ABS Rear Panel with Battery Slide Switch - V.2.2 - SMA.stl">variant</a>.
+     - PCB variant:  Fabrication files are <a href="ABS_Rear_Panel_Mod_For_Battery_V2/ABS Rear Panel Mod - SMA v2.2/GERBER-ABS Rear Panel Mod SMA_v2.2.zip">here</a>.
+   - If ATU is being built without SMA connectors (using internal coax jumper wires):
+     - 3D printed <a href="ABS_Rear_Panel_Mod_For_Battery_V2/ABS Rear Panel Mod - No SMA v2.2/3D Prints/ABS Back Panel with Battery Slide Switch - V.2.2 - NO SMA.stl">variant</a>.
+     - PCB variant:  Fabrication files are <a href="ABS_Rear_Panel_Mod_For_Battery_V2/ABS Rear Panel Mod - No SMA v2.2/GERBER-ABS Rear Panel Mod_v2.2_NO_SMA.zip">here</a>.
+
+6. Build <a href="ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5.2 - Front.jpg">ABS Battery and Speaker Board.</a> Keep power (battery) switch on the OFF position until the last moment before closing the enclosure top!
+7. Insert 18650 batteries and install Battery and Speaker board on top of the ATU board. Make sure battery power switch is still on OFF position!
+8. Insert QMX+ assembly with ABS solution installed into its enclosure, screw-in front and back panels of the enclosure.
+9. Switch Battery board's switch to the ON position.
+10. Carefully insert and screw-in QMX+ enclosure's top.
+
+# Ordering PCB's
+I personally have a habit ordering PCB's from <a href="https://jlcpcb.com">JLCPCB</a> (again, I am not associated with them!). For the convenience, all 3 PCB's can be ordered in one order.
+1. ATU and Audio amp PCB. Fabrication files are <a href="ABS_ATU_Audio_Amp_PCB/Fabrication Files">here</a>.
+2. Battery/Speaker PCB. Fabrication files are <a href="ABS_Battery_Speaker_PCB/GERBER-QMX_Plus_Battery_Board_v1.5.2.zip">here</a>.
+3. Order one of the versions of the front panel PCB (see fabrication links above).
+3. Order one of the versions of the rear panel PCB (see fabrication links above).
+
+*If you are ordering PCB's from JLCPCB:*
+ - for the front and rear panel PCBs from JLCPCB - select black PCB color.
+ - for all PCB orders make sure for the option of "Mark on PCB" - select "Order Number (Specify Position)".
+>>>>>>> version2
 
 # Group build manager (organizer)
 Usually in group builds it supoposed to be the responsibility of a group build manager to:
@@ -99,6 +148,7 @@ Usually in group builds it supoposed to be the responsibility of a group build m
 - Due to shipping restrictions, group build manager must not source and ship batteries, leaving their purchase for each individual participant.
 
 # Build configurations
+<<<<<<< HEAD
 There are various build configurations possible:
 1. All inclusive - ATU, battery, speaker.
 2. ATU only
@@ -111,6 +161,12 @@ There are various build configurations possible:
 - For configurations (3),(4) and (7) - you do not need to order the ATU.
 - For configurations (2),(4) and (6) - you do not need to order the real panel PCB.
 - For any non-complete configuration you can gradually add other components later on.
+=======
+There are two possible build configurations:
+1. All inclusive - ATU, battery, speaker (audio amplifier).
+2. ATU and speaker (audio amp) only.  
+- For configuration (2) you do not need to order the Battery and Speaker PCB. If you decide later that you want o add a battery board - you can do that. It is a non-destrcutive mod.
+>>>>>>> version2
 - Barb (WB2CBA) has <a href="https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/">detailed instructions on the ordering process from JLCPCB at the ATU link</a> for both "plain" PCB's and PCB's with SMD components populated. It will be difficuilt to add anything else to his writings.
 
 # Bill of Materials (BOM)
@@ -144,15 +200,13 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - JP106: one of 1x3 3-pin single row female connector: https://a.co/d/5E9IhZu
    - cut 3-pin module from the strip.
    - or from Digikey part S7001-ND
-## ATU
- - See https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/
- - Do not source and solther two BNC connectors
- - Do not source and solther the fixed 100uH inductor L8.
- - Do not source and solther male pin connectors to the ATU board. We will use different ones for our integration. 
- - two of 8-pin single row male pin header (Digikey part 664-G800W268018EU-ND)
-   - Alternative from Amazon: https://a.co/d/2SuiWnt
-   - just cut two 8-pin sections from the strip.
-## ATU Mounting PCB
+
+## ATU / Audio Amp PCB
+<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2/ABS_ATU_Audio_Amp_PCB/ABS_ATU_Audio_Amp_PCB_v2.0- Front with Components Assembled 3D.png" width=50% height=50%>
+<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2/ABS_ATU_Audio_Amp_PCB/ABS_ATU_Audio_Amp_PCB_v2.0- Back.jpg" width=50% height=50%>
+
+ - U4: LM386N-4 Operational amplifier (Digikey part 296-43960-5-ND)
+ - 1x8Pos DIP Socket for U4 (Digikey part A120347-ND)
  - J1: 1x10 pin 2.54mm Female pin Header Connector Extra Tall: https://a.co/d/21eQjdI
    - the 1x6 connector from the same Amazon kit will be used for JP102 on a companion board BOM
    - or Digikey part SSW-110-03-T-S-ND
@@ -168,6 +222,7 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - Alternative from Amazon: https://a.co/d/2SuiWnt 
  - JP501: 2x5 10-pin double row male pin header: https://a.co/d/dF83x28
    - cut 2x5 section from the strip.
+<<<<<<< HEAD
 ## Companion PCB
  - U1: ATMEGA328P-PU (Digikey part ATMEGA328P-PU-ND)
    - For Digikey part you will have to burn the Arduino bootloader. Instructions: https://www.youtube.com/watch?v=AwbcOT2z69k
@@ -176,11 +231,30 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - U2,U6: CD4066BE bilateral switch (Digikey part 296-2061-5-ND)
  - U3: LM386N-4 Operational amplifier (Digikey part 296-43960-5-ND)
  - U4,U5,U7 - 18650 battery holder (THT) (Digikey part 36-1043-ND) 
+=======
+ - SW1: PCB Mount Slide Switch THT Right angled (Digikey Part EG1917-ND)
+ - RF_IN,RF_OUT: angled SMA connectors, PCB mountable: (Digikey part 931-1361-ND)
+   - Alternative from Amazon: https://a.co/d/7zYzlCo
+ - 1 x BN43-202 Binocular core for tandem match 
+ - 3 x T37-6 toroid core
+ - 2 x T37-2 toroid core
+ - 2 x T37-1 toroid core
+   - All toroid cores and BN43-202 binocular core can be sourced from: https://kitsandparts.com/toroids.php
+ - 0.50 mm / AWG24 enameled inductor wire: https://a.co/d/7Qasw5C
+ - PIC ICSP programming header: 5 Position Header Connector (Digikey part: S5480-ND)
+
+## Battery/Speaker PCB
+<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2/ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5.2 - Front.jpg" width=50% height=50%>
+<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2/ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5.2 - Back.jpg" width=50% height=50%>
+
+ - U4, U5, U7 - 18650 battery holder (THT) (Digikey part 36-1043-ND)
+>>>>>>> version2
  - U8: 1xBMS battery charger/protection board https://a.co/d/gX6wQ45
    - Sometimes one vendor is unavailable, other comes in. But these parts are generally are always available. Make sure to source 3S 40A 12.6V model!
  - 3x18650 Lithium Batteries. 18650BatteryStore.com part number INR18650-25R.
    - These are original Samsung 25R 18650 2500mAh 20A Batteries. Not problematic ones from Amazon and a such.
    - Alternative from Digikey, part number 1568-1488-ND
+<<<<<<< HEAD
  - D1 3mm LED (Digikey part 732-5008-ND)
    - Feel free choising different colors.
  - R1,R2: 3K THT Resistor (Digikey part 13-MFR-25FRF52-3KTR-ND)
@@ -195,6 +269,8 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - 1x28Pos DIP Socket for U1 (Digikey part A120353-ND). If you bought ATMEGA from Amazon with socket included - you do not need this.
  - 2x14Pos DIP Socket for U2 and U6 (Digikey part AE9989-ND)
  - 1x8Pos DIP Socket for U3 (Digikey part A120347-ND)
+=======
+>>>>>>> version2
  - SW1: PCB Mount Slide Switch THT Right angled (Digikey Part EG1917-ND)
  - J1: 1x10 pin 2.54mm Male pin Header Connector Extra Tall: https://a.co/d/2l7o6wW
    - These are sold in a bulk, you will have to cut 1x10 out of it. Do not worry, we use some for the ATU Mount PCB as well.
@@ -208,7 +284,13 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - LS1: Speaker 2W 8Ohm 28mm: https://a.co/d/bBaHMG7
    - or Digikey part 102-3850-ND
  - Power supply/charger for batteries: https://a.co/d/hriKC1F
+<<<<<<< HEAD
    - It is very important to use this recommended power supply for the best charging experience and from the safety perspective!  
+=======
+   - It is very important to use this recommended power supply for the best charging experience and from the safety perspective! The BMS module used in battery board is not a charger. Its purpose is to manage balanced battery charge and discharge.
+ - U1: Mini-Voltmeter: https://a.co/d/epVwKYk
+
+>>>>>>> version2
  ## Front Panel
  - SW1:  Digikey part 2223-TS02-66-60-BK-160-LCR-D-ND
  - D1: 3mm LED (Digikey part 732-5008-ND)
@@ -219,7 +301,11 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
 
 ## Digikey part list
 For the ordering convenience, below is the part list from Digkey for one build. List contains the vast majority of parts that can be sourced from Digikey except for some minor parts, like few pin headers and BMS battery charger.
+<<<<<<< HEAD
 https://www.digikey.com/en/mylists/list/7D3XLG5MMR
+=======
+https://www.digikey.com/en/mylists/list/WN7WP7HZ7G
+>>>>>>> version2
 
 ## Alternative US sourcing option
 If you are located in US,  prefer brick & mortar style shopping and in addition are lucky enough to live near one of many <a href="https://www.microcenter.com">Microcenter</a> stores - it carries many if not all parts in the part list either individualy or in a variety of sets. Look at the Maker section of the store, prices are lower or competitve to Amazon. It may be worth paying a visit to the store, if not for the parts, but to replenish the <a href="https://www.bawls.com">BAWLS</a> stock for sure :smile:
@@ -245,6 +331,7 @@ If you are located in US,  prefer brick & mortar style shopping and in addition 
  - Grand Total per 1 build: 30$ max.
 
 # Detailed Build Instructions
+<<<<<<< HEAD
 Can be found <a href="ABS_for_QMX_Plus_Assembly_Instructions_v1.2.pdf">here.</a>
 
 # Alternative documentation by Stan (KC7XE)
@@ -278,3 +365,32 @@ Can be found <a href="ABS_for_QMX_Plus_Assembly_Instructions_v1.2.pdf">here.</a>
 - Implement band switching for external amps through AUX port.
 - Utilize upcoming BASIC script functionality in QMX+ to read SWR values from QMX+ itself and control ATU relays. Simplify ATU design by eliminating a transformer and Stockton bridge.
 - Convert ATU design to use latched relays.
+=======
+Can be found <a href="ABS_for_QMX_Plus_Assembly_Instructions_v2.0.pdf">here.</a>
+
+# ABS V2.0 Release notes
+## ABS ATU PCB
+ - Combined ATU and ATU Mount PCB into a single ABS ATU PCB with all SMD components
+ - ATU Schematic improved by eliminating an ATMEGA MCU
+ - 6-layer ATU PCB with better signal isolation and RFI reduction
+ - Simplified assembly process. ATU requires only toroid windings and few connector soldering
+ - Added a capability of using SMA connectors for QMX+ integration
+ - Improved performance on 6m and 10m bands
+ - Audio amplifier circuit was integrated into the ATU PCB.
+ - Audio amplifier schematic was imprioved resulting in a better sound 
+ - Audio aplifier is powered through 12V rail improving dynamic range and reducing the noise
+## ABS Battery/Speaker PCB
+ - Fully redesigned alloowing the use of a standard 11mm clearnce between ATU and Battery PCB
+ - Standard length pin headers and female sockets used in the design simplifying the build process
+ - Added an on-board voltmeter
+ ## Front Panel Modification
+ - Increased pad sizes for control button and front LED wire connection easing the soldering.
+ ## Rear panel
+ - Redesigned to accomodate SMA connectors and voltmeter controls.
+
+# Known issues
+ - ATU-100 design used for the ABS underperforms on 6m band. If using an ATU on a 6m band is absolutely important for you - build the ATU with SMA connectors. This way when using 6m - ATU can be unplugged from QMX+. Then you can either use a resonant antenna or look for a commercial ATU solution.
+
+# Some future work:
+- Design ATU based on Dave's (N7DDC) ATU-10 schematic using latching relays.
+>>>>>>> version2
