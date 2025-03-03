@@ -3,7 +3,7 @@
 
 ABS ATU and Audio Amplifier Board             | ABS Battery Board | All-in-One QMX+ Field minimalistic config
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/Photos/IMG_1554.jpeg)  |  ![](https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/Photos/IMG_1413.jpeg)  |  <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/Photos/IMG_1172.jpeg" width=120% height=30%>
+![](https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2/Photos/IMG_1554.jpeg)  |  ![](https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2/Photos/IMG_1413.jpeg)  |  <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2/Photos/IMG_1172.jpeg" width=120% height=30%>
 
 **This branch is for ABS ver 2. For ver.1.2 switch to version1.2 branch**
 
@@ -53,7 +53,7 @@ AC8L@ARRL.NET
    - Remove temporary jumper wire.
    - If QMX+ was already built and operational - carefully remove jumper wire on JP501, use suction tool to cleanup soldering pads and holes to prepare them for 2x5 female connector.     
 3. Build ABS ATU/Audio board.
-4. Upload <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ATU-100_Custom_Firmware/ABS_for_QMX_Plus_1938_board_V2.1_fw_00.hex.zip">ATU custom firmware from this repository</a> into the PIC16F1938 using supplied programming ICSP connector on the ATU PCB.
+4. Upload <a href="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2/ATU-100_Custom_Firmware/ABS_for_QMX_Plus_1938_board_V2.1_fw_00.hex.zip">ATU custom firmware from this repository</a> into the PIC16F1938 using supplied programming ICSP connector on the ATU PCB.
 board)
 5. Front panel replacement. We have 2 options for the front panel replcement:
    - Printing the replacement front panel on a 3D printer (budget option). STL files can be downloaded from <a href="ABS_Front_Panel_Mod_For_ATU/3D Prints/ABS Front Panel with ATU Control.stl">here.</a> PETG filament is recommended due to the outdoor exposure.
@@ -133,8 +133,8 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - or from Digikey part S7001-ND
 
 ## ATU / Audio Amp PCB
-<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_ATU_Audio_Amp_PCB/ABS_ATU_Audio_Amp_PCB_v2.0- Front with Components Assembled 3D.png" width=50% height=50%>
-<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_ATU_Audio_Amp_PCB/ABS_ATU_Audio_Amp_PCB_v2.0- Back.jpg" width=50% height=50%>
+<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2/ABS_ATU_Audio_Amp_PCB/ABS_ATU_Audio_Amp_PCB_v2.0- Front with Components Assembled 3D.png" width=50% height=50%>
+<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2/ABS_ATU_Audio_Amp_PCB/ABS_ATU_Audio_Amp_PCB_v2.0- Back.jpg" width=50% height=50%>
 
  - U4: LM386N-4 Operational amplifier (Digikey part 296-43960-5-ND)
  - 1x8Pos DIP Socket for U4 (Digikey part A120347-ND)
@@ -165,8 +165,8 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
  - PIC ICSP programming header: 5 Position Header Connector (Digikey part: S5480-ND)
 
 ## Battery/Speaker PCB
-<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5.2 - Front.jpg" width=50% height=50%>
-<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5.2 - Back.jpg" width=50% height=50%>
+<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2/ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5.2 - Front.jpg" width=50% height=50%>
+<img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2/ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5.2 - Back.jpg" width=50% height=50%>
 
  - U4, U5, U7 - 18650 battery holder (THT) (Digikey part 36-1043-ND)
  - U8: 1xBMS battery charger/protection board https://a.co/d/gX6wQ45
