@@ -224,7 +224,7 @@ If you are located in US,  prefer brick & mortar style shopping and in addition 
  - Grand Total per 1 build: 30$ max.
 
 # Detailed Build Instructions
-(Work in progress)
+Can be found <a href="ABS_for_QMX_Plus_Assembly_Instructions_v2.0.pdf">here.</a>
 
 # Known issues
  - ATU-100 design used for the ABS underperforms on 6m band. If using an ATU on a 6m band is absolutely important for you - build the ATU with SMA connectors. This way when using 6m - ATU can be unplugged from QMX+. Then you can either use a resonant antenna or look for a commercial ATU solution.
