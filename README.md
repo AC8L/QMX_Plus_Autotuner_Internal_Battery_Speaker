@@ -38,6 +38,10 @@ Sardar - AC8L, 4K6SA, VA3DUA.</br>
 Vienna, VA 10/13/2024</br>
 AC8L@ARRL.NET
 
+### Notes for the ABS v2 release
+
+Version 2 has incorporated many of useful feedback provided through the feedback of a first group buy organized by Cal (AD8Q) and Stan (KC7XE) and is actively discussed on QRP Labs groups.io forum.
+
 # Build steps at a glance
 
 **WARNING! Before you proceed with spending money and time, please take a note that the battery mod is compatible with QMX+ 12V build only!!! Do not use it with QMX+ built for 9V power supply, you will damage the rig!!!**
