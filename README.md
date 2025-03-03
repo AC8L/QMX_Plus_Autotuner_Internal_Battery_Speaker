@@ -226,6 +226,26 @@ If you are located in US,  prefer brick & mortar style shopping and in addition 
 # Detailed Build Instructions
 Can be found <a href="ABS_for_QMX_Plus_Assembly_Instructions_v2.0.pdf">here.</a>
 
+# ABS V2.0 Release notes
+## ABS ATU PCB
+ - Combined ATU and ATU Mount PCB into a single ABS ATU PCB with all SMD components
+ - ATU Schematic improved by eliminating an ATMEGA MCU
+ - 6-layer ATU PCB with better signal isolation and RFI reduction
+ - Simplified assembly process. ATU requires only toroid windings and few connector soldering
+ - Added a capability of using SMA connectors for QMX+ integration
+ - Improved performance on 6m and 10m bands
+ - Audio amplifier circuit was integrated into the ATU PCB.
+ - Audio amplifier schematic was imprioved resulting in a better sound 
+ - Audio aplifier is powered through 12V rail improving dynamic range and reducing the noise
+## ABS Battery/Speaker PCB
+ - Fully redesigned alloowing the use of a standard 11mm clearnce between ATU and Battery PCB
+ - Standard length pin headers and female sockets used in the design simplifying the build process
+ - Added an on-board voltmeter
+ ## Front Panel Modification
+ - Increased pad sizes for control button and front LED wire connection easing the soldering.
+ ## Rear panel
+ - Redesigned to accomodate SMA connectors and voltmeter controls.
+
 # Known issues
  - ATU-100 design used for the ABS underperforms on 6m band. If using an ATU on a 6m band is absolutely important for you - build the ATU with SMA connectors. This way when using 6m - ATU can be unplugged from QMX+. Then you can either use a resonant antenna or look for a commercial ATU solution.
 
