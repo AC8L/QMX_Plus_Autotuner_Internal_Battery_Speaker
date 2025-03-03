@@ -1,11 +1,11 @@
-# ABS for QMX+ transceiver - V2 (beta)
+# ABS for QMX+ transceiver - V2
 ## (Integrated Automatic antenna tuner, internal battery with charger and speaker)
 
 ABS ATU and Audio Amplifier Board             | ABS Battery Board | All-in-One QMX+ Field minimalistic config
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/Photos/IMG_1554.jpeg)  |  ![](https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/Photos/IMG_1413.jpeg)  |  <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2-beta/Photos/IMG_1172.jpeg" width=120% height=30%>
 
-**This branch is for ver 2 of a solution. It is beta, work is still in progress. For the latest stable release use main branch!**
+**This branch is for ABS ver 2. For ver.1.2 switch to version1.2 branch**
 
 After Hans Summers (G0UPL) has released his <a href="http://qrp-labs.com/qmxp.html">QMX+ transeiver</a> - it quickly became popular both as a TRX and as a DIY development platform inviting projects like this.
 
