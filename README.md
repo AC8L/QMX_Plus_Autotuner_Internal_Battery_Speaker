@@ -167,6 +167,8 @@ I am using USA suppliers, other regions have better suppliers for BOM sourcing.
    - All toroid cores and BN43-202 binocular core can be sourced from: https://kitsandparts.com/toroids.php
  - 0.50 mm / AWG24 enameled inductor wire: https://a.co/d/7Qasw5C
  - PIC ICSP programming header: 5 Position Header Connector (Digikey part: S5480-ND)
+ - 2 x SMA to BNC adapter: https://a.co/d/29J1TEH
+ - 1 x BNC Male to Male jumper cable: https://a.co/d/121di1X 
 
 ## Battery/Speaker PCB
 <img src="https://github.com/AC8L/QMX_Plus_Autotuner_Internal_Battery_Speaker/blob/version2/ABS_Battery_Speaker_PCB/ABS_Battery_Board_v1.5.2 - Front.jpg" width=50% height=50%>
