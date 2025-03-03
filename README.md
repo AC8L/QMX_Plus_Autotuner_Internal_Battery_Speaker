@@ -40,7 +40,7 @@ AC8L@ARRL.NET
 
 ### Notes for the ABS v2 release
 
-Version 2 has incorporated many of useful feedback provided through the feedback of a first group buy organized by Cal (AD8Q) and Stan (KC7XE) and is actively discussed on QRP Labs groups.io forum.
+Version 2 has incorporated many of useful feedback provided by participants of a first group buy organized by Cal (AD8Q) and Stan (KC7XE) and is actively discussed on QRP Labs groups.io forum.
 
 # Build steps at a glance
 
