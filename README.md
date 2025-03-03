@@ -79,11 +79,11 @@ board)
 10. Carefully insert and screw-in QMX+ enclosure's top.
 
 # Ordering PCB's
-I personally have a habit ordering PCB's from <a href="https://jlcpcb.com">JLCPCB</a> (again, I am not associated with them!). For the convenience, all 3 PCB's can be ordered in one order.
+I personally have a habit ordering PCB's from <a href="https://jlcpcb.com">JLCPCB</a> (again, I am not associated with them!). For the convenience, all 4 PCB's can be ordered in one order.
 1. ATU and Audio amp PCB. Fabrication files are <a href="ABS_ATU_Audio_Amp_PCB/Fabrication Files">here</a>.
 2. Battery/Speaker PCB. Fabrication files are <a href="ABS_Battery_Speaker_PCB/GERBER-QMX_Plus_Battery_Board_v1.5.2.zip">here</a>.
 3. Order one of the versions of the front panel PCB (see fabrication links above).
-3. Order one of the versions of the rear panel PCB (see fabrication links above).
+4. Order one of the versions of the rear panel PCB (see fabrication links above).
 
 *If you are ordering PCB's from JLCPCB:*
  - for the front and rear panel PCBs from JLCPCB - select black PCB color.
@@ -93,8 +93,7 @@ I personally have a habit ordering PCB's from <a href="https://jlcpcb.com">JLCPC
 Usually in group builds it supoposed to be the responsibility of a group build manager to:
 1. Order PCB's.
 2. Assemble kit bags.
-3. Burn Arduino bootloader and load the sketch from this repo into it.
-4. Upload the ATU firmware from this repo into the PIC16F1938 microcontroller.
+3. Upload the ATU firmware from this repo into the PIC16F1938 microcontroller.
 - Due to shipping restrictions, group build manager must not source and ship batteries, leaving their purchase for each individual participant.
 
 # Build configurations
