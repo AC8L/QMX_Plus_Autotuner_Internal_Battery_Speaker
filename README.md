@@ -80,6 +80,9 @@ board)
 
 # Ordering PCB's
 I personally have a habit ordering PCB's from <a href="https://jlcpcb.com">JLCPCB</a> (again, I am not associated with them!). For the convenience, all 4 PCB's can be ordered in one order.
+
+- Barb (WB2CBA) has <a href="https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/">detailed instructions on the ordering process from JLCPCB at the ATU link</a> for both "plain" PCB's and PCB's with SMD components populated. Use his instructions with following considerations:
+
 1. ATU and Audio amp PCB. Fabrication files are <a href="ABS_ATU_Audio_Amp_PCB/Fabrication Files">here</a>.
 2. Battery/Speaker PCB. Fabrication files are <a href="ABS_Battery_Speaker_PCB/GERBER-QMX_Plus_Battery_Board_v1.5.2.zip">here</a>.
 3. Order one of the versions of the front panel PCB (see fabrication links above).
@@ -101,7 +104,6 @@ There are two possible build configurations:
 1. All inclusive - ATU, battery, speaker (audio amplifier).
 2. ATU and speaker (audio amp) only.  
 - For configuration (2) you do not need to order the Battery and Speaker PCB. If you decide later that you want o add a battery board - you can do that. It is a non-destrcutive mod.
-- Barb (WB2CBA) has <a href="https://antrak.org.tr/blog/usdx-sota-modular-all-mode-sdr-hf-transceiver-for-qrp-operations/">detailed instructions on the ordering process from JLCPCB at the ATU link</a> for both "plain" PCB's and PCB's with SMD components populated. It will be difficuilt to add anything else to his writings.
 
 # Bill of Materials (BOM)
 Discalimer: I am not associated with any supplier and do not receive any monetary or other benefit from referring to their products!
