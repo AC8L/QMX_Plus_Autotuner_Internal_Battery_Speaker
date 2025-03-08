@@ -209,24 +209,17 @@ https://www.digikey.com/en/mylists/list/WN7WP7HZ7G
 If you are located in US,  prefer brick & mortar style shopping and in addition are lucky enough to live near one of many <a href="https://www.microcenter.com">Microcenter</a> stores - it carries many if not all parts in the part list either individualy or in a variety of sets. Look at the Maker section of the store, prices are lower or competitve to Amazon. It may be worth paying a visit to the store, if not for the parts, but to replenish the <a href="https://www.bawls.com">BAWLS</a> stock for sure :smile:
 
 ## Approximate cost estimate 
- Below is a rough estimate (with most pessimistic unoptimized assumption) for few configurations based on 10/13/24 simulation of JLPCB ordering plus US shipment and, Digikey part list cost. Estimation is based on a minimum batch of 5 PCB order and can be significantly lower with higer batch size. With current inflation rates next year this info will be well outdated.
-### All Inclusive
- - ATU: $115 per 5
- - ATU Mount PCB: $8.40 per 5
- - ATU Companion PCB: $8.40 per 5
- - shipment to US: $42
- - Total per 5 PCB of each and shipment: $174
- - Total per set of 3 PCB's of each type: 174/5 = approx. $35 
- - Total other parts per 1 build: approx 60$ + shipment.
- - Grand Total per 1 build: $105 max.
-### Battery only
- - ATU Mount PCB: $8.40 per 5
- - ATU Companion PCB: $8.40 per 5
- - shipment to US: $26
- - Total per 5 PCB of each and shipment: $43
- - Total per set of 3 PCB's of each type: 43/5 = approx. $8.60 
- - Total other parts per 1 build: approx 15-20$.
- - Grand Total per 1 build: 30$ max.
+ Below is a rough estimate (with most pessimistic unoptimized assumption) for few configurations based on March,8, 2025 simulation of JLCPCB ordering plus US shipment and, Digikey part list cost. Estimation is based on a minimum batch of 5 PCB order and can be significantly lower with higer batch size and occasionally available coupons. With current inflation rates and tariff inconsistencies in a few months these estimates might be well outdated.
+ - ATU/Audio PCB: $208 per 5
+ - Battery/Speaker PCB: $10 per 5
+ - Front Panel with SMD LED: $20
+ - Rear Panel PCB: $7
+ - Shipment to US: $38
+ - Tax: 16$
+ - Total per 5 PCB of each and shipment: $284
+ - Total per set of 4 PCB's of each type: 284/5 = approx. $57 
+ - Total other parts per 1 build: approx $54 + shipment.
+ - Grand Total per 1 build: $111 max.
 
 # Detailed Build Instructions
 Can be found <a href="ABS_for_QMX_Plus_Assembly_Instructions_v2.0.pdf">here.</a>
@@ -236,14 +229,15 @@ Can be found <a href="ABS_for_QMX_Plus_Assembly_Instructions_v2.0.pdf">here.</a>
  - Combined ATU and ATU Mount PCB into a single ABS ATU PCB with all SMD components
  - ATU Schematic improved by eliminating an ATMEGA MCU
  - 6-layer ATU PCB with better signal isolation and RFI reduction
- - Simplified assembly process. ATU requires only toroid windings and few connector soldering
+ - Simplified assembly process. ATU requires only inductor windings and few connector soldering
  - Added a capability of using SMA connectors for QMX+ integration
+ - Portion of Stockton bridge elements moved closer to the MCU to improve the quality of analog forward and reverse power signals
  - Improved performance on 6m and 10m bands
- - Audio amplifier circuit was integrated into the ATU PCB.
+ - Audio amplifier circuit was integrated into the ATU PCB
  - Audio amplifier schematic was imprioved resulting in a better sound 
  - Audio aplifier is powered through 12V rail improving dynamic range and reducing the noise
 ## ABS Battery/Speaker PCB
- - Fully redesigned alloowing the use of a standard 11mm clearnce between ATU and Battery PCB
+ - Fully redesigned allowing the use of a standard 11mm clearnce between ATU and Battery PCB
  - Standard length pin headers and female sockets used in the design simplifying the build process
  - Added an on-board voltmeter
  ## Front Panel Modification
