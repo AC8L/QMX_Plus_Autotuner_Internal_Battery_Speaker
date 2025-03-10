@@ -228,16 +228,18 @@ Can be found <a href="ABS_for_QMX_Plus_Assembly_Instructions_v2.0.pdf">here.</a>
 
 # ABS V2.0 Release notes
 ## ABS ATU PCB
- - Combined ATU and ATU Mount PCB into a single ABS ATU PCB with all SMD components
  - ATU Schematic improved by eliminating an ATMEGA MCU
  - 6-layer ATU PCB with better signal isolation and RFI reduction
  - Simplified assembly process. ATU requires only inductor windings and few connector soldering
  - Added a capability of using SMA connectors for QMX+ integration
  - Portion of Stockton bridge elements moved closer to the MCU to improve the quality of analog forward and reverse power measurement signals
- - Improved performance on 6m and 10m bands
+ - Improved SWR on 6m and 10m bands
+## ABS Audio Amplifier/Speaker circuit
+ - Combined ATU and ATU Mount PCB into a single ABS ATU PCB with all SMD components
  - Audio amplifier circuit was integrated into the ATU PCB
  - Audio amplifier schematic was imprioved resulting in a better sound 
  - Audio aplifier is powered through 12V rail improving dynamic range and noise reduction
+ - Speaker matching circuit accomodates 4, 8 and 16 Ohm speakers
 ## ABS Battery/Speaker PCB
  - Fully redesigned allowing the use of a standard 11mm clearnce between ATU and Battery PCB
  - Standard length pin headers and female sockets used in the design simplifying the build process
